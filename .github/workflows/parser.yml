@@ -1,0 +1,36 @@
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: goofish-parser-run
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Restore login session
+        run: echo "${{ secrets.STATE_JSON_B64 }}" | base64 -d > state.json
+      - run: python parser.py
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      - name: Save seen.json back to repo
+        run: |
+          rm -f state.json
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "Update seen items [skip ci]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin master && git push && break
+            sleep 5
+          done
