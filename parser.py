@@ -3,23 +3,26 @@ import os
 import subprocess
 import time
 
+import requests
 import telebot
 
 TG_BOT_TOKEN = os.environ["TG_BOT_TOKEN"]
-TG_CHAT_ID = os.environ["TG_CHAT_ID"]
-STATE_FILE = "state.json"  # логин-сессия xianyu-cli
+WORKER_URL = os.environ["WORKER_URL"]
+API_SECRET = os.environ["API_SECRET"]
+STATE_FILE = "state.json"
 SEEN_FILE = "seen.json"
 
 bot = telebot.TeleBot(TG_BOT_TOKEN)
 
-# Бренды/ключевые слова для мониторинга на Goofish (личное использование)
+# Полный список ключевых слов для поиска на Goofish (объединение всех подписчиков)
 KEYWORDS = [
-    "undercover",
-    "number nine",
-    "rick owens",
-    "raf simons",
-    "undercoverism",
-    # добавляй свои
+    "undercover", "number nine", "hysteric glamour", "rick owens", "raf simons",
+    "jeremy scott", "walter van beirendonck", "424", "gucci", "prada",
+    "helmut lang", "moschino", "junya watanabe", "diesel", "balmain", "ppfm",
+    "tornado mart", "vivienne westwood", "c2h4", "undercoverism",
+    "maison margiela", "yohji yamamoto", "y-3", "rick owens drkshdw",
+    "boris bidjan saberi", "carol christian poell", "kiko kostadinov",
+    "issey miyake", "junya watanabe man", "comme des garcons",
 ]
 
 DELAY_BETWEEN_KEYWORDS = 5
@@ -35,6 +38,16 @@ def load_seen():
 def save_seen(seen):
     with open(SEEN_FILE, "w") as f:
         json.dump(list(seen), f)
+
+
+def get_subscribers():
+    try:
+        r = requests.get(f"{WORKER_URL}/subscribers", headers={"X-API-Key": API_SECRET}, timeout=15)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        print(f"Не удалось получить подписчиков: {e}")
+        return []
 
 
 def search_keyword(keyword):
@@ -57,7 +70,36 @@ def search_keyword(keyword):
         return []
 
 
-def notify(item, keyword):
+def matches(item, sub):
+    price = item.get("price", 0)
+    name_lower = (item.get("title") or "").lower()
+    keyword = item["keyword"]
+
+    brands = [b.lower() for b in sub.get("brands", [])]
+    if not brands:
+        return False
+
+    matched_brand = None
+    for b in brands:
+        if b in keyword or b in name_lower:
+            matched_brand = b
+            break
+    if matched_brand is None:
+        return False
+
+    brand_prices = sub.get("brand_prices") or {}
+    price_range = brand_prices.get(matched_brand)
+    if price_range is None:
+        price_range = sub.get("global_price")
+
+    if price_range:
+        if price < price_range.get("min", 0) or price > price_range.get("max", 9999999):
+            return False
+
+    return True
+
+
+def notify(chat_id, item, keyword):
     text = (
         f"🆕 Новый товар на Goofish!\n\n"
         f"*{item.get('title', '')}*\n"
@@ -66,15 +108,15 @@ def notify(item, keyword):
         f"🔗 [Открыть]({item.get('link', '')})"
     )
     try:
-        bot.send_message(int(TG_CHAT_ID), text, parse_mode="Markdown")
+        bot.send_message(int(chat_id), text, parse_mode="Markdown")
     except Exception as e:
-        print(f"Не удалось отправить: {e}")
+        print(f"Не удалось отправить {chat_id}: {e}")
 
 
 def main():
     seen = load_seen()
     first_run = len(seen) == 0
-    new_count = 0
+    new_items = []
 
     for keyword in KEYWORDS:
         items = search_keyword(keyword)
@@ -83,16 +125,28 @@ def main():
             if item_id and item_id not in seen:
                 seen.add(item_id)
                 if not first_run:
-                    notify(item, keyword)
-                    new_count += 1
-                    time.sleep(1)
+                    new_items.append({
+                        "id": item_id,
+                        "title": item.get("title", ""),
+                        "price": item.get("price", 0),
+                        "link": item.get("link", ""),
+                        "keyword": keyword.lower(),
+                    })
         time.sleep(DELAY_BETWEEN_KEYWORDS)
 
     save_seen(seen)
     if first_run:
         print(f"Первый запуск: сохранено {len(seen)} товаров как уже виденные.")
-    else:
-        print(f"Найдено новых: {new_count}")
+        return
+
+    subs = get_subscribers()
+    print(f"Найдено новых: {len(new_items)}, подписчиков: {len(subs)}")
+
+    for item in new_items:
+        for sub in subs:
+            if matches(item, sub):
+                notify(sub["chat_id"], item, item["keyword"])
+                time.sleep(1)
 
 
 if __name__ == "__main__":

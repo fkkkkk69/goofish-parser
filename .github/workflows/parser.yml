@@ -22,7 +22,8 @@ jobs:
       - run: python parser.py
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          API_SECRET: ${{ secrets.API_SECRET }}
       - name: Save seen.json back to repo
         run: |
           rm -f state.json
@@ -34,4 +35,3 @@ jobs:
             git pull --rebase origin master && git push && break
             sleep 5
           done
-# trigger registration
