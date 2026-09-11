@@ -71,7 +71,11 @@ def search_keyword(keyword):
 
 
 def matches(item, sub):
-    price = item.get("price", 0)
+    raw_price = item.get("price", 0)
+    try:
+        price = float(str(raw_price).replace(",", "").strip())
+    except (ValueError, TypeError):
+        price = 0
     name_lower = (item.get("title") or "").lower()
     keyword = item["keyword"]
 
