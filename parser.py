@@ -137,7 +137,7 @@ KEYWORDS = [
     "if six was nine",
 ]
 
-MAX_WORKERS = 5  # Параллельный поиск вместо последовательного (было DELAY_BETWEEN_KEYWORDS=5 сек между брендами)
+MAX_WORKERS = 3  # Параллельный поиск вместо последовательного (было DELAY_BETWEEN_KEYWORDS=5 сек между брендами)
 
 
 def load_seen():
