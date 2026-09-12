@@ -2,6 +2,7 @@ import json
 import os
 import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 import telebot
@@ -136,7 +137,7 @@ KEYWORDS = [
     "if six was nine",
 ]
 
-DELAY_BETWEEN_KEYWORDS = 5
+MAX_WORKERS = 5  # Параллельный поиск вместо последовательного (было DELAY_BETWEEN_KEYWORDS=5 сек между брендами)
 
 
 def load_seen():
@@ -233,21 +234,27 @@ def main():
     first_run = len(seen) == 0
     new_items = []
 
-    for keyword in KEYWORDS:
-        items = search_keyword(keyword)
-        for item in items:
-            item_id = item.get("item_id")
-            if item_id and item_id not in seen:
-                seen.add(item_id)
-                if not first_run:
-                    new_items.append({
-                        "id": item_id,
-                        "title": item.get("title", ""),
-                        "price": item.get("price", 0),
-                        "link": item.get("link", ""),
-                        "keyword": keyword.lower(),
-                    })
-        time.sleep(DELAY_BETWEEN_KEYWORDS)
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_keyword = {executor.submit(search_keyword, kw): kw for kw in KEYWORDS}
+        for future in as_completed(future_to_keyword):
+            keyword = future_to_keyword[future]
+            try:
+                items = future.result()
+            except Exception as e:
+                print(f"Ошибка потока для '{keyword}': {e}")
+                items = []
+            for item in items:
+                item_id = item.get("item_id")
+                if item_id and item_id not in seen:
+                    seen.add(item_id)
+                    if not first_run:
+                        new_items.append({
+                            "id": item_id,
+                            "title": item.get("title", ""),
+                            "price": item.get("price", 0),
+                            "link": item.get("link", ""),
+                            "keyword": keyword.lower(),
+                        })
 
     save_seen(seen)
     if first_run:
