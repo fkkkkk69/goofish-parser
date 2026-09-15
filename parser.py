@@ -197,7 +197,7 @@ def matches(item, sub):
 
     matched_brand = None
     for b in brands:
-        if b in keyword or b in name_lower:
+        if b in keyword:  # проверяем только поисковый запрос, не текст объявления — там часто спам-теги со всеми брендами разом
             matched_brand = b
             break
     if matched_brand is None:
