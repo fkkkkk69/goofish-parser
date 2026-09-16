@@ -252,7 +252,7 @@ def main():
                             "id": item_id,
                             "title": item.get("title", ""),
                             "price": item.get("price", 0),
-                            "link": item.get("link", ""),
+                            "link": f"https://fleamarket.taobao.com/npc/itemDetail.html?id={item_id}",  # формат ссылки, который открывается в приложении Xianyu, а не в браузере
                             "keyword": keyword.lower(),
                         })
 
