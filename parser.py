@@ -162,6 +162,18 @@ def get_subscribers():
         return []
 
 
+import re as _re
+
+def extract_item_id(item):
+    """Достаём настоящий id товара из оригинальной ссылки goofish.com,
+    а не из поля item_id (оно может не совпадать с id в URL)."""
+    link = item.get("link", "")
+    m = _re.search(r'[?&]id=(\d+)', link)
+    if m:
+        return m.group(1)
+    return item.get("item_id")
+
+
 def search_keyword(keyword):
     try:
         result = subprocess.run(
@@ -244,7 +256,7 @@ def main():
                 print(f"Ошибка потока для '{keyword}': {e}")
                 items = []
             for item in items:
-                item_id = item.get("item_id")
+                item_id = extract_item_id(item)
                 if item_id and item_id not in seen:
                     seen.add(item_id)
                     if not first_run:
