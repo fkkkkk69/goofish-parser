@@ -186,7 +186,7 @@ def search_keyword(keyword):
             capture_output=True, text=True, timeout=60,
         )
         if result.returncode != 0:
-            print(f"Ошибка поиска '{keyword}': {result.stderr[:300]}")
+            print(f"Ошибка поиска '{keyword}': {result.stderr[-300:]}")
             return []
         return json.loads(result.stdout)
     except Exception as e:
