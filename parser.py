@@ -257,6 +257,8 @@ def main():
                 items = []
             for item in items:
                 item_id = extract_item_id(item)
+                if not first_run:
+                    print(f"DEBUG raw item link={item.get('link')!r} item_id_field={item.get('item_id')!r} extracted={item_id!r}")
                 if item_id and item_id not in seen:
                     seen.add(item_id)
                     if not first_run:
