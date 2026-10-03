@@ -1,6 +1,7 @@
 import json
 import os
 import subprocess
+import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -182,6 +183,7 @@ def search_keyword(keyword):
                 "--format", "json",
                 "--storage-state", STATE_FILE,
                 "--pages", "1",
+                "--sort", "latest",  # новые объявления сверху; без этого первая страница по релевантности, и новые лоты попадают в неё только по прихоти ранжирования
             ],
             capture_output=True, text=True, timeout=60,
         )
@@ -273,6 +275,10 @@ def main():
     save_seen(seen)
     if first_run:
         print(f"Первый запуск: сохранено {len(seen)} товаров как уже виденные.")
+        return
+
+    if "--silent" in sys.argv:
+        print(f"Тихий запуск: {len(new_items)} товаров помечены как виденные, уведомления не отправляются.")
         return
 
     subs = get_subscribers()

@@ -1,5 +1,10 @@
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      silent:
+        description: 'Тихий запуск: пометить найденное как виденное без уведомлений'
+        type: boolean
+        default: false
 
 concurrency:
   group: goofish-parser-run
@@ -19,7 +24,7 @@ jobs:
       - run: python -m playwright install --with-deps chromium
       - name: Restore login session
         run: echo "${{ secrets.STATE_JSON_B64 }}" | base64 -d > state.json
-      - run: python parser.py
+      - run: python parser.py ${{ inputs.silent && '--silent' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           WORKER_URL: ${{ secrets.WORKER_URL }}
