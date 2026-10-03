@@ -239,14 +239,25 @@ def notify(chat_id, item, keyword):
     )
     try:
         bot.send_message(int(chat_id), text, parse_mode="Markdown")
+        return True
     except Exception as e:
         print(f"Не удалось отправить {chat_id}: {e}")
+        return False
+
+
+def write_report(report):
+    import json, datetime
+    report["finished_utc"] = datetime.datetime.utcnow().isoformat(timespec="seconds")
+    with open("last_run.json", "w", encoding="utf-8") as f:
+        json.dump(report, f, ensure_ascii=False, indent=1)
 
 
 def main():
     seen = load_seen()
     first_run = len(seen) == 0
     new_items = []
+    report = {"keywords_total": len(KEYWORDS), "per_keyword_items": {}, "new_items": 0,
+              "subscribers": None, "sent": 0, "send_failed": 0, "sample_new": []}
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_keyword = {executor.submit(search_keyword, kw): kw for kw in KEYWORDS}
@@ -257,6 +268,7 @@ def main():
             except Exception as e:
                 print(f"Ошибка потока для '{keyword}': {e}")
                 items = []
+            report["per_keyword_items"][keyword] = len(items)
             for item in items:
                 item_id = extract_item_id(item)
                 if not first_run:
@@ -273,22 +285,28 @@ def main():
                         })
 
     save_seen(seen)
+    report["new_items"] = len(new_items)
+    report["sample_new"] = [f"{i['keyword']} | {i['price']} | {i['title'][:40]}" for i in new_items[:8]]
     if first_run:
         print(f"Первый запуск: сохранено {len(seen)} товаров как уже виденные.")
         return
 
     if "--silent" in sys.argv:
         print(f"Тихий запуск: {len(new_items)} товаров помечены как виденные, уведомления не отправляются.")
+        write_report(report)
         return
 
     subs = get_subscribers()
     print(f"Найдено новых: {len(new_items)}, подписчиков: {len(subs)}")
+    report["subscribers"] = len(subs)
 
     for item in new_items:
         for sub in subs:
             if matches(item, sub):
-                notify(sub["chat_id"], item, item["keyword"])
+                ok = notify(sub["chat_id"], item, item["keyword"])
+                report["sent" if ok else "send_failed"] += 1
                 time.sleep(1)
+    write_report(report)
 
 
 if __name__ == "__main__":
