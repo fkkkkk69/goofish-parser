@@ -231,22 +231,27 @@ def matches(item, sub):
 
 def notify(chat_id, item, keyword):
     import html
+    from telebot import types
+    item_id = item.get("id", "")
     title = html.escape(str(item.get("title", ""))[:200])
-    link = html.escape(str(item.get("link", "")), quote=True)
     text = (
         f"🆕 Новый товар на Goofish!\n\n"
         f"<b>{title}</b>\n"
         f"💴 ¥{html.escape(str(item.get('price', '?')))}\n"
-        f"🔍 Запрос: {html.escape(str(keyword))}\n"
-        f"🔗 <a href=\"{link}\">Открыть</a>"
+        f"🔍 Запрос: {html.escape(str(keyword))}"
+    )
+    kb = types.InlineKeyboardMarkup()
+    kb.row(
+        types.InlineKeyboardButton("📱 В приложении", url=f"https://fkkkkk69.github.io/xy-open/?id={item_id}"),
+        types.InlineKeyboardButton("🌐 В браузере", url=f"https://www.goofish.com/item?id={item_id}"),
     )
     try:
-        bot.send_message(int(chat_id), text, parse_mode="HTML")
+        bot.send_message(int(chat_id), text, parse_mode="HTML", reply_markup=kb)
         return True
     except Exception as e:
         print(f"Не удалось отправить {chat_id}: {e}")
         try:  # запасной вариант: простой текст без разметки
-            bot.send_message(int(chat_id), f"🆕 {item.get('title','')[:200]}\n¥{item.get('price','?')} ({keyword})\n{item.get('link','')}")
+            bot.send_message(int(chat_id), f"🆕 {item.get('title','')[:200]}\n¥{item.get('price','?')} ({keyword})\nhttps://www.goofish.com/item?id={item_id}")
             return True
         except Exception as e2:
             print(f"Повторно не удалось {chat_id}: {e2}")
