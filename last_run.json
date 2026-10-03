@@ -16,7 +16,7 @@
   "junya watanabe": 30,
   "diesel": 30,
   "balmain": 30,
-  "ppfm": 0,
+  "ppfm": 30,
   "tornado mart": 30,
   "vivienne westwood": 30,
   "c2h4": 30,
@@ -72,7 +72,7 @@
   "casablanca": 30,
   "rhude": 30,
   "givenchy": 30,
-  "dior homme": 0,
+  "dior homme": 30,
   "louis vuitton": 30,
   "heron preston": 30,
   "fear of god": 30,
@@ -120,19 +120,19 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 72,
+ "new_items": 56,
  "subscribers": 1,
  "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥45 | Nike x Undercover联名跑鞋 黄黑配色 45码 穿过一段时间 成色",
-  "rick owens | ¥99 | 操作中Rick Owens FW07 Exploder Mu d Dust Wa",
-  "gucci | ¥3800 | Gucci古驰GG Marmont黑白拼色波浪纹链条托特包， 专柜正品，支持验货",
-  "gucci | ¥3600 | 古驰双肩包复古老款已停产 当年家里人从韩国带回保证正品可带去 鉴定 明显使用痕迹",
-  "gucci | ¥3000 | 古驰Horsebit1955老花手机包 Gucci Horsebit 1955系",
-  "gucci | ¥3000 | GUCCI（古驰）意大利奢侈包袋 古驰Vintage中古款手提/托特包，白色皮质",
-  "gucci | ¥3600 | 古驰Ophidia小号夹子包 经典老花帆布配红绿织带，棕色皮边，金色双G金属扣，",
-  "gucci | ¥3990 | GUCCI/古驰 马蒙白金22链条包 9.5新没背两次，发票在，私聊拍视频细节"
+  "walter van beirendonck | ¥1800 | w&lt walter van beirendonck ki ss 透明双肩包 ",
+  "helmut lang | ¥788 | Helmut Lang 99年本人期意产 TYPE2原牛牛仔 夹克 肩宽38 胸",
+  "balmain | ¥2600 | Balmain FW15 Grey Wash Biker J eans by O",
+  "undercoverism | ¥777 | undercoverism pants 感兴趣的话点“我想要”和我私聊吧～",
+  "y-3 | ¥60 | 40码Y3黑武士老爹鞋 【标价就是卖价】  成色如图，所见即所得 出一双二手闲置",
+  "y-3 | ¥52.94 | 【S码】Y-3男士运动长裤 裤长：104cm 单侧腰围：38cm 成色看看图，原",
+  "carol christian poell | ¥5000 | carol christian poell袋鼠皮手套黄色最美 最值得收藏 正品绝",
+  "kiko kostadinov | ¥700 | ASICS x Kiko Kostadinov 联名半拉链冲 锋衣外套 Kiko"
  ],
- "finished_utc": "2026-10-03T20:48:22"
+ "finished_utc": "2026-10-03T21:18:42"
 }
