@@ -1,7 +1,7 @@
 {
  "keywords_total": 118,
  "per_keyword_items": {
-  "undercover": 0,
+  "undercover": 30,
   "number nine": 30,
   "hysteric glamour": 30,
   "rick owens": 30,
@@ -17,8 +17,8 @@
   "diesel": 30,
   "balmain": 30,
   "ppfm": 30,
-  "tornado mart": 0,
-  "vivienne westwood": 0,
+  "tornado mart": 30,
+  "vivienne westwood": 30,
   "c2h4": 30,
   "undercoverism": 30,
   "maison margiela": 30,
@@ -76,7 +76,7 @@
   "louis vuitton": 30,
   "heron preston": 30,
   "fear of god": 30,
-  "yeezy": 30,
+  "yeezy": 60,
   "sp5der": 30,
   "denim tears": 30,
   "hellstar": 30,
@@ -92,7 +92,7 @@
   "hoodrich": 30,
   "burberry": 30,
   "lacoste": 30,
-  "the north face": 29,
+  "the north face": 30,
   "oakley": 30,
   "salomon": 30,
   "asics": 30,
@@ -120,19 +120,19 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 104,
+ "new_items": 88,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "rick owens | ¥1999 | Rick Owens大匡威40黄金码40-41都能穿仅上脚一 次和新的没区别鞋型",
-  "raf simons | ¥495 | 玄学家 raf 西服 46 META 20FW 英国进口100%羊毛廓形先锋剪裁",
-  "raf simons | ¥580 | raf simons 同款牛仔衬衫外套  全新M码，微瑕图八 图九，两小角脱胶起",
-  "walter van beirendonck | ¥9999 | Walter van beirendonck W&LT 合集 感兴趣的话点“我想",
-  "prada | ¥1100 | 普拉达粉色杀手包，中号，成色还可以，正常使用痕迹，边角有磨损 ，五金有痕迹，内里",
-  "prada | ¥800 | prada普拉达黑色尼龙拼皮侧标单肩斜挎包邮差包 尺寸大概是底长31宽12高30",
-  "prada | ¥980 | Prada 普拉达Soft Lux 黑金中号法棍包手提包 广 州白云2，3千买的",
-  "helmut lang | ¥300 | helmutlang女士西服，购于专柜 2码 9新不议价"
+  "hysteric glamour | ¥329 | 歇斯底里hysteric glamour 天使满印连帽外套 Size：S/M/L",
+  "hysteric glamour | ¥799 | hysreric glamour destroy all m onsters联名",
+  "rick owens | ¥136 | 44码阿迪达斯ADIDAS X RICK OWENS 联名运 动真皮坦克鞋男鞋 ",
+  "prada | ¥949 | 市场最高版本，欢迎对比 新品route 1BG645托特包 这款复古风格进口帆布",
+  "prada | ¥850 | 支持退换，顶级版本 新品邮包 2VD082 这款Explore手袋完美融合了高雅",
+  "prada | ¥2680 | prada普拉达双肩包P645 黑色，正品 尺寸高30-宽30-厚17 尼龙无勾",
+  "balmain | ¥39.99 | 巴尔曼风高品质白色西装上衣外套 没有码数，蛮宽松的，这个西装质感特别好，很重，自",
+  "balmain | ¥24.14 | B巴素兰羊毛针织上衣胸围平铺40拉开54衣长54九成新 感兴趣的话点“我想要”和"
  ],
- "finished_utc": "2026-10-03T19:19:27"
+ "finished_utc": "2026-10-03T19:48:36"
 }
