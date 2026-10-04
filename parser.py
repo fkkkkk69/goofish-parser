@@ -175,6 +175,9 @@ def extract_item_id(item):
     return item.get("item_id")
 
 
+SEARCH_ERRORS = []
+
+
 def search_keyword(keyword):
     try:
         result = subprocess.run(
@@ -189,10 +192,15 @@ def search_keyword(keyword):
         )
         if result.returncode != 0:
             print(f"Ошибка поиска '{keyword}': {result.stderr[-300:]}")
+            SEARCH_ERRORS.append(f"rc={result.returncode}: {(result.stderr or result.stdout)[-300:]}")
             return []
-        return json.loads(result.stdout)
+        data = json.loads(result.stdout)
+        if not data:
+            SEARCH_ERRORS.append(f"empty result, stderr: {(result.stderr or '')[-200:]}")
+        return data
     except Exception as e:
         print(f"Исключение при поиске '{keyword}': {e}")
+        SEARCH_ERRORS.append(f"exception: {str(e)[:200]}")
         return []
 
 
@@ -258,6 +266,37 @@ def notify(chat_id, item, keyword):
             return False
 
 
+def maybe_alert(report, zero):
+    import json as _json, datetime as _dt, os as _os
+    last = None
+    try:
+        with open("last_run.json", encoding="utf-8") as f:
+            last = _json.load(f).get("last_alert_utc")
+    except Exception:
+        pass
+    now = _dt.datetime.utcnow()
+    if last:
+        try:
+            if (now - _dt.datetime.fromisoformat(last)).total_seconds() < 6 * 3600:
+                report["last_alert_utc"] = last
+                return
+        except Exception:
+            pass
+    admin = _os.environ.get("ADMIN_CHAT_ID")
+    if not admin:
+        subs = get_subscribers()
+        admin = subs[0]["chat_id"] if subs else None
+    if not admin:
+        return
+    try:
+        bot.send_message(int(admin),
+            f"⚠️ Парсер Goofish не получает данные: {zero} из {report['keywords_total']} поисков пустые. "
+            f"Скорее всего, сессия входа устарела или Goofish блокирует запросы. Нужен новый вход (state.json).")
+        report["last_alert_utc"] = now.isoformat(timespec="seconds")
+    except Exception as e:
+        print(f"Не удалось отправить алерт: {e}")
+
+
 def write_report(report):
     import json, datetime
     report["finished_utc"] = datetime.datetime.utcnow().isoformat(timespec="seconds")
@@ -296,6 +335,15 @@ def main():
                             "link": f"https://fleamarket.taobao.com/npc/itemDetail.html?id={item_id}",  # формат ссылки, который открывается в приложении Xianyu, а не в браузере
                             "keyword": keyword.lower(),
                         })
+
+    zero = sum(1 for v in report["per_keyword_items"].values() if v == 0)
+    report["zero_keywords"] = zero
+    report["error_samples"] = list(dict.fromkeys(SEARCH_ERRORS))[:3]
+    if report["keywords_total"] and zero / report["keywords_total"] >= 0.9:
+        report["session_suspect"] = True
+        maybe_alert(report, zero)
+        write_report(report)
+        return
 
     save_seen(seen)
     report["new_items"] = len(new_items)
