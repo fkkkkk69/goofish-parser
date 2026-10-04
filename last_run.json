@@ -43,7 +43,7 @@
   "marina yee": 30,
   "craig green": 30,
   "post archive faction": 30,
-  "kanghyuk": 52,
+  "kanghyuk": 30,
   "andersson bell": 30,
   "hyein seo": 30,
   "jil sander": 30,
@@ -58,7 +58,7 @@
   "uma wang": 30,
   "inaisce": 30,
   "guidi": 30,
-  "a1923": 47,
+  "a1923": 30,
   "individual sentiments": 30,
   "obscur": 30,
   "leon emanuel blanck": 30,
@@ -115,26 +115,28 @@
   "von dutch": 30,
   "ed hardy": 30,
   "kmiri": 6,
-  "lgb": 60,
-  "20471120": 30,
+  "lgb": 30,
+  "20471120": 0,
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 49,
+ "new_items": 68,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "raf simons | ¥400 | 正品Raf Siomons x Addidas Stan S mith，39-4",
-  "jeremy scott | ¥360 | 正品adidas x Jeremy Scott联名豹纹运动裤 125码 聚酯纤维",
-  "gucci | ¥6500 | 马蒙26。 23年购入 同城可走验货宝，支持验货，放心交易！包身干净，五金亮，容",
-  "gucci | ¥3945 | gucci琴谱包，很少背，经典老花，棕色皮边，手提斜挎都能背 ，细节可私聊，包邮",
-  "balmain | ¥21 | 拍卖 Balmain 巴尔曼 抽绳卫裤 束脚裤 ●M码 近9新 弹力抽绳腰围 经",
-  "kiko kostadinov | ¥999 | asics联名kiko  46.5 非真假不退换 感兴趣的话点“我想要”和我私聊",
-  "m.a+ | ¥2999 | 东芝大白梨2.0空气净化器 TAP-YE180XCN(Y)， 家用/办公室都适合",
-  "m.a+ | ¥9999 | (SOLD)MA+ Zip collar Shirt Jac ket  售出欣賞"
+  "undercover | ¥140 | Undercover 06ss T期 黑色铆钉拼接皮衣 撕裂的天堂 TEAR X",
+  "number nine | ¥750 | Number Nine 02AW 宫下贵裕本人期 Nowhe reman Geo",
+  "hysteric glamour | ¥485 | 稀有Hysteric Glamour歇斯底里的魅力vinta ge稀有经典星星条",
+  "raf simons | ¥395 | Raf Simons SS18 Joy Division / New Order",
+  "walter van beirendonck | ¥1400 | W&LT外星人图案长袖T恤Walter van Beiren donck机器人印",
+  "424 | ¥166 | 龟龟自主424牛仔外套 M码 靓蓝色 袖章破洞OG款 201 6 26年4月淘宝",
+  "gucci | ¥3000 | 95新Gucci Ophidia老花夹子包，轻微掉花不明显， 五金有膜保护，内里",
+  "gucci | ¥3250 | Gucci饼干鞋 低帮板鞋 棕色老花皮 44码 几乎全新 原包装齐全 售出不退不"
  ],
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-04T22:48:14"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-04T23:18:00"
 }
