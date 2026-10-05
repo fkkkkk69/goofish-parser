@@ -22,9 +22,12 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements.txt
       - run: python -m playwright install --with-deps chromium
+
       - name: Restore login session
         env:
-          STATE_JSON_B64: ${{ secrets.STATE_JSON_B64 }}
+          STATE_JSON_B64_1: ${{ secrets.STATE_JSON_B64_1 }}
+          STATE_JSON_B64_2: ${{ secrets.STATE_JSON_B64_2 }}
+          STATE_JSON_B64_3: ${{ secrets.STATE_JSON_B64_3 }}
         run: |
           python - <<'PY'
           import base64
@@ -32,21 +35,29 @@ jobs:
           import os
           from pathlib import Path
 
-          raw = base64.b64decode(os.environ["STATE_JSON_B64"])
-          try:
-              data = gzip.decompress(raw)
-          except OSError:
-              # Backward-compatible with an uncompressed Base64 state.
-              data = raw
+          parts = [
+              os.environ.get("STATE_JSON_B64_1", ""),
+              os.environ.get("STATE_JSON_B64_2", ""),
+              os.environ.get("STATE_JSON_B64_3", ""),
+          ]
+          encoded = "".join(parts)
+          if not encoded:
+              raise SystemExit("STATE_JSON_B64_1/2/3 secrets are empty.")
 
+          data = gzip.decompress(base64.b64decode(encoded))
           Path("state.json").write_bytes(data)
           print(f"Restored state.json: {len(data)} bytes")
+
+          if len(data) < 100:
+              raise SystemExit("Restored state.json looks too small.")
           PY
+
       - run: python parser.py ${{ inputs.silent && '--silent' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           WORKER_URL: ${{ secrets.WORKER_URL }}
           API_SECRET: ${{ secrets.API_SECRET }}
+
       - name: Save seen.json back to repo
         run: |
           rm -f state.json
