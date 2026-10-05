@@ -23,7 +23,25 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m playwright install --with-deps chromium
       - name: Restore login session
-        run: echo "${{ secrets.STATE_JSON_B64 }}" | base64 -d > state.json
+        env:
+          STATE_JSON_B64: ${{ secrets.STATE_JSON_B64 }}
+        run: |
+          python - <<'PY'
+          import base64
+          import gzip
+          import os
+          from pathlib import Path
+
+          raw = base64.b64decode(os.environ["STATE_JSON_B64"])
+          try:
+              data = gzip.decompress(raw)
+          except OSError:
+              # Backward-compatible with an uncompressed Base64 state.
+              data = raw
+
+          Path("state.json").write_bytes(data)
+          print(f"Restored state.json: {len(data)} bytes")
+          PY
       - run: python parser.py ${{ inputs.silent && '--silent' || '' }}
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
