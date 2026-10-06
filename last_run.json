@@ -127,10 +127,10 @@
  "sample_new": [],
  "zero_keywords": 118,
  "error_samples": [
-  "rc=1:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/xianyu_cli/scraper.py\", line 152, in scrape_keyword\n    raise RuntimeError(\nRuntimeError: 闲鱼搜索接口要求登录校验，当前保存的会话还不能直接搜索。请重新执行 `xianyu login --qrcode`，确认浏览器里已经真正登录成功后再回终端保存。\n",
-  "empty result, stderr: "
+  "empty result, stderr: ",
+  "rc=1:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/xianyu_cli/scraper.py\", line 152, in scrape_keyword\n    raise RuntimeError(\nRuntimeError: 闲鱼搜索接口要求登录校验，当前保存的会话还不能直接搜索。请重新执行 `xianyu login --qrcode`，确认浏览器里已经真正登录成功后再回终端保存。\n"
  ],
  "session_suspect": true,
  "last_alert_utc": "2026-10-06T12:39:56",
- "finished_utc": "2026-10-06T15:09:27"
+ "finished_utc": "2026-10-06T15:39:52"
 }
