@@ -15,7 +15,7 @@
   "moschino": 30,
   "junya watanabe": 30,
   "diesel": 30,
-  "balmain": 59,
+  "balmain": 30,
   "ppfm": 30,
   "tornado mart": 30,
   "vivienne westwood": 30,
@@ -43,7 +43,7 @@
   "marina yee": 30,
   "craig green": 30,
   "post archive faction": 30,
-  "kanghyuk": 30,
+  "kanghyuk": 52,
   "andersson bell": 30,
   "hyein seo": 30,
   "jil sander": 30,
@@ -120,21 +120,21 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 112,
+ "new_items": 33,
  "subscribers": 1,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥90 | 毅轩糜烂破坏牛仔裤1码偏大2码也能穿undercover 感兴趣的话点“我想要”",
-  "undercover | ¥450 | UNDER COVER高桥盾夹克 原价6k买的",
-  "hysteric glamour | ¥499 | hysteric glamour angel blue ol ive des o",
-  "rick owens | ¥49.90 | Rick Owens DRKSHDW 复线高帮帆布鞋，黑色， 41码，意大利产。",
-  "raf simons | ¥550 | raf simons 羊毛西装外套 46码全新有吊牌  好像是图一里的款 不确定",
-  "jeremy scott | ¥1439 | adidas阿迪达斯 jeremy scott JS Win gs 彩虹翅膀鞋 ",
-  "gucci | ¥7000 | Gucci马蒙22黑金链条包，19年入手，成色还可以，正常使 用痕迹，五金亮，包",
-  "gucci | ¥6000 | Gucci古驰Horsebit 1955中号044老花马鞍包 ❤️底长:25  "
+  "helmut lang | ¥150 | THEHANDLE 冬日曼城 氛围感德神*高比例羊驼毛开衫 颜色分类: 灰色[2",
+  "moschino | ¥29 | Moschino小熊卫衣，蓝色，42码，胸前墨镜小熊刺绣，经 典THIS IS ",
+  "junya watanabe | ¥1580 | Junya watanabe CDG 2008 稀有灰色蝙蝠 袖羊毛针织开衫  ",
+  "ppfm | ¥499 | ppfm先锋视觉系 机能牛仔裤 中古物品 售出不退换 默认瑕疵  借14th a",
+  "tornado mart | ¥580 | Tornado mart系日产古着vintage复古水洗牛仔 喇叭裤  腰围80",
+  "c2h4 | ¥259.90 | C2H4_Mohair_Sweater 几何流线形式 色块拼 接 马海毛毛衣 全",
+  "rick owens drkshdw | ¥349 | 【最高性价比】ro联名匡威 高帮厚底鞋DRKSHDW x C onverse T",
+  "kiko kostadinov | ¥799 | Kiko Kostadinov 00092020 BRIND A HOODIE "
  ],
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-06T21:18:29"
+ "finished_utc": "2026-10-06T21:48:53"
 }
