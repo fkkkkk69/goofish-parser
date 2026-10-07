@@ -52,7 +52,7 @@
   "m.a+": 30,
   "label under construction": 30,
   "layer-0": 30,
-  "julius": 29,
+  "julius": 30,
   "devoa": 30,
   "ziggy chen": 30,
   "uma wang": 30,
@@ -68,8 +68,8 @@
   "vetements": 30,
   "chrome hearts": 30,
   "gallery dept": 30,
-  "palm angels": 30,
-  "casablanca": 60,
+  "palm angels": 0,
+  "casablanca": 30,
   "rhude": 30,
   "givenchy": 30,
   "dior homme": 30,
@@ -115,26 +115,28 @@
   "von dutch": 30,
   "ed hardy": 30,
   "kmiri": 6,
-  "lgb": 30,
+  "lgb": 60,
   "20471120": 30,
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 109,
+ "new_items": 150,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "jeremy scott | ¥249 | 正品级adidas Labcourt 舒适百搭 低帮 板鞋 男【自助下单，尺码留",
-  "gucci | ¥3288 | Gucci 酒神mini链条包 官网购入，只有防尘袋，自用， 因包太小，目前用不",
-  "gucci | ¥3550 | 古驰 Gucci 酒神 中号 麂皮 红色 黑标020 成色9 5新  欢迎问价",
-  "ppfm | ¥842 | PPFM 拿破仑夹克 S码 日本代购 衣长前面约69厘米，后面约64厘米 胸围4",
-  "vivienne westwood | ¥265 | 【现货】西太后Vivienne Westwood米白色针织半 袖上衣日本红标2码",
-  "maison margiela | ¥649 | 【顺丰包邮】正品MaisonMargiela马吉拉MM6厚底 老爹鞋 运动鞋 白",
-  "rick owens drkshdw | ¥280 | Converse x Rick Owens DRKSHDW TURBOWPN R",
-  "carol christian poell | ¥7320 | Carol Christian Poell 德比鞋 “Goodyear Derb"
+  "undercover | ¥228 | 借图出 Undercover 04AW 68红线刺绣 水洗破 洞糜烂修身牛仔裤 ",
+  "hysteric glamour | ¥180 | 撕裂的天堂Hysteric Glamour泼墨糜烂牛仔裤 s码仅试穿未下水 爽快",
+  "rick owens | ¥273 | Rick Owens x Converse 联名款，厚底高帮 板鞋，黑白配色，经",
+  "rick owens | ¥880 | 正品 RICK OWENS DRKSHDW Converse TURBOWPN ",
+  "walter van beirendonck | ¥899 | walter van beirendonck wvb彩虹串珠 泳圈项链  129",
+  "walter van beirendonck | ¥750 | Walter Van Beirendonck 彩虹外星人 围 巾  size：大",
+  "gucci | ¥5500 | GUCCI GG Marmont系列黑色小号肩背包，经典绗缝 设计，金色双G标志",
+  "prada | ¥1000 | Prada saffiano，经典三角标+金色五金，容量大， 拉链顺滑，做工精致"
  ],
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-07T00:49:09"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-07T01:18:54"
 }
