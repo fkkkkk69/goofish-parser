@@ -1,7 +1,7 @@
 {
  "keywords_total": 118,
  "per_keyword_items": {
-  "undercover": 30,
+  "undercover": 60,
   "number nine": 30,
   "hysteric glamour": 30,
   "rick owens": 30,
@@ -19,7 +19,7 @@
   "ppfm": 30,
   "tornado mart": 30,
   "vivienne westwood": 30,
-  "c2h4": 30,
+  "c2h4": 29,
   "undercoverism": 30,
   "maison margiela": 30,
   "yohji yamamoto": 30,
@@ -71,7 +71,7 @@
   "palm angels": 30,
   "casablanca": 30,
   "rhude": 30,
-  "givenchy": 30,
+  "givenchy": 0,
   "dior homme": 30,
   "louis vuitton": 30,
   "heron preston": 30,
@@ -79,7 +79,7 @@
   "yeezy": 30,
   "sp5der": 30,
   "denim tears": 30,
-  "hellstar": 60,
+  "hellstar": 30,
   "corteiz": 30,
   "c.p. company": 30,
   "nike": 30,
@@ -89,7 +89,7 @@
   "trapstar": 30,
   "syna world": 30,
   "benjart": 3,
-  "hoodrich": 0,
+  "hoodrich": 30,
   "burberry": 30,
   "lacoste": 30,
   "the north face": 30,
@@ -99,7 +99,7 @@
   "saint laurent": 30,
   "ysl": 30,
   "dior": 30,
-  "the kooples": 30,
+  "the kooples": 60,
   "allsaints": 30,
   "zadig & voltaire": 30,
   "american apparel": 30,
@@ -120,23 +120,23 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 195,
+ "new_items": 148,
  "subscribers": 1,
- "sent": 1,
+ "sent": 15,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥185 | undercover糜烂包 archive个人最喜欢的双肩包 之一 日常与设计感",
-  "raf simons | ¥999 | Raf Simons x adidas Ozweego II 白粉配色 43码 ",
-  "moschino | ¥180 | Moschino涂鸦卫衣 正品 成色如图 感兴趣的话点“我想要”和我私聊吧～",
-  "junya watanabe | ¥999 | 【Sold】Junyawatanabe Levsi 09s格 子原牛",
-  "diesel | ¥680 | 拉夫劳伦 深v领明黄色开衫 s码 加上diesel亮黄色针织衫一起两件，合并发货",
-  "diesel | ¥399 | 全新Diesel®️K-Belez Man's Knitwe ar意大利迪赛✅男",
-  "tornado mart | ¥899 | 日牌Tornado mart中古vintage视觉系先锋涂层 骑士夹克外套  肩",
-  "c2h4 | ¥550 | C2H4卫衣 尺码M 版型偏大 全新 本人180/70kg"
+  "undercover | ¥149 | Undercover 06ss T期六重人格夹克 黑色 1码 肩部螺旋+胸前人像",
+  "undercover | ¥160 | Undercover x Nike Daybreak 高桥盾 联名 柠檬黄配色 ",
+  "undercover | ¥216 | UNDERCOVER 玫瑰印花套头连帽卫衣 白 日本代购 UNDERCOVER ",
+  "undercover | ¥3606 | UNDERCOVER 帽子 兔毛帽 尺寸3 日本代购 UNDERCOVER 帽子",
+  "undercover | ¥270.75 | Undercover x Sacai × NK LDV Wa 全新正品，支持专柜",
+  "undercover | ¥205 | 【新】GU 厚底平底鞋 UNDERCOVER  日本代购 【新】GU 厚底平底鞋",
+  "undercover | ¥169.99 | 【博主闲置】Reabobo.co 精致气质缎光粉立领飘带截短 式长袖衬衫女上衣春",
+  "undercover | ¥160 | undercover06ss t期漩涡人像牛仔裤 28码适合175左右偏瘦人穿 "
  ],
  "zero_keywords": 1,
  "error_samples": [
   "empty result, stderr: "
  ],
- "finished_utc": "2026-10-08T06:49:12"
+ "finished_utc": "2026-10-08T07:19:02"
 }
