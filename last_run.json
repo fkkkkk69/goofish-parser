@@ -19,7 +19,7 @@
   "ppfm": 30,
   "tornado mart": 30,
   "vivienne westwood": 30,
-  "c2h4": 30,
+  "c2h4": 29,
   "undercoverism": 30,
   "maison margiela": 30,
   "yohji yamamoto": 30,
@@ -29,7 +29,7 @@
   "carol christian poell": 30,
   "kiko kostadinov": 30,
   "issey miyake": 30,
-  "junya watanabe man": 0,
+  "junya watanabe man": 30,
   "comme des garcons": 30,
   "john galliano": 30,
   "jean paul gaultier": 30,
@@ -78,7 +78,7 @@
   "fear of god": 30,
   "yeezy": 30,
   "sp5der": 30,
-  "denim tears": 30,
+  "denim tears": 60,
   "hellstar": 30,
   "corteiz": 30,
   "c.p. company": 30,
@@ -86,7 +86,7 @@
   "arcteryx": 30,
   "moncler": 30,
   "canada goose": 30,
-  "trapstar": 60,
+  "trapstar": 30,
   "syna world": 30,
   "benjart": 3,
   "hoodrich": 30,
@@ -120,23 +120,21 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 166,
+ "new_items": 55,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "jeremy scott | ¥399 | Jeremy scott x adidas 镂空logo M A1黑色镂空网眼夹",
-  "424 | ¥145 | 队长家424 第一批次 除了徽章不见了几乎全新感兴趣的私",
-  "gucci | ¥6000 | GUCCI古驰 Dionysus 酒神 钻扣双虎头 皮革 酒 神包链条包 单肩包",
-  "gucci | ¥4800 | Gucci古驰米白色酒神链条包 中号 专柜购入近三万  95新  就是面上有一点",
-  "gucci | ¥4500 | 古驰GG Marmont黑金链条包 古驰GG Marmont系列黑色链条包，30",
-  "gucci | ¥3800 | Gucci古驰包 GG Marmont mini黑金链条斜挎 包，二奢店入的正品",
-  "gucci | ¥8000 | 几乎全新Gucci GG Marmont粉色链条包，22cm ，金色双G标志，V",
-  "gucci | ¥3100 | 全新Gucci苹果印花单肩包，带吊牌，保存得很不错，细节都在 图里啦～经典GG老"
+  "rick owens | ¥4680 | 【现货】RickOwens 24ss 侵权款 主线 皮质 奶昔白Size：39 ",
+  "gucci | ¥3000 | Gucci Zumi白色小号手提包，专柜购入正品，成色很新。 粒面皮革材质，经典",
+  "gucci | ¥6800 | 全新正品Gucci古驰Jackie 1961迷你腋下包｜粉色 牛皮+金色马衔扣｜",
+  "gucci | ¥5888 | 古驰竹节包Bamboo 1947 100周年限定，99新买来 没动过，单包保真。",
+  "prada | ¥980 | 2026男款小号Bonnie托特包【市场最高版本】 2VH216双肩带[2]油蜡",
+  "carol christian poell | ¥6899 | 【正品折扣】现货acne studios 夹克bomber 大折扣中  标价出S",
+  "m.a+ | ¥2650 | Segger Flasher ARM 5.0版本编程器，烧录 器，离线烧录器，在",
+  "m.a+ | ¥4632 | 【现货秒发】M.A+26ss春夏编织十字中宽腰带EQ7C G R 3,0  现货"
  ],
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-08T21:18:49"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-08T21:48:53"
 }
