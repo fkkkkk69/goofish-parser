@@ -1,7 +1,7 @@
 {
  "keywords_total": 118,
  "per_keyword_items": {
-  "undercover": 60,
+  "undercover": 30,
   "number nine": 30,
   "hysteric glamour": 30,
   "rick owens": 30,
@@ -19,7 +19,7 @@
   "ppfm": 30,
   "tornado mart": 30,
   "vivienne westwood": 30,
-  "c2h4": 29,
+  "c2h4": 30,
   "undercoverism": 30,
   "maison margiela": 30,
   "yohji yamamoto": 30,
@@ -33,7 +33,7 @@
   "comme des garcons": 30,
   "john galliano": 30,
   "jean paul gaultier": 30,
-  "amiri": 0,
+  "amiri": 30,
   "stone island": 30,
   "bernhard willhelm": 30,
   "hussein chalayan": 30,
@@ -47,7 +47,7 @@
   "andersson bell": 30,
   "hyein seo": 30,
   "jil sander": 30,
-  "lemaire": 0,
+  "lemaire": 30,
   "carpe diem": 30,
   "m.a+": 30,
   "label under construction": 30,
@@ -79,7 +79,7 @@
   "yeezy": 30,
   "sp5der": 30,
   "denim tears": 30,
-  "hellstar": 30,
+  "hellstar": 60,
   "corteiz": 30,
   "c.p. company": 30,
   "nike": 30,
@@ -89,7 +89,7 @@
   "trapstar": 30,
   "syna world": 30,
   "benjart": 3,
-  "hoodrich": 30,
+  "hoodrich": 0,
   "burberry": 30,
   "lacoste": 30,
   "the north face": 30,
@@ -120,23 +120,23 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 225,
+ "new_items": 195,
  "subscribers": 1,
- "sent": 12,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥384 | 90年代美国制造VISION STREET W 日本代购 90年代美国制造VIS",
-  "undercover | ¥571 | Number (N)ine William Burrough s T恤  胸围9",
-  "undercover | ¥399 | 日本贵牌Bacca等羊毛云朵背心马甲绿色麻花厚款 是Tomorrowland 高",
-  "undercover | ¥199 | 日牌in the attic短袖V領牛仔色 成色：極好尺寸：M以下为平铺尺寸胸围",
-  "undercover | ¥1084 | Undercover 泥浆市场限定 Group 日本代购 Undercover ",
-  "undercover | ¥673 | LGB系日牌中古视觉系先锋渲染外套帽衫不规则异形堆叠运动外套 燕尾服借14th ",
-  "undercover | ¥467 | UNDERCOVER花卉图案牛仔夹克 日本代购 ——以下为煤炉原商品信息的中文翻",
-  "undercover | ¥700 | Sergio Rossi 蚊香纹高跟鞋 黑白两色 意大利制造  两双都是35.5"
+  "undercover | ¥185 | undercover糜烂包 archive个人最喜欢的双肩包 之一 日常与设计感",
+  "raf simons | ¥999 | Raf Simons x adidas Ozweego II 白粉配色 43码 ",
+  "moschino | ¥180 | Moschino涂鸦卫衣 正品 成色如图 感兴趣的话点“我想要”和我私聊吧～",
+  "junya watanabe | ¥999 | 【Sold】Junyawatanabe Levsi 09s格 子原牛",
+  "diesel | ¥680 | 拉夫劳伦 深v领明黄色开衫 s码 加上diesel亮黄色针织衫一起两件，合并发货",
+  "diesel | ¥399 | 全新Diesel®️K-Belez Man's Knitwe ar意大利迪赛✅男",
+  "tornado mart | ¥899 | 日牌Tornado mart中古vintage视觉系先锋涂层 骑士夹克外套  肩",
+  "c2h4 | ¥550 | C2H4卫衣 尺码M 版型偏大 全新 本人180/70kg"
  ],
- "zero_keywords": 2,
+ "zero_keywords": 1,
  "error_samples": [
   "empty result, stderr: "
  ],
- "finished_utc": "2026-10-08T06:19:16"
+ "finished_utc": "2026-10-08T06:49:12"
 }
