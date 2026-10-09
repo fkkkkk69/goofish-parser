@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥199 | 顶级品质！！RICK OWENS/RO Hollywood 欧文斯\r小牛皮 圆头",
+  "rick owens | ¥4699 | 全新正品Rick Owens REV 拉链夹克 短款立领剪裁 非常有质感的一款 ",
+  "rick owens | ¥4699 | 全新正品Rick Owens REV 拉链夹克 短款立领剪裁 非常有质感的一款 ",
+  "rick owens | ¥4699 | 全新正品Rick Owens REV 拉链夹克 短款立领剪裁 非常有质感的一款 ",
+  "rick owens | ¥1580 | （未使用）Rick Owens 主线女士 弹性粒面高筒靴，尺 码 36.5，公价",
+  "rick owens | ¥176 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥4906 | 新品《Rick Owens》Cargo Bel 日本代购 新品《Rick Owe",
+  "rick owens | ¥399 | 特价秒杀全新Brooks Brothers/布克兄弟，男士休 闲长裤，特卖场购买"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-09T21:01:26"
+ "finished_utc": "2026-10-09T21:31:38"
 }
