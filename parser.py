@@ -9,6 +9,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 import telebot
 
+from type_filter import type_ok
+
 TG_BOT_TOKEN = os.environ["TG_BOT_TOKEN"]
 WORKER_URL = os.environ["WORKER_URL"]
 API_SECRET = os.environ["API_SECRET"]
@@ -237,6 +239,9 @@ def matches(item, sub):
             matched_brand = b
             break
     if matched_brand is None:
+        return False
+
+    if not type_ok(item.get("title"), sub.get("types")):
         return False
 
     brand_prices = sub.get("brand_prices") or {}
