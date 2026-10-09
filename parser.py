@@ -16,8 +16,8 @@ SEEN_FILE = "seen.json"
 
 bot = telebot.TeleBot(TG_BOT_TOKEN)
 
-# Полный список ключевых слов для поиска на Goofish (объединение всех подписчиков)
-KEYWORDS = [
+# Старый фиксированный список: нужен только чтобы не завалить уведомлениями при переходе на поиск по брендам подписчиков
+LEGACY_KEYWORDS = [
     "undercover",
     "number nine",
     "hysteric glamour",
@@ -304,10 +304,33 @@ def write_report(report):
         json.dump(report, f, ensure_ascii=False, indent=1)
 
 
+def build_keywords(subs):
+    """Ищем только бренды, выбранные подписчиками (объединение без дублей)."""
+    out, seen_kw = [], set()
+    for sub in subs:
+        for b in sub.get("brands", []):
+            b = str(b).strip().lower()
+            if b and b not in seen_kw:
+                seen_kw.add(b)
+                out.append(b)
+    return out
+
+
 def main():
     seen = load_seen()
     first_run = len(seen) == 0
     new_items = []
+    subs = get_subscribers()
+    KEYWORDS = build_keywords(subs)
+    if not KEYWORDS:
+        print("Нет подписчиков с брендами — искать нечего.")
+        return
+    # Бренды, по которым уже искали раньше (хранятся в seen.json как 'kw:<бренд>').
+    # Для самого первого перехода считаем известными все бренды старого списка.
+    known_kw = {x[3:] for x in seen if isinstance(x, str) and x.startswith("kw:")}
+    if not known_kw:
+        known_kw = {k.lower() for k in LEGACY_KEYWORDS}
+    new_kw = {k for k in KEYWORDS if k not in known_kw}
     report = {"keywords_total": len(KEYWORDS), "per_keyword_items": {}, "new_items": 0,
               "subscribers": None, "sent": 0, "send_failed": 0, "sample_new": []}
 
@@ -327,7 +350,8 @@ def main():
                     print(f"DEBUG raw item link={item.get('link')!r} item_id_field={item.get('item_id')!r} extracted={item_id!r}")
                 if item_id and item_id not in seen:
                     seen.add(item_id)
-                    if not first_run:
+                    # новый бренд: текущие лоты только запоминаем, чтобы не прислать сразу кучу старых
+                    if not first_run and keyword not in new_kw:
                         new_items.append({
                             "id": item_id,
                             "title": item.get("title", ""),
@@ -345,6 +369,8 @@ def main():
         write_report(report)
         return
 
+    for k in KEYWORDS:
+        seen.add(f"kw:{k}")
     save_seen(seen)
     report["new_items"] = len(new_items)
     report["sample_new"] = [f"{i['keyword']} | {i['price']} | {i['title'][:40]}" for i in new_items[:8]]
@@ -357,7 +383,6 @@ def main():
         write_report(report)
         return
 
-    subs = get_subscribers()
     print(f"Найдено новых: {len(new_items)}, подписчиков: {len(subs)}")
     report["subscribers"] = len(subs)
 
