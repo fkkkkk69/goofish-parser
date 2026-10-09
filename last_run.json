@@ -1,24 +1,17 @@
 {
  "keywords_total": 2,
  "per_keyword_items": {
-  "undercover": 60,
+  "undercover": 30,
   "undercoverism": 30
  },
- "new_items": 28,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 28,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "undercover | ¥290 | 几乎全新Undercover 03aw黑灯芯绒拼接裤，L码， 黑色，潮流高街风格",
-  "undercover | ¥250 | 几乎全新Undercover 06ss T期指纹大衣，藏青色 ，2码，背后有指纹",
-  "undercover | ¥80 | 几乎全新UNDERCOVER 06SS T期黑白拼接条纹卫衣 ，3码，宽松版型，",
-  "undercover | ¥70 | 几乎全新UNDERCOVER 03SS锯齿虫洞短袖，定染灰L 码，经典破坏流苏设",
-  "undercover | ¥299 | Celine Nostalgia Crewneck 标语圆领 卫衣Size:S/",
-  "undercover | ¥578 | Craig Morrison Super Spike 巨型尖 峰DJ邮差斜挎包全",
-  "undercover | ¥1354 | 高桥盾 Undercover 宽松版型 高密度 日本代购 高桥盾 Underco",
-  "undercover | ¥1531 | ATON 外套 comoli AURALEE  日本代购 ATON 外套 com"
- ],
+ "sample_new": [],
+ "last_alert_utc": null,
+ "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-09T18:32:04"
+ "finished_utc": "2026-10-09T19:02:28"
 }
