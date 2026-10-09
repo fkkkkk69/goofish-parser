@@ -1,8 +1,7 @@
 {
- "keywords_total": 2,
+ "keywords_total": 1,
  "per_keyword_items": {
-  "undercover": 30,
-  "undercoverism": 30
+  "rick owens": 30
  },
  "new_items": 0,
  "subscribers": 1,
@@ -13,5 +12,5 @@
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-09T19:02:28"
+ "finished_utc": "2026-10-09T19:32:25"
 }
