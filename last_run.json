@@ -1,7 +1,7 @@
 {
  "keywords_total": 118,
  "per_keyword_items": {
-  "undercover": 30,
+  "undercover": 60,
   "number nine": 30,
   "hysteric glamour": 30,
   "rick owens": 30,
@@ -33,7 +33,7 @@
   "comme des garcons": 30,
   "john galliano": 30,
   "jean paul gaultier": 30,
-  "amiri": 29,
+  "amiri": 30,
   "stone island": 30,
   "bernhard willhelm": 30,
   "hussein chalayan": 30,
@@ -59,7 +59,7 @@
   "inaisce": 30,
   "guidi": 30,
   "a1923": 30,
-  "individual sentiments": 30,
+  "individual sentiments": 58,
   "obscur": 30,
   "leon emanuel blanck": 30,
   "thom krom": 30,
@@ -74,7 +74,7 @@
   "givenchy": 30,
   "dior homme": 30,
   "louis vuitton": 30,
-  "heron preston": 30,
+  "heron preston": 60,
   "fear of god": 30,
   "yeezy": 30,
   "sp5der": 30,
@@ -103,7 +103,7 @@
   "allsaints": 30,
   "zadig & voltaire": 30,
   "american apparel": 30,
-  "urban outfitters": 30,
+  "urban outfitters": 60,
   "cheap monday": 30,
   "unif": 30,
   "marc jacobs": 30,
@@ -120,21 +120,21 @@
   "chanel": 30,
   "if six was nine": 30
  },
- "new_items": 134,
+ "new_items": 125,
  "subscribers": 1,
- "sent": 1,
+ "sent": 30,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥90 | 鱼头undercover解构拼接裤上身一次成色95新看实物私 信",
-  "rick owens | ¥270 | RICK OWENS RO胖丁面包鞋，1:1 因为自己不会搭 配 男士低帮款，黑",
-  "gucci | ¥3500 | 古驰Padlock小号月光宝盒包 Gucci Padlock小号月光宝盒包，黑色",
-  "diesel | ¥59.90 | 原版！闲置巴黎世家原版开发浅蓝色水洗牛仔裤 宽松直筒版型 男 女同款 四季都能穿",
-  "balmain | ¥90 | Balmain巴尔曼金扣V领针织开衫 黑色款 s码数不是正品 几乎全新 保存很好",
-  "balmain | ¥39 | 巴尔曼黑色衬衫女通勤上衣打底衫 xs码，衣长60，胸围96，袖长60 品质很好，",
-  "vivienne westwood | ¥54 | 全新西太后vivienne别针项链 女款 别针回形针设计 没有戴过 手提袋、擦银",
-  "vivienne westwood | ¥68 | 急出：正品西太后四爪满钻土星耳钉 耳环 耳坠 公司年会活动在香港铜锣湾购物中心西"
+  "undercover | ¥259 | 【现货】Undercover 昆虫夹克 刺绣水洗牛仔夹克 全码现货",
+  "undercover | ¥315 | undercover联名n.hollywoodt恤短袖高桥盾 感兴趣的话点“我想",
+  "undercover | ¥249 | Undercover AW06 Archive Guru 昆 虫刺绣牛仔裤Siz",
+  "undercover | ¥220 | uc红线牛Undercover 68 红线破坏糜烂牛仔裤 Size：1/2/3C",
+  "undercover | ¥55.30 | Undercover 06ss T期 Chuuut！虚拟乐队 呐喊女旋涡人像印花",
+  "undercover | ¥159 | United Colors of Benetton灰色翻领外 套free siz",
+  "undercover | ¥59 | 出Nike x Undercover Daybreak联名跑 鞋，黑色，42码内",
+  "undercover | ¥469 | G-STAR RAW，印度产，重磅水洗帆布，立领工装外套，撞 色蓝色纽扣，多口袋"
  ],
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-09T16:20:20"
+ "finished_utc": "2026-10-09T16:48:44"
 }
