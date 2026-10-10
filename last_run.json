@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 6,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥1204 | 44【S】RICK OWENS/LEVEL T 日本代购 44【S】RICK O",
-  "rick owens | ¥399 | Vintage 80s Stick Figure Funny Slogan趣味火",
-  "rick owens | ¥359 | 奥莱拼单，Converse+x+Rick+Owens+DRK SHDW+Chuc",
-  "rick owens | ¥1500 | Rick Owens Drkshdw Abstract 坦克 底大匡威 厚底低帮",
-  "rick owens | ¥2480 | Julius_7暗黑先锋20fw防毒面具蜡面涂层炮弹裤 【尺码】3码 腰围86 ",
-  "rick owens | ¥4399 | RICK OWENS DRKSHDW 男士 黑色锦纶牛仔夹克 稀有S码 未下水 ",
-  "rick owens | ¥110.35 | Rick Owens黑色短裤，XS码，腰围74-96cm，裤 长65cm，25年",
-  "rick owens | ¥6069 | Rick Owens Geobasket运动鞋 日本代购 Rick Owens "
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T21:31:32"
+ "finished_utc": "2026-10-10T22:01:30"
 }
