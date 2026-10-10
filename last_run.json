@@ -1,19 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 0
+  "rick owens": 30
  },
  "new_items": 0,
- "subscribers": null,
+ "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
  "sample_new": [],
  "last_alert_utc": null,
- "empty_streak": 1,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "session_suspect": true,
- "finished_utc": "2026-10-10T05:31:38"
+ "empty_streak": 0,
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-10T06:01:50"
 }
