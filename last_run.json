@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥278 | Rick Owens x Converse 匡威 联名款，厚 底高帮板鞋，黑白配"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T19:01:47"
+ "finished_utc": "2026-10-10T19:31:28"
 }
