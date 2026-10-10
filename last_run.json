@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥3480 | Rick Owens主线黑白牛皮倒三角40码黄金码 40-4 1完美驾驭 后跟磨"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T20:31:35"
+ "finished_utc": "2026-10-10T21:01:33"
 }
