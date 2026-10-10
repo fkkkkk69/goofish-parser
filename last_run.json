@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 6,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥6500 | rick ownes 蛇皮倒三角 39 全新成色 因为存放问 题有一些地方氧化了",
+  "rick owens | ¥4800 | rick owens  creeper boots 小牛皮拉 链军靴 搭配修身拉",
+  "rick owens | ¥5000 | rick owens  creeper boots 小牛皮拉 链军靴 搭配修身拉",
+  "rick owens | ¥5000 | rick owens  creeper boots 小牛皮拉 链军靴 搭配修身拉",
+  "rick owens | ¥5000 | rick owens  creeper boots 小牛皮拉 链军靴 搭配修身拉",
+  "rick owens | ¥4800 | rick owens  creeper boots 小牛皮拉 链军靴 搭配修身拉",
+  "rick owens | ¥520 | 【全新原盒】自主RO欧文斯Rickowens 主线经典西瓜头 【全新原盒】自主R",
+  "rick owens | ¥508 | 【全新原盒】RO欧文斯 Rick Owens 同款主线低帮牛 【全新原盒】RO欧"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T23:01:41"
+ "finished_utc": "2026-10-10T23:31:36"
 }
