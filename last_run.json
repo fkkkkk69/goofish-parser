@@ -1,22 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 5,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥580 | [工厂实拍］ 【自助下单，尺码留言给我】[工厂实拍］Rickowens 牛仔布中",
-  "rick owens | ¥70 | RO奶香鞋底，RICK OWENS风格，白色橡胶大底，纹路清 晰，防滑耐磨，适合",
-  "rick owens | ¥465 | 莞顶RO自主品牌Rick Owens瑞克RO中帮侵权黑色牛皮 【自助下单，尺码留",
-  "rick owens | ¥454 | 莞顶RO自主品牌RICK OWENS棕色侵权款低帮板鞋RO厚 【自助下单，尺码留",
-  "rick owens | ¥158 | 全新包邮Dr.martens马汀博士Rick Owens R O主线新款马丁靴男"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T07:01:33"
+ "finished_utc": "2026-10-10T07:31:40"
 }
