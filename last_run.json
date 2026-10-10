@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥1899 | rick owens 红色麂皮薄底德训 运动鞋36 37 38 39全新全配 支",
+  "rick owens | ¥701 | 【稀有/包缝】熊谷和幸 七分袖针织衫 2 日本代购 感谢您的浏览。KAZUYUK",
+  "rick owens | ¥588 | 特价秒杀全新BrooksBrothers布克兄弟 女士灯芯绒裤子，面料非常好，正",
+  "rick owens | ¥870 | Rick Owens 主线侵权 牛皮板鞋 RICK OWENS/RO 全粒面小牛",
+  "rick owens | ¥3000 | RICKOWENS DRKSHDW RO斜拉链巫师帽黑色连帽 外套卫衣 黑色 女",
+  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟新款 女 士休闲裤新款吊牌齐",
+  "rick owens | ¥399 | 特价秒杀全新BrooksBrothers布克兄弟女士羊毛西裤 ，面料非常好，正价",
+  "rick owens | ¥588 | 特价秒杀全新BrooksBrothers布克兄弟 女士灯芯绒裤子，九分宽腿裤，新"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T13:31:38"
+ "finished_utc": "2026-10-10T14:01:42"
 }
