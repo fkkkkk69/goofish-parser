@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥1100 | 【正品】RICK OWENS/RO全粒面小牛皮 【正品】RICK OWENS/R",
+  "rick owens | ¥799 | Vintage 00s Polo Ralph Lauren Khaki Harr",
+  "rick owens | ¥399 | Vintage 00s Puma Track Jacket Puma立领运动外套",
+  "rick owens | ¥399 | Vintage 00s Adidas Track Jacke tAdidas立领",
+  "rick owens | ¥499 | Vintage 90s Adidas Equipment J acketAdid",
+  "rick owens | ¥399 | 低价闲置 Rick Owens DRKSHDW主线高帮鞋 911黑白配色 44码",
+  "rick owens | ¥580 | 【已过验】RICK OWENS/RO 小牛皮 增高 舒适百搭 【已过验】RICK",
+  "rick owens | ¥520 | 【已过验】RICK OWENS/RO 舒适百搭 低帮 时尚板 【已过验】RICK"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T07:31:40"
+ "finished_utc": "2026-10-10T08:01:57"
 }
