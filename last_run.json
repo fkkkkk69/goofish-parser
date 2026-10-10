@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 31,
  "subscribers": 1,
- "sent": 0,
+ "sent": 6,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2980 | 【全新】Rick Owens主线纯白milk倒三角35码 黄金码35-36.5都",
+  "rick owens | ¥5880 | Chrome Hearts/克罗心 Mattyboy华夫格长 袖 尺码L 成色9",
+  "rick owens | ¥4899 | Rick Owens 主线纯黑色倒三角 geobasket 小牛皮Size：36",
+  "rick owens | ¥554 | 不过验包退款！！rick Owen's 侵权 vans板鞋 不过验包退款！！ri",
+  "rick owens | ¥5180 | Chrome Hearts克罗心十字花长袖 尺码XL 成色9 9新品牌：Chro",
+  "rick owens | ¥6280 | Chrome Hearts/克罗心 刺绣梵文花臂马蹄连帽卫衣 尺码L 成色95新",
+  "rick owens | ¥580 | 【顶级版】RICK OWENS RO Luxor Vinta 【顶级版】RICK",
+  "rick owens | ¥580 | 【顶级渠道】RO Rick Owens DRKSHDW Co 【顶级渠道】RO "
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T10:31:34"
+ "finished_utc": "2026-10-10T11:01:38"
 }
