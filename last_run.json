@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥99 | 【几乎全新】RICK OWENS 低帮板鞋 43码 黑白色｜ 全粒面小牛皮｜做工"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T15:31:38"
+ "finished_utc": "2026-10-10T16:01:38"
 }
