@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 14,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥480 | （闲置）Rick Owens ro 拉链织带工装夹克外套 高价购入 成色细节自观",
-  "rick owens | ¥1880 | RICKOWENS 专柜购置全新 SIZE: 40码",
-  "rick owens | ¥129 | RICKOWENS DRKSHDW RO高帮厚底帆布鞋 黑白 色大匡威 37码 ",
-  "rick owens | ¥8699 | 【折扣】RickOwens 24FW 男款 斜拉链羽绒服 黑 色size：46 ",
-  "rick owens | ¥457.95 | 【顶级版本】RO欧文斯Rickowens 侵权vans 【顶级版本】RO欧文斯R",
-  "rick owens | ¥117.98 | 【最强性价比版本】潮物库存货 ro欧文斯rickowens 【最强性价比版本】潮",
-  "rick owens | ¥204.97 | 【最强性价比版本】玉龙自主款 ro欧文斯rickowens 【最强性价比版本】玉",
-  "rick owens | ¥137.98 | 【最强性价比版本】ro欧文斯rickowens+侵权vans 【最强性价比版本】"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T15:01:40"
+ "finished_utc": "2026-10-10T15:31:38"
 }
