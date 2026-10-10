@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥55 | Adidas x Rick Owens联名贝壳头高帮板鞋，黑 色，36码，真皮材"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-10T13:01:35"
+ "finished_utc": "2026-10-10T13:31:38"
 }
