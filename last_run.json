@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥3899 | 【正品折扣】RickOwens  侵权vans奶昔白 Size：39  40  ",
+  "rick owens | ¥200 | 【现货】日本古着店淘的Osaka长袖 借：14th addiction｜kmri",
+  "rick owens | ¥30 | 包臀半身裙 S码 纯黑色 松紧腰+抽绳，后开叉，侧口袋100%棉，内里有拼接，腰",
+  "rick owens | ¥452 | RICK OWENS RO春季新品VEJA联名款，41码羊毛 透气跑步运动休闲鞋",
+  "rick owens | ¥355 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥220 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥1400 | Rick owens双环裤 s码 腰围38 弹力腰适合绝大多 数腰围 裤长112",
+  "rick owens | ¥2176 | Rick Owens drkshdw CONV 日本代购 Rick Owens "
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T07:01:42"
+ "finished_utc": "2026-10-11T07:31:19"
 }
