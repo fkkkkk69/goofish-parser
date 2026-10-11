@@ -1,22 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 5,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥1788 | Converse x Rick Owens DRKSHDW TURBOWPN联名",
-  "rick owens | ¥3999 | Rickowens疯狂绑带毛绒雪地靴棕色 36码 二手 尺码：36/US6/24",
-  "rick owens | ¥4528 | 全新RICK OWENS主线黑色皮面低帮大匡威，36码，原盒 配件全，没穿过，成",
-  "rick owens | ¥2899 | Rick Owens 袋鼠皮衣 背褶设计 女款，42码肩：37cm胸：50cm长",
-  "rick owens | ¥1188 | Rick Owens 2027秀款个性潮流时尚涂层染色金秀款 喇叭裤意大利制造 "
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T21:01:32"
+ "finished_utc": "2026-10-11T21:31:26"
 }
