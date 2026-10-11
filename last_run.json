@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2999 | Vintage West Coast Choppers 华夫 格卫衣尺码：XL数",
+  "rick owens | ¥239 | 中古 Archive暗黑机能 先锋复古战地风 轻宫廷 微喇袖 真皮皮衣手工测量（",
+  "rick owens | ¥713 | Rick Owens 掉裆裤，S码，正品 只穿了一次，实物如图，版型很有特点，前",
+  "rick owens | ¥6450 | Rick Owens Mega Bumper高帮板鞋 尺码：36欧洲现货 全新原",
+  "rick owens | ¥480 | 莞顶RO自主品牌Rick Owens瑞克RO中帮侵权黑色牛皮 莞顶RO自主品牌R",
+  "rick owens | ¥458 | 莞顶RO自主品牌RICK OWENS棕色侵权款低帮板鞋RO厚 莞顶RO自主品牌R",
+  "rick owens | ¥889 | vivienne tam谭燕玉08SS秀场红色艳丽芍药花双面 印花网纱连衣裙中古",
+  "rick owens | ¥380 | DARKWAVE立体剪裁独特挂脖抹胸牛仔连衣裙 衣长125 胸围87 腰围85全"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T09:01:27"
+ "finished_utc": "2026-10-11T09:31:35"
 }
