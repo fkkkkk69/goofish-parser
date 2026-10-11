@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 4,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2799 | rick owens detroit cut jeans 16oz made i",
+  "rick owens | ¥3499 | rick owens geth cut jeans 16oz made in j",
+  "rick owens | ¥3999 | 全新OMNIGOD 老日产 紫制品 LVC  RRL牛仔裤 【尺寸：W31 W3",
+  "rick owens | ¥5999 | Rick Owens 26SS Amry bogun 小牛皮 军靴尺码 ：45-",
+  "rick owens | ¥6428 | Rick OwensDRKSHDW Memph 日本代购 Rick OwensD",
+  "rick owens | ¥4999 | 全新OMNIGOD 老日产 紫制品 LVC  RRL牛仔裤 【尺寸：W32腰围8",
+  "rick owens | ¥3980 | 全新OMNIGOD 老日产 紫制品 LVC  RRL牛仔裤 【尺寸：W34腰围8",
+  "rick owens | ¥3699 | OMNIGOD 老日产 紫制品 LVC  RRL牛仔裤 【尺寸：W34腰围86大"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T13:31:35"
+ "finished_utc": "2026-10-11T14:01:46"
 }
