@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 31,
  "subscribers": 1,
- "sent": 0,
+ "sent": 4,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥120 | Rick Owens RO巫师帽拉链卫衣 连帽设计斜拉链  穿着舒服 没怎么穿过",
+  "rick owens | ¥3825 | drkshdw vintage 黑色 43 r 日本代购 drkshdw vin",
+  "rick owens | ¥550 | 全新高奢零售订单 RICK OWENS/RO 黑色 【自助下单，尺码留言给我】全",
+  "rick owens | ¥550 | 全新 市场最强 RICK OWENS/RO RUNNER系列 【自助下单，尺码留",
+  "rick owens | ¥550 | 全新 市场最强 RICK OWENS/RO 小牛皮绒面革 圆 【自助下单，尺码留",
+  "rick owens | ¥139 | Rick Owens 抽绳袋 赠品 日本代购 感谢您的浏览。宽39厘米 高47厘",
+  "rick owens | ¥880 | AllSaints棕色翻领皮衣 Rick Owens风格整件剪裁版型都好好UK8",
+  "rick owens | ¥876 | Diesel BLACK GOLD 00s y 日本代购 Diesel BLAC"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T04:31:33"
+ "finished_utc": "2026-10-11T05:01:32"
 }
