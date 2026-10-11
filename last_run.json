@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 10,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 3,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥288 | 出RO风格高帮鞋 米白色 Rick Owens风格 41码 RO FABLED ",
-  "rick owens | ¥480 | Brunello Cucinelli、2026爆款休闲裤 高 弹显瘦必爆简约百搭",
-  "rick owens | ¥480 | Brunello Cucinelli、2026爆款休闲裤 高 弹显瘦必爆简约百搭",
-  "rick owens | ¥48800 | Chrome hearts x Rick Owens克罗心R O黑白倒三角siz",
-  "rick owens | ¥210 | RICK OWENS/RO 舒适简约 低帮 板鞋 RICK OWENS/RO 舒",
-  "rick owens | ¥269 | vintage 欧牌 80-90s European vin tage 雕塑感解",
-  "rick owens | ¥58800 | Chrome hearts x Rick Owens克罗心R O白色倒三角siz",
-  "rick owens | ¥169 | 韩产古着千禧风亚文化c.o.z.e老标半身裙春秋冬学院通勤文 艺书卷风卡其色米色"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T22:31:28"
+ "finished_utc": "2026-10-11T23:01:27"
 }
