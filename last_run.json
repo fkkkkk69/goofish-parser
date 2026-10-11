@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 24,
  "subscribers": 1,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥149 | Rick Owens RO 尼龙排扣长裤 50码 裤脚有磨损腰围68-102 裤",
+  "rick owens | ¥550 | 【已过验】RO匡威 Rick Owens DRKSHD 【已过验】RO匡威 Ri",
+  "rick owens | ¥4999 | Rick owens 26Fw 新款粗鞋带皮质低帮大匡威 尺码 36 37 37",
+  "rick owens | ¥1000 | (sold)Rick Owens geth長褲 Size:329成新",
+  "rick owens | ¥2899 | Rick Owens Drkshdw 26ss 黑色新款帆布 侵权vans Si",
+  "rick owens | ¥3000 | (sold)Rick Owens 23 cargo bela Size:S9成新",
+  "rick owens | ¥13900 | Rick Owens fw26 皮毛一体nasaka bik er 燕尾皮衣si",
+  "rick owens | ¥8800 | Rick Owens fw26 燕尾皮衣 size：42 44材质：Lbs 羊皮"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T11:01:43"
+ "finished_utc": "2026-10-11T11:31:29"
 }
