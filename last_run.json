@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 25,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2080 | RICKOWENS RO主线 牛皮拉链中筒靴 机车靴 非斜拉 链靴 42码 高筒",
+  "rick owens | ¥588 | 特价秒杀全新Brooks Brothers/布克兄弟新款 女 士阔腿休闲长裤、吊",
+  "rick owens | ¥238 | Rick Owens低帮板鞋，灰白配色，粗鞋带设计，男女同款 ，四季都能穿。全新",
+  "rick owens | ¥588 | 特价秒杀全新Brooks Brothers/布克兄弟新款 女 士阔腿休闲长裤、吊",
+  "rick owens | ¥1399 | vintage（ 大码）【The Kooples】重磅法式摇 滚皮衣油蜡水洗羊皮",
+  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟 女士休 闲裤吊牌齐全购物袋",
+  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟 女士休 闲裤吊牌齐全，藏青",
+  "rick owens | ¥799 | RICKOWENS DRKSHDW RO复线帆布一脚蹬大匡威 RO懒人鞋大匡威 "
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T19:01:42"
+ "finished_utc": "2026-10-11T19:31:38"
 }
