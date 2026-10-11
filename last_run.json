@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥120 | 【包邮出】RICK OWENS高帮靴，白色，厚底，增高效果好 ，鞋面拼接设计，细"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T03:31:30"
+ "finished_utc": "2026-10-11T04:01:24"
 }
