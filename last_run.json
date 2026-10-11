@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 31,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥130 | 仅穿一次 36码 rick owens 真皮高帮鞋 有一只鞋带脏了鞋子太多 闲置",
+  "rick owens | ¥3899 | OMNIGOD 元年夹克 SUGAR CANE 紫制品 LV C  RRL vi",
+  "rick owens | ¥300 | 自己买的 Converse x Rick Owens DRK SHDW 1970",
+  "rick owens | ¥300 | 自己买的 Converse x Rick Owens DRK SHDW 1970",
+  "rick owens | ¥300 | 自己买的 Converse x Rick Owens DRK SHDW 1970",
+  "rick owens | ¥3899 | 【正品折扣】现货RickOwens 24ss 春夏棕色牛皮v ans侵权Size",
+  "rick owens | ¥3888 | SUGAR CANE 夹克牛仔衣 紫制品OMNIGOD LV C  RRL vi",
+  "rick owens | ¥500 | rick owens+drk+双层+T恤+短袖+长袖+假两件 黑色XS码"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T15:01:59"
+ "finished_utc": "2026-10-11T15:31:42"
 }
