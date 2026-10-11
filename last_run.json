@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 11,
  "subscribers": 1,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥599 | Vintage 80s Batman 蝙蝠侠 DC Comi cs 漫画周边短袖",
+  "rick owens | ¥399 | Vintage 00s Dissection解剖乐队  瑞典 黑金属乐队短袖 B",
+  "rick owens | ¥399 | Vintage 00s Sublime崇高乐队 斯卡雷鬼乐队 短袖 Band T",
+  "rick owens | ¥1099 | Vintage Prince 1990s 数据：衣长78 胸围60✖️2 介绍：",
+  "rick owens | ¥3687 | 新品 Dr.Martens Rick Owen 日本代购 新品 Dr.Marte",
+  "rick owens | ¥180 | （小泽yyds）RICK OCEAN RO自主主线皮面粗鞋带 奶香底高街低帮鞋 ",
+  "rick owens | ¥2499 | Rick owen主线牛皮低帮大匡威黑白 37码 二手 尺码：37/US7/25",
+  "rick owens | ¥6250 | Rick Owens Beatle Ballast Boot s圆头靴36码Ar"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T21:31:26"
+ "finished_utc": "2026-10-11T22:01:44"
 }
