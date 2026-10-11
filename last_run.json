@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥629 | 国内现货！现货！现货！irregular choice 英国 小众设计师品牌黑白",
+  "rick owens | ¥390 | Rick Owens DRKSHDW MEGA Bumper Rick Owen",
+  "rick owens | ¥1675 | 几乎全新 Rick Owens DRKSHDW 坦克底厚底帆 布鞋，黑白配色，4",
+  "rick owens | ¥85 | 正品aape og nigo时期  黑白配图猿人头脸 log o卫衣  aape",
+  "rick owens | ¥319.89 | 包过验！清远XC版本 RICKOWENS/RO 侵权黑色皮面 包过验！清远XC版",
+  "rick owens | ¥7920 | 里克·欧文斯 FOGPOCKET 外搭衬衫 4 日本代购 里克·欧文斯 FOGP",
+  "rick owens | ¥600 | 自己看下市场价，那个价格有33人买，这还是大码，著名博主vi to竭尽全力才搞到",
+  "rick owens | ¥200 | 正品aape og nigo时期  双面限定款连帽夹克➕黑灰 迷彩 细节满满aa"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T23:01:27"
+ "finished_utc": "2026-10-11T23:31:22"
 }
