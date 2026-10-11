@@ -1,22 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 5,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥3899 | 【国内现货】Rick Owens 大破坏水洗牛仔夹克 全新尺 码S 吊牌齐全 意",
-  "rick owens | ¥8466 | 14SS Rick Owens Geobask 日本代购 14SS Rick O",
-  "rick owens | ¥3599 | 正品rick owens drkshdw fw23 秀款破坏牛仔外套 全新带吊牌",
-  "rick owens | ¥1417 | Converse x RICK OWENS 黑 38.5码货 号：A12063C",
-  "rick owens | ¥299 | 几乎全新 Rick Owens DRKSHDW黑色飞鼠裤，M 码，意大利制造，经"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-11T14:31:29"
+ "finished_utc": "2026-10-11T15:01:59"
 }
