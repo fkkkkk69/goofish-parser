@@ -3,14 +3,18 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 3,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥595 | Rick Owens Tecuatl SS20 绑带贴布衬衫 夹克 IT52 暗",
+  "rick owens | ¥299 | Rick Owens x Converse联名Turbowp n，42.5码伊拉",
+  "rick owens | ¥35 | RICK OWENSxl黑色牛仔裤，腰围90长度103，XL 码，五连扣，直筒版"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T20:01:46"
+ "finished_utc": "2026-10-12T20:31:35"
 }
