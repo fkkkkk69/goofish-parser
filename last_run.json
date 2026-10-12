@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 11,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥100 | Rick Owens倒三角高帮鞋 黑白配色 41 意大利制造 牛皮材质 侧边拉链",
+  "rick owens | ¥1888 | Rick+Owens主线羊皮过膝靴，37.5码，黑色奶白鞋头 ，只穿过一两次，鞋",
+  "rick owens | ¥5463 | Rick Owens Geobasket Me 日本代购 Rick Owens ",
+  "rick owens | ¥3797 | Rick Owens Bela pods 46 日本代购 Rick Owens ",
+  "rick owens | ¥658 | archive gimmick 00s doc 日本代购 archive gim",
+  "rick owens | ¥18900 | 【孤码特价】Rickowens 新款尖头靴 tower ta conaska比k",
+  "rick owens | ¥13900 | 【稀有款孤码】Rickowens 最新款异型跟长靴 towe r taco ca",
+  "rick owens | ¥10900 | Rick Owens Moncler 羽绒服 3码 极品成色稀有大码 把握墨尔本"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T05:01:53"
+ "finished_utc": "2026-10-12T05:31:50"
 }
