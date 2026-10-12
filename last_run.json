@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥289.90 | 36码 （内长225）匡威 Rick Owens DRKSH DW  × Con",
+  "rick owens | ¥6899 | Rick owens turbo 棺材底绑带靴子鞋靴 全新全套现货，极限补货一双",
+  "rick owens | ¥390 | Rick Owens DRKSHDW MEGA Bumper Rick Owen",
+  "rick owens | ¥360 | 【现货】Jocomomola紫色羊毛大摆伞裙半身裙半裙 腰围66cm 裙长69c",
+  "rick owens | ¥1599 | Rick Owens 主线基础款修身西装外套 46码 内衬有痕迹 其他无瑕疵 胸",
+  "rick owens | ¥479 | Vintage Misfits Skull Band T-s hirtMisfi",
+  "rick owens | ¥499 | ROG RO暗黑做旧铁头马丁靴，黑色，42码男款 鞋头铁头设计，拉链+手缝线，固",
+  "rick owens | ¥599 | Converse x Rick Owens DRKSHDW 1970s Turb"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T15:01:59"
+ "finished_utc": "2026-10-12T15:32:10"
 }
