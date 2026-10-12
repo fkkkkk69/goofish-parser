@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 31,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥439 | RTFKT Studios x NK Dunk Genesi RTFKT Stu",
+  "rick owens | ¥368 | 【现货】日牌 Odette e Odile OL小香风高跟鞋 女 鞋码36可穿 ",
+  "rick owens | ¥218 | 个人闲置 清空鞋柜断舍离  Rick Owens倒三角粗鞋带 高帮鞋，原鞋盒都在",
+  "rick owens | ¥2680 | Rick Owens17SS秀款夹克46码黄金尺码 衣长➕后摆68 胸围106 ",
+  "rick owens | ¥470 | Dickies Vintage 90s 古着 迪凯斯 破坏 褪色 直筒 工装裤 ",
+  "rick owens | ¥449 | GD版！帆布大匡威RO / Rick Owens DRKSH GD版！帆布大匡威",
+  "rick owens | ¥449 | GD版！帆布大匡威RO / Rick Owens DRKSH GD版！帆布大匡威",
+  "rick owens | ¥499 | GD版本！Rick Owens Drkshdw 瑞克·欧文厚 GD版本！Rick"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T16:31:55"
+ "finished_utc": "2026-10-12T17:01:54"
 }
