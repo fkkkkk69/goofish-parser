@@ -3,14 +3,23 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 28,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥4917 | Rick Owens Drkshdw STRO 日本代购 Rick Owens ",
+  "rick owens | ¥1500 | Converse Rick Owens drkshdw 联名 米白色正品 鉴定过",
+  "rick owens | ¥1804 | Rick Owens OPEN PONY TA 日本代购 Rick Owens ",
+  "rick owens | ¥4999 | 【现货】Chrome Hearts 克罗心 拉斯维加斯 限定 白色 长袖 花臂 ",
+  "rick owens | ¥550 | 保真瑞克欧文 RICK OWENS/RO 黑色配色 低帮百搭 保真瑞克欧文 RI",
+  "rick owens | ¥238 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥198 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥3399 | OMNIGOD 老日产夹克外套 牛仔衣 紫制品 LVC  R RL visvim"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T09:02:17"
+ "finished_utc": "2026-10-12T09:31:52"
 }
