@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 12,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 4,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥699 | 【已过验】RICK OWENS/RO  棕色 【已过验】RICK OWENS/R",
-  "rick owens | ¥583 | 【已过验】RICK OWENS/RO  黑色 帆布 【已过验】RICK OWEN",
-  "rick owens | ¥584 | 【已过验】RICK OWENS/RO  黑色 皮面 【已过验】RICK OWEN",
-  "rick owens | ¥1477 | Rick Owens TARP T/尺码M 日本代购 International",
-  "rick owens | ¥4343 | Rick Owens 拉里衬衫 日本代购 里克·欧文斯（Rick Owens）的",
-  "rick owens | ¥388 | s 一比一规格礼盒装，外加定制欧文斯保护盒配有日文、英文，双 s 一比一规格礼盒",
-  "rick owens | ¥5180 | Chrome Hearts克罗心梵文长袖 成色全新 尺码L 品牌：Chrome ",
-  "rick owens | ¥299 | L.G.B 00s long sleeves sweat视觉 系做旧拼色半高领卫"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-12T06:31:38"
+ "finished_utc": "2026-10-12T07:02:10"
 }
