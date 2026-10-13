@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 18,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥522 | 全新正品  不过验包退  RICK OWENS/RO 舒适简 全新正品  不过验",
+  "rick owens | ¥499 | RO风格Rick Owens ODRKSHDW O&M tr ack jacke",
+  "rick owens | ¥2980 | 全新  Rick Owens主线顶级黑武士倒三角37码黄金码 37-38都可以完",
+  "rick owens | ¥1899 | Rick Owens顶级锡纸大匡威43码黄金码 43-44都能完美驾驭 自穿非常",
+  "rick owens | ¥3699 | Rick Owens主线顶级哑光牛皮侵权Vans42码 黄金码99新带原鞋盒25",
+  "rick owens | ¥358 | 【in stock现货】刘宇同款 自主 Celine Los Angeles凯旋",
+  "rick owens | ¥438 | 【原厂皮2.0】 RO欧文斯Rickowens RO侵权va 【原厂皮2.0】 ",
+  "rick owens | ¥980 | Rick Owens 主线侵权 牛皮板鞋 RICK OWENS/RO 全粒面小牛"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T07:01:39"
+ "finished_utc": "2026-10-13T07:31:47"
 }
