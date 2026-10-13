@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥199 | Converse x Rick Owens DRKSHDW 1970s All ",
+  "rick owens | ¥671.04 | 【已过验】RICK OWENS/RO  棕色 【已过验】RICK OWENS/R",
+  "rick owens | ¥559.67 | 【已过验】RICK OWENS/RO  黑色 帆布 【已过验】RICK OWEN",
+  "rick owens | ¥560.64 | 【已过验】RICK OWENS/RO  黑色 皮面 【已过验】RICK OWEN",
+  "rick owens | ¥1084 | RICK OWENS DRKSHDW / 里克 日本代购 RICK OWENS ",
+  "rick owens | ¥1914 | RICK OWENS / 里克·欧文斯 基础T 日本代购 RICK OWENS ",
+  "rick owens | ¥438 | 【原厂皮2.0】 RO欧文斯Rickowens RO侵权va 【原厂皮2.0】 ",
+  "rick owens | ¥880 | Rick Owens DRKSHDW黑色无袖卫衣 尺码：L码状态：99新 工价3"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T09:01:59"
+ "finished_utc": "2026-10-13T09:31:35"
 }
