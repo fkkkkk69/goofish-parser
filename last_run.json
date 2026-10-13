@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 16,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥520 | 【已过验】RICK OWENS/RO 舒适百搭 低帮 时尚板 【已过验】RICK",
-  "rick owens | ¥580 | 【已过验】RICK OWENS/RO 小牛皮 圆头厚底 高帮 【已过验】RICK",
-  "rick owens | ¥500 | 【已过验】RICK OWENS/RO 舒适简约系带 低帮 板 【已过验】RICK",
-  "rick owens | ¥559 | 【已过验】RICK OWENS/RO LUXOR 头层牛皮 【已过验】RICK ",
-  "rick owens | ¥520 | 【已过验】RICK OWENS/RO 舒适简约系带 低帮 板 【已过验】RICK",
-  "rick owens | ¥580 | 【已过验】RICK OWENS/RO 小牛皮 增高 舒适百搭 【已过验】RICK",
-  "rick owens | ¥584 | 【已过验】RICK OWENS/RO  黑色 皮面 【已过验】RICK OWEN",
-  "rick owens | ¥520 | 【已过验】RICK OWENS/RO LUXOR 头层牛皮 【已过验】RICK "
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T08:01:36"
+ "finished_utc": "2026-10-13T08:31:47"
 }
