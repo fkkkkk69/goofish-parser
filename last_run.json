@@ -3,16 +3,23 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 30,
  "subscribers": 1,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "rick owens | ¥299 | Rick Owens DRKSHDW x Chuck 70 24ss联名厚底米棕"
+  "rick owens | ¥520 | 【全新原盒】自主RO欧文斯Rickowens 主线经典西瓜头 【全新原盒】自主R",
+  "rick owens | ¥508 | 【全新原盒】RO欧文斯 Rick Owens 同款主线低帮牛 【全新原盒】RO欧",
+  "rick owens | ¥540 | RICK OWENS/RO 牛皮皮革真皮 圆头系带 低帮 板 RICK OWEN",
+  "rick owens | ¥569.90 | RICK OWENS/RO TEMPLE 全粒面小牛皮 魔术 RICK OWEN",
+  "rick owens | ¥298 | RICK OWENS/RO 圆头系带平底 低帮 板鞋 男女同 RICK OWEN",
+  "rick owens | ¥501.60 | RICK OWENS/RO Concordians 牛皮 圆 RICK OWEN",
+  "rick owens | ¥226 | Rick Owens DRKSHDW x Converse Rick Owens",
+  "rick owens | ¥589.90 | Rick Owens DRKSHDW Mega Bumper Rick Owen"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T23:01:39"
+ "finished_utc": "2026-10-13T23:32:40"
 }
