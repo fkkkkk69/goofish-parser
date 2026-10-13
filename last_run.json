@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥700 | TRG自主品牌   RO欧文斯Rickowens   倒三角 厚底 黑白经典搭配"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T14:02:11"
+ "finished_utc": "2026-10-13T14:31:45"
 }
