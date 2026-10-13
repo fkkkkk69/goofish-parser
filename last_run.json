@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥270 | rick owens 高帮鞋 38码 意大利产 侧拉链设计 黑色暗黑风 经典款成",
-  "rick owens | ¥1080 | RICK OWENS 帆布鞋 36.5码 黑色侧拉链款 正品保证，支持走验货宝鞋",
-  "rick owens | ¥6828 | rick owens tyrone cut j 日本代购 rick owens ",
-  "rick owens | ¥508 | 【最顶】RO欧文斯 Rick Owens 同款主线低帮蓝色雾 【最顶】RO欧文斯",
-  "rick owens | ¥199 | 全新正品 ROMANTIC CROWN 韩国 浪漫皇冠 美式 复古 宽松 PU皮",
-  "rick owens | ¥518 | 【全新过验】自主RO欧文斯 Rick Owens 同款主线经 【全新过验】自主R",
-  "rick owens | ¥620 | 【全新过检】自主RO欧文斯Rick owens 高帮黑白皮面 【全新过检】自主R",
-  "rick owens | ¥580 | 【全新过检】自主RO欧文斯Rick owens 黑白皮生胶经 【全新过检】自主R"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T17:01:40"
+ "finished_utc": "2026-10-13T17:32:00"
 }
