@@ -1,25 +1,19 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 0
  },
- "new_items": 14,
- "subscribers": 1,
- "sent": 2,
+ "new_items": 0,
+ "subscribers": null,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥2099 | 巴黎世家10xl白黑灰配色 JM01496 码数41码 原盒配件齐全已鉴定洗护放",
-  "rick owens | ¥2699 | RICK OWENS CARGO PANTS蜡面大口袋RO 炮弹裤 DRKSHD",
-  "rick owens | ¥2599 | Rick Owens 21ss主线铜氨丝拉链长裤黑色侧面全拉 链尺码：50码 J",
-  "rick owens | ¥329 | Rick owens FW08SunfadedKembraP fahlerJsa",
-  "rick owens | ¥95 | 全新Converse x Rick Owens联名厚底高帮帆 布鞋，灰色水洗做旧",
-  "rick owens | ¥3599 | Rick Owens Drkshdw 黑色五芒星刺绣高帮大匡 威球鞋帆布鞋特价现",
-  "rick owens | ¥749 | RICK OWENS FW23走秀款石膏靴骨折靴 黑色高帮厚 底 魔术贴绑带设计",
-  "rick owens | ¥299 | 00s vintage Edwin 503 bluetrip 日产 复古水洗猫须"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
- "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-13T12:31:38"
+ "empty_streak": 1,
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "session_suspect": true,
+ "finished_utc": "2026-10-13T13:01:39"
 }
