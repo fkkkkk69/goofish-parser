@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 31,
  "subscribers": 1,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2750 | 正品 RICK OWENS绿马毛板鞋 43码 主线侵权款 马毛材质 鞋型有辨识度",
+  "rick owens | ¥340 | rick owens 面包鞋 夯中夯 40码 全新原盒黑白配色 粗鞋带 细节拉满",
+  "rick owens | ¥6480 | rickowens纯白厚底倒三角 mega 新款主线高帮ro 软鞋垫脚感很棒 r",
+  "rick owens | ¥60 | 周三晚八点拍卖｜Vintage 00s Whatever s logan fun",
+  "rick owens | ¥668 | vintage 00s Levis 503 wahsed C inch‑back",
+  "rick owens | ¥2699 | rick owens drkshdw 侵权vans帆布低帮板 鞋 尺码：43码状",
+  "rick owens | ¥728 | vintage 00s Levis 503 wahsed C inch‑back",
+  "rick owens | ¥869 | Ugg 黑色针织靴 几乎全新Size：欧码38 内长24.5cm （38.5-3"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T18:31:52"
+ "finished_utc": "2026-10-13T19:01:58"
 }
