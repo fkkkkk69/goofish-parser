@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 21,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥5880 | 正品Rick owens 疯狂绑带夹克 20ss木乃伊限定款 秀款外套 48码 ",
-  "rick owens | ¥7374 | \"rick owens\"莫利诺皮夹克 日本代购 这款里克·欧文斯的莫利诺皮夹克以",
-  "rick owens | ¥949 | 现货 | 【Burberry】中古黑色辣妹菱格羊皮扭结防水台 高跟凉鞋*size",
-  "rick owens | ¥2300 | rick owens drkshdw黑拼接刷蜡牛仔裤 32码全新全新",
-  "rick owens | ¥428 | 正渠道高版本RickOwens x Dr.Martens 疯 狂绑带章鱼底马丁靴",
-  "rick owens | ¥6282 | KIKO KOSTADINOV 黑色 Kran 日本代购 KIKO KOSTAD",
-  "rick owens | ¥3552 | 【稀有】Rick Owens 24秋冬 / W 日本代购 【稀有】Rick Ow",
-  "rick owens | ¥29800 | CHANEL 香奈儿 24C 星星漆皮大mini 紫色 底长 23.5 高18."
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-13T20:31:35"
+ "finished_utc": "2026-10-13T21:01:39"
 }
