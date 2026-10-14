@@ -3,14 +3,18 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 3,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥35 | RICK OWENSxl黑色牛仔裤，腰围90长度103，XL 码，五连扣，直筒版",
+  "rick owens | ¥35 | rickowen斜肩连衣裙 蓝灰色包臀裙 二手出 有磨损 看图片 不退不换 包邮",
+  "rick owens | ¥320 | RICKOWENS RO主线高帮牛皮纯黑厚底倒三角 42码 42到43可穿 非正"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T16:31:20"
+ "finished_utc": "2026-10-14T17:01:09"
 }
