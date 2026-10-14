@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 3,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥598 | 自主品牌  RO欧文斯Rickowens 主线高帮 经典西瓜 自主品牌  RO欧",
-  "rick owens | ¥530 | 自主RO欧文斯RickOwens主线经典西瓜头 麂皮摩卡棕色 自主RO欧文斯Ri",
-  "rick owens | ¥650 | 自主RO欧文斯Rickowens 倒三角厚底 男女高帮黑白经 自主RO欧文斯Ri",
-  "rick owens | ¥530 | 自主RO欧文斯RickOwens主线 疯马油蜡皮侵权万子低帮 自主RO欧文斯Ri",
-  "rick owens | ¥610 | 自主RO欧文斯Rickowens 倒三角 高帮黑白经典搭配色 自主RO欧文斯Ri",
-  "rick owens | ¥550 | 自主RO欧文斯Rick Owens麂皮棕 摩卡 2023年度 自主RO欧文斯Ri",
-  "rick owens | ¥550 | 自主RO欧文斯Rickowens 主线经典西瓜头 黑色皮面高 自主RO欧文斯Ri",
-  "rick owens | ¥550 | 自主RO欧文斯 Rick Owens 西瓜头 黑白皮面低帮高 自主RO欧文斯 R"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T18:01:38"
+ "finished_utc": "2026-10-14T18:31:20"
 }
