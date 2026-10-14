@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 8,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥3661 | Rick Owens Champion 联名款 日本代购 Rick Owens ",
-  "rick owens | ¥11700 | Rick Owens 14FW 骑手连帽夹克  日本代购 Rick Owens ",
-  "rick owens | ¥120 | Rick Owens x Dr.Martens联名马丁靴 黑 色五芒星绑带37码",
-  "rick owens | ¥8083 | 里克·欧文斯 Alice Blade 夹克 日本代购 【品牌】Rick Owen",
-  "rick owens | ¥388 | RICK OWENS DRKSHDW 2023SS秋冬新款厚 底高帮帆布鞋，黑色",
-  "rick owens | ¥299 | RICK OWENS DRKSHDW黑色厚底帆布鞋34-46 码，全新未穿，带原",
-  "rick owens | ¥398 | RICK OWENS主线黑白拼色一脚蹬板鞋34-46码全新未 穿，带原包装盒。鞋",
-  "rick owens | ¥2623 | 全新Rick Owens Drkshdw 26新款 黑色帆布 低帮大匡威43码 "
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T01:01:03"
+ "finished_utc": "2026-10-14T01:31:05"
 }
