@@ -3,23 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 1,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥559 | Rick owens  Beatle Gabe  筒靴 切尔 西靴 26秋冬 水",
-  "rick owens | ¥528 | Rickowens 瑞克 欧文斯 高街休闲板鞋 Rickowens 瑞克 欧文斯",
-  "rick owens | ¥460 | rick owens 小牛皮 佛山z总同源 黑色 本地档口直 rick owen",
-  "rick owens | ¥468 | RO自主品牌Rick Owens皮革黑浅灰侵权款RO侵黑色皮 RO自主品牌Ric",
-  "rick owens | ¥568 | Rick Owens RO Mega 瑞克·欧文斯 疯狂绑带 Rick Owen",
-  "rick owens | ¥538 | Rickowens 瑞克 欧文斯 RO Runner 薄底款 Rickowens",
-  "rick owens | ¥400 | 「莞产原礼盒」Converse x Rick Owens r o联名 牛皮材质 ",
-  "rick owens | ¥168 | （已验货）Rick Owens DRKSHDW x Conv erse 1970"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T12:31:10"
+ "finished_utc": "2026-10-14T13:01:14"
 }
