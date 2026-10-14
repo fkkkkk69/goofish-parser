@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥50 | Rick Owens奶白色低帮大匡威，45码，意大利制造，皮 面厚底，鞋型很特别",
-  "rick owens | ¥788 | Converse x Rick Owens DRKSHDW 联名高帮帆布鞋｜粉色",
-  "rick owens | ¥7537 | Rick owens 24SS LIDO Bo 日本代购 Rick owens ",
-  "rick owens | ¥4980 | rick owens beatle ballast boot ssize 41 ",
-  "rick owens | ¥728 | vintage 1990s Levis Type3 Deni m Jacket ",
-  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟、正价店 款，2690原价，",
-  "rick owens | ¥1080 | Converse x Rick Owens DRKSHDW TURBOWPN联名",
-  "rick owens | ¥598 | 自主品牌  RO欧文斯Rickowens 主线高帮 经典西瓜 自主品牌  RO欧"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T19:01:07"
+ "finished_utc": "2026-10-14T19:31:25"
 }
