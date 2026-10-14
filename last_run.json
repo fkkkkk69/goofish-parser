@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 21,
  "subscribers": 2,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥1699 | RICKOWENS DRKSHDW RO复线高帮帆布大匡威 女款 黑色缎面 38",
+  "rick owens | ¥2800 | RICKOWENS RO主线马皮黑白大匡威 高帮主线黑白色 马皮大匡威 40.5",
+  "rick owens | ¥250 | vintage faded tee 90s Jethro t ull 1996 ",
+  "rick owens | ¥2299 | RICKOWENS DRKSHDW复线黑色粗鞋带大匡威低帮帆 布 粗鞋带大匡威 ",
+  "rick owens | ¥150 | 国产rick owens 复线高帮帆布鞋，39码，黑白拼色， 侧拉链，奶白厚底，",
+  "rick owens | ¥1449 | RICK OWENS 超大圆领 日本代购 这是里克·欧文斯的针织衫。透气性良好，",
+  "rick owens | ¥6009 | Rick Owens 推土机裤 XS 日本代购 颜色：黑色XS 稀有款因衣长较长",
+  "rick owens | ¥14900 | •预定• Gucci 古驰 黑色 Horsebit Rist retto 单肩包"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T21:31:30"
+ "finished_utc": "2026-10-14T22:01:09"
 }
