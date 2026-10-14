@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 1,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥1580 | RO高帮鞋 RO高帮鞋RICK OWENS/RO Mega Bumper牛皮皮革",
+  "rick owens | ¥468 | RO自主品牌Rick Owens皮革黑浅灰侵权款RO侵黑色皮 RO自主品牌Ric",
+  "rick owens | ¥1380 | RO黑白面包鞋 RO黑白面包鞋RICK OWENS/RO LUXOR皮革 系带 ",
+  "rick owens | ¥1450 | RO绑带帆布鞋 RO绑带帆布鞋Rick Owens DRKSHDW Hustle",
+  "rick owens | ¥1450 | RO休闲鞋 RO休闲鞋RICK OWENS/RO TEMPLE小牛皮 绒面 厚底",
+  "rick owens | ¥1350 | RickOwens侵权板鞋 RickOwens侵权板鞋RICK OWENS/RO",
+  "rick owens | ¥1350 | RickOwens侵权板鞋 RickOwens侵权板鞋Rick Owens DR",
+  "rick owens | ¥1370 | Rick Owens疯狂绑带低帮 Rick Owens疯狂绑带低帮RICK OW"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-14T10:01:17"
+ "finished_utc": "2026-10-14T10:30:59"
 }
