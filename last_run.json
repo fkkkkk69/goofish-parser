@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥238 | RICK OWENS/RO SS23 dirty暗黑重工纯色 纽扣亮面口袋喇叭堆"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T15:31:33"
+ "finished_utc": "2026-10-15T16:01:18"
 }
