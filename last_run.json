@@ -3,17 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 0,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥745 | （九五分ZP退回）RICK OWENS/RO 皮革 圆头系带 防滑 低帮 板鞋 ",
-  "rick owens | ¥628 | 绝美 肉哥的Rick Owens 厚底 倒三角高帮鞋，黑白配 色，暗黑风，设计感"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T10:01:15"
+ "finished_utc": "2026-10-15T10:31:10"
 }
