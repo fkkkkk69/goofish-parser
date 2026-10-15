@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 2,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥850 | 36.5码christian louboutin路铂廷cl宝 蓝色漆皮蝴蝶结圆头",
-  "rick owens | ¥1914 | MONCLER + Rick Owens 长袖 日本代购 MONCLER + R",
-  "rick owens | ¥699 | 【已过验】RICK OWENS/RO  棕色 【已过验】RICK OWENS/R",
-  "rick owens | ¥583 | 【已过验】RICK OWENS/RO  黑色 帆布 【已过验】RICK OWEN",
-  "rick owens | ¥185 | Converse 匡威几何体方头帆布鞋，是真的太酷了!!|| |Converse",
-  "rick owens | ¥528 | Rickowens 瑞克 欧文斯 高街休闲板鞋 Rickowens 瑞克 欧文斯",
-  "rick owens | ¥568 | Rick Owens RO Mega 瑞克·欧文斯 疯狂绑带 Rick Owen",
-  "rick owens | ¥950 | 36.5码christian louboutin路铂廷cl杏 色尖头漆皮红底高跟"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T11:31:10"
+ "finished_utc": "2026-10-15T12:01:20"
 }
