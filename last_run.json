@@ -3,17 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 0,
  "subscribers": 2,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥98 | 出Rick Owens DRKSHDW长款连帽卫衣 s码 意 产黑色暗黑系长袍感",
-  "rick owens | ¥230 | Rick Owens Boxers 拳击解构假两件皮短裤 实拍yb高品质 区别市"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T06:31:15"
+ "finished_utc": "2026-10-15T07:01:29"
 }
