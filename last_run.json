@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥1580 | Rick Owens Drkshdw大匡威38码 38-39 可完美驾驭上脚次数",
+  "rick owens | ¥2280 | Rick Owens主线牛皮大匡威41码黄金码 41-42皆 可完美驾驭自穿无敌",
+  "rick owens | ¥15200 | 【稀有】RICK OWENS GEOBASKE 日本代购 【稀有】RICK OW",
+  "rick owens | ¥1650 | RICK OWENS 主线女士低帮鞋，38码，黑色牛皮，半透 明底，意大利制造。",
+  "rick owens | ¥3880 | Rick Owens Ro 倒三角 灰尘色 小牛皮麂皮面 4 4 成色优秀 落地",
+  "rick owens | ¥1580 | Rick Owens Drkshdw大匡威37码黄金码 37 -37.5都能完美",
+  "rick owens | ¥2980 | 【Rick Owens】36码 好价出 非常新 仅试穿 鞋底干净伦敦harrod",
+  "rick owens | ¥3006 | 仅试穿 21FW RICK OWENS 羽绒马 日本代购 仅试穿 21FW RI"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T19:01:17"
+ "finished_utc": "2026-10-15T19:31:29"
 }
