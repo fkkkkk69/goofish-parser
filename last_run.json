@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 23,
+ "new_items": 0,
  "subscribers": 2,
- "sent": 3,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥3825 | rick owens drkshdw推杆裤 日本代购 之前在Mercari上购买",
-  "rick owens | ¥568 | 【已过检】RICK OWENS/RO LUXOR 头层牛皮 【已过检】RICK ",
-  "rick owens | ¥460 | 【全新顶级严选】RO Rick Owens 主线低帮板鞋 棕 【全新顶级严选】R",
-  "rick owens | ¥528 | 【全新顶级严选】RICK OWENS德训鞋 棕黑拼色 低帮板 【全新顶级严选】R",
-  "rick owens | ¥460 | 【全新】RO Rick Owens DRKSHDW 粗鞋带帆 【全新】RO Ri",
-  "rick owens | ¥556 | 【全新顶级渠道】RO Rick Owens DRKSHDW 【全新顶级渠道】RO",
-  "rick owens | ¥528 | 【全新】RICK OWENS RO 德训鞋 白色 低帮系带休 【全新】RICK ",
-  "rick owens | ¥1420 | Anna Sui 波西米亚绿色波点长袖连衣裙XS #Vintage #Archi"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-15T13:01:16"
+ "finished_utc": "2026-10-15T13:31:20"
 }
