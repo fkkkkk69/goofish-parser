@@ -1,25 +1,16 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 0,
  "subscribers": 2,
- "sent": 4,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥3880 | Rick Owens Ro 倒三角 灰尘色 小牛皮麂皮面 4 4 成色优秀 落地",
-  "rick owens | ¥3099 | Rick owens Ro 侵权 主线 黑色 牛皮 皮质 4 1 成色优秀 落地",
-  "rick owens | ¥2880 | Rick owens Ro 侵权 主线 黑色 牛皮 皮质 4 2 成色优秀 落地",
-  "rick owens | ¥3899 | 【现货】rick owens+先锋视觉ro超长坡跟过腿靴 3 7码黑色羊皮拼皮材",
-  "rick owens | ¥8399 | Rick Owens 厚款羊毛长袖连帽外套 M码 全新正品 折扣预定 支持鉴定",
-  "rick owens | ¥23500 | rick owens 26fw秋冬新款立领tower ali ce皮衣夹克可以三",
-  "rick owens | ¥6999 | RICK OWENS FLIGHT JKT 主线 RO 黑色 羊毛甲壳虫羽绒服尺",
-  "rick owens | ¥49.90 | 日本大牌web Store限定发售！客供天竺棉纤维城市之光主 题前后开叉宽松长袖"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T01:31:30"
+ "finished_utc": "2026-10-16T02:01:38"
 }
