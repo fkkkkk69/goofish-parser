@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 2,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥454 | GD好货！Rick Owens Drkshdw 瑞克·欧文厚 底皮面低帮西瓜头！",
+  "rick owens | ¥3888 | Rick Owens Air Cut 斜拉链牛仔裤 XS码 黑色意大利制造 保证",
+  "rick owens | ¥3199 | 【99新37码】Rick Owens RO 主线 黑色小牛皮 高帮拉链板鞋尺码：",
+  "rick owens | ¥199 | Rick Owens drkshdw Berlin Pant 尘色卫裤Size：",
+  "rick owens | ¥429 | 【36码】tsumori chisato WALK津森千里高 跟单鞋size23",
+  "rick owens | ¥3715 | 【稀有Dr.Martens RickOwens 日本代购 【稀有Dr.Marte",
+  "rick owens | ¥1799 | Rick Owens主线顶级纯白milk牛皮大匡威37码黄金 码37-38都能完",
+  "rick owens | ¥2850 | Rick Owens x Dr.Martens马丁靴，黑色， 43码疯狂绑带品牌"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T20:01:16"
+ "finished_utc": "2026-10-16T20:31:13"
 }
