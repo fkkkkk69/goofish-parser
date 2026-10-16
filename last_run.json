@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥171 | Rick Owens RO黑白厚底倒三角高帮鞋，不是rog， 真皮40码，偏小一"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T09:01:14"
+ "finished_utc": "2026-10-16T09:31:32"
 }
