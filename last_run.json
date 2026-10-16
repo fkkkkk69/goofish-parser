@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥143 | Converse x Rick Owens DRKSTAR联 名高帮帆布鞋，奶白"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T08:31:19"
+ "finished_utc": "2026-10-16T09:01:14"
 }
