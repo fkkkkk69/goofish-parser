@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 2,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥2790 | 【现货实拍】Yohji Yamamoto 山本耀司 yohj i 21aw vi",
+  "rick owens | ¥5899 | ⚠️截至10月 Rick Owens BOLA 日本代购 ⚠️截至10月 Ric",
+  "rick owens | ¥458 | 特价秒杀全新Brooks Brothers/布克兄弟男士法兰 绒衬衫，磨毛面料，",
+  "rick owens | ¥6880 | 正品Rickowens 21aw秀款geth cropped bomber垫肩羽",
+  "rick owens | ¥1029 | RICK OWENS ADIDAS RUNNE 日本代购 RICK OWENS ",
+  "rick owens | ¥1299 | Rick Owens DRKSHDW 褶皱款侧开衩半身裙，女 款S码，100%棉",
+  "rick owens | ¥650 | 欧牌中古朋克风暗黑风蛛网靴 size：40可帮忙找款购买前请认真阅读：购买需付定",
+  "rick owens | ¥540 | 【欧牌 Vintage】中古黑色皮质铆钉搭扣小口袋长筒靴 36码购前必读: 欧洲"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T12:31:19"
+ "finished_utc": "2026-10-16T13:01:10"
 }
