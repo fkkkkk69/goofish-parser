@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥95 | Rick Owens，ro低帮男士休闲鞋，42码稍大，内长2 75mm左右，鞋底"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-16T17:31:19"
+ "finished_utc": "2026-10-16T18:01:18"
 }
