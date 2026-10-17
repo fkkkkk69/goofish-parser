@@ -1,22 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 31,
  "subscribers": 3,
- "sent": 2,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥118 | Saint Laurent 13FW元年大破坏牛仔裤 size:28 biaom",
-  "celine | ¥750 | celine中古包 包包整体保存不错，复古擦色工艺，容量大，手提腋下都行。尺寸见"
+  "saint laurent | ¥830 | Saint Laurent圣罗兰YSL新款侧拉链小矮跟及踝靴 尖头粗跟短靴不谈价",
+  "saint laurent | ¥228 | 圣罗兰新款V领大版开衫 尺码:95-125货号:112394搜索码:414304",
+  "saint laurent | ¥100 | YSL圣罗兰藏蓝色外套，大翻领金扣设计，藏蓝色大宽肩版型，经 典YSL老花刺绣，",
+  "saint laurent | ¥3600 | YSL圣罗兰 Kate中号玫红色流苏链条包，光面牛皮配金色五 金，经典翻盖流苏扣",
+  "saint laurent | ¥125 | 出个YSL黑色西装外套辣妹风 细节很精致版型挺括 显瘦显气质 春秋穿很合适保存很",
+  "saint laurent | ¥360 | 全新Saint Laurent 2025春夏高跟凉鞋，尖头后 空设计，仙女必备！",
+  "saint laurent | ¥6500 | YSL黑金大号信封包 98新 经典黑金配色，荔枝纹牛皮，金色链条肩带，五金亮，皮",
+  "saint laurent | ¥358 | 全新Saint Laurent / 圣罗兰2025春夏高跟凉 鞋，尖头高跟拖鞋，"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T22:02:00"
+ "finished_utc": "2026-10-17T22:32:27"
 }
