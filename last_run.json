@@ -3,23 +3,28 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 30,
+  "junya watanabe": 0,
   "rick owens": 30
  },
- "new_items": 5,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 3,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥389 | ysl 圣罗兰 褶皱尼龙 拉链外套 夹克 防风挡雨 感兴趣的话点“我想要”和我私",
-  "saint laurent | ¥355 | 【劳伦斯made】【现货】Ys1 26ss 定织定染 卡其色 高密梭织棉质帆布拼",
-  "saint laurent | ¥398 | 【鼎版品质现货当天发】圣罗兰niki购物袋 油蜡黑/枪链配色 型号：577999",
-  "rick owens | ¥450 | 天花板级Rick Owens ro经典款复线尼龙丝绸低帮 男 女款    一：如",
-  "rick owens | ¥659 | 【bleood同款】Rick Owens x Moncler AW20 Ambe"
+  "saint laurent | ¥10800 | 全新9月票  ysl 黑金hobo迷你  现货秒发 保证正品 ～ · 品牌： Y",
+  "saint laurent | ¥11000 | YSL圣罗兰黑金hobo小号，经典黑色荔枝纹牛皮，金色log o扣，容量大，日常",
+  "saint laurent | ¥999 | 圣罗兰靴子，正品正品正品，随便验货 感兴趣的话点“我想要”和我私聊吧～",
+  "saint laurent | ¥390 | 全新YSL黑色链条包，正价699，防尘袋都在，保存很好，没用 过，随缘随缘出，不",
+  "saint laurent | ¥319 | 全新YSL niki迷你链条包，牛皮D扣，经典菱格纹，黑色/ 奶白/灰色都有，链",
+  "saint laurent | ¥9990 | 全新圣罗兰YSL【现货】 原价20000折后999022x5x12圣罗兰黑银小号",
+  "saint laurent | ¥19 | 包邮出YSL黑色链条包，容量手机钱包都能装，百搭款。包身脏有 使用痕迹，边角磨损",
+  "saint laurent | ¥6500 | 圣罗兰 大号 18年 感兴趣的话点“我想要”和我私聊吧～"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-17T14:02:04"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-17T14:32:34"
 }
