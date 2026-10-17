@@ -3,14 +3,16 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥314.40 | RICKOCEAN倒三角高帮鞋｜黑白配色｜43码 厚底设计，鞋型很帅，暗黑风格，"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T08:31:16"
+ "finished_utc": "2026-10-17T09:01:14"
 }
