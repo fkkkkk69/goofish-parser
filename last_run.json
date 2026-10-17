@@ -3,16 +3,14 @@
  "per_keyword_items": {
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 2,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "rick owens | ¥140 | Rick Owens黑白拼色低帮板鞋，45码，全新未穿！带原 盒、全套包装，还有"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T06:01:23"
+ "finished_utc": "2026-10-17T06:31:21"
 }
