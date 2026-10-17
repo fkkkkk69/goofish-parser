@@ -1,20 +1,25 @@
 {
- "keywords_total": 2,
+ "keywords_total": 4,
  "per_keyword_items": {
   "saint laurent": 30,
+  "celine": 30,
+  "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "rick owens | ¥248 | 「全网最顶」RICK OWENS胖丁Ro Jumbo Lac es 羊皮 胖丁 ",
-  "rick owens | ¥199 | 【佛山版本】  Rick Owens联名款 DRKSHDW TURBOWPN联名"
+  "saint laurent | ¥389 | ysl 圣罗兰 褶皱尼龙 拉链外套 夹克 防风挡雨 感兴趣的话点“我想要”和我私",
+  "saint laurent | ¥355 | 【劳伦斯made】【现货】Ys1 26ss 定织定染 卡其色 高密梭织棉质帆布拼",
+  "saint laurent | ¥398 | 【鼎版品质现货当天发】圣罗兰niki购物袋 油蜡黑/枪链配色 型号：577999",
+  "rick owens | ¥450 | 天花板级Rick Owens ro经典款复线尼龙丝绸低帮 男 女款    一：如",
+  "rick owens | ¥659 | 【bleood同款】Rick Owens x Moncler AW20 Ambe"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T13:31:40"
+ "finished_utc": "2026-10-17T14:02:04"
 }
