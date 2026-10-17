@@ -6,17 +6,20 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 2,
+ "sent": 5,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥280 | saint laurent slp 16ss 黑色鲨鱼亮片丝 绸夹克外套棒球服 ",
-  "celine | ¥588 | 顶级版本工厂价原厂皮琳迪26奶昔白 原厂TC牛皮，内里质感细腻软糯，手工蜡线缝制"
+  "saint laurent | ¥128 | 真皮皮衣绵羊皮皮衣黑色机车夹克外套真皮皮衣纯皮皮衣Saint Laurent圣罗",
+  "saint laurent | ¥140 | saint laurent slp 黑色恐龙霸王龙条纹羊毛毛 衣 针织衫  成色",
+  "celine | ¥990 | Celine波士顿老花手提包～正品，红布林购入，有sp了所以 闲置很久。经典款容",
+  "celine | ¥810 | CELINE 新品Flair包包 New CELINE的高级 FLAIR小号手袋",
+  "junya watanabe | ¥1000 | junya watanabe man 尼龙长裤 全新带吊sizeL 特别的厚尼龙"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T20:32:05"
+ "finished_utc": "2026-10-17T21:02:07"
 }
