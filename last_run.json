@@ -1,16 +1,25 @@
 {
  "keywords_total": 1,
  "per_keyword_items": {
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 2,
- "sent": 0,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟新款 女 士休闲裤新款吊牌齐",
+  "rick owens | ¥1599 | Rick Owens 双环工装长裤 s黄金码 79腰围可调节 110裤长 厚棉材",
+  "rick owens | ¥799 | 日牌 buffalobobs刷胶闪粉直筒微喇叭裤+稀有大码+ diorhomme",
+  "rick owens | ¥3442 | rick owens 23ss cargo b 日本代购 rick owens ",
+  "rick owens | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟，女士休 闲裤，纯棉面料，正",
+  "rick owens | ¥900 | vintage中古alex perry裸色米色杏色水钻长袖褶 皱连衣裙包臀裙性感",
+  "rick owens | ¥799 | 正品Converse x Rick Owens DRKSHD W 1970s T",
+  "rick owens | ¥6555 | 停产【Rick Owens DRKSHDW】B 日本代购 停产【Rick Owe"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-17T11:31:14"
+ "finished_utc": "2026-10-17T12:01:11"
 }
