@@ -1,30 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 60,
   "celine": 30,
-  "junya watanabe": 60,
-  "rick owens": 30
+  "junya watanabe": 30,
+  "rick owens": 60
  },
- "new_items": 32,
+ "new_items": 70,
  "subscribers": 3,
- "sent": 31,
+ "sent": 41,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥719 | 现货 | 【Marithe+Francois Girbaud 】中古MFG棕色褶",
-  "junya watanabe | ¥2290 | 【现货实拍】Yohji Yamamoto 山本耀司 yohj i 22aw vi",
-  "junya watanabe | ¥3650 | JUNYA WATANABE MAN 帆布工装 日本代购 JUNYA WATAN",
-  "junya watanabe | ¥3000 | 包邮｜alexander mqueen亚历山大麦昆荷叶边衬衣 意大利正品，经典白",
-  "junya watanabe | ¥1013 | junya watanabe × duveti 日本代购 junya watan",
-  "junya watanabe | ¥1477 | Junya Watanabe Man【新品未使 日本代购 Junya Watan",
-  "junya watanabe | ¥3399 | junya watanabe man X mackintos h  联名款 连帽",
-  "junya watanabe | ¥2599 | junya watanabe man X karrimor 联名款 登山派克羽绒"
+  "saint laurent | ¥5700 | 商品名称：YSL拉菲草托特包24年 闲置  品牌：圣罗兰/S aint Laur",
+  "saint laurent | ¥4600 | 商品名称：ysl 信封包20年 品牌：圣罗兰/Saint L aurent 品类",
+  "saint laurent | ¥7999 | 3080 YSL圣罗兰 Niki小号复古白色全皮银链邮差包 尺寸约22x17x7",
+  "saint laurent | ¥3500 | 【95新】YSL/圣罗兰 Kate 粉色鱼子酱牛皮链条包 1 4年 年编码 底长",
+  "saint laurent | ¥11300 | 商品名称：圣罗兰云朵包25年 品牌：圣罗兰/Saint Laurent 品类：箱",
+  "saint laurent | ¥279 | 37.5码圣罗兰YSL日本中古vintage古着复古港风优雅 奢华贵妇名媛风米白",
+  "saint laurent | ¥2500 | 圣罗兰/YSL Downtown Baby 金标Logo大容 量牛皮 粒面皮革 ",
+  "saint laurent | ¥40 | ysl红色口红皮质礼盒 红色漆皮包 内无卡槽"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-17T16:32:36"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-17T17:02:43"
 }
