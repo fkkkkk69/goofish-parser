@@ -1,26 +1,25 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 4,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 4,
+ "sent": 5,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥648 | 为啥要花好几万去买个包呢 赛琳mini迷你tote 经典凯旋门印花托特 琴谱包手",
-  "celine | ¥600 | CELIN_E 2024｜TILLY中号亮泽牛皮革手袋 24s春季新品来啦！新年",
-  "celine | ¥995 | Longchamp x Caroline Helain跨界合 作托特包 全新 正",
-  "junya watanabe | ¥300 | Junya Watanabe ss06死神日历衬衫 成色很好 size M 默认"
+  "saint laurent | ¥1050 | Saint Laurent黑色羊毛衫，男款M码，意大利制造， 纯黑色，圆领长袖，",
+  "celine | ¥4080 | CELINE AVA 小号（非mini）棕色涂层帆布凯旋门印 花腋下包单肩包手提",
+  "celine | ¥888 | 搬家出闲置 Celine腋下包 微商那3000多买的 有防尘袋和包装盒，99新 ",
+  "celine | ¥1180 | #CELINE CE FLAIR 经典凯旋扣，解锁低调奢雅。很高级大象纹理小牛皮",
+  "junya watanabe | ¥500 | Comme des Garçons JUNYA WATANA BE 藏蓝驼色条纹"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-17T18:02:00"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-17T18:32:07"
 }
