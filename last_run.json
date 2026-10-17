@@ -1,26 +1,30 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 0,
   "celine": 30,
-  "junya watanabe": 30,
+  "junya watanabe": 60,
   "rick owens": 30
  },
- "new_items": 6,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 5,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥970 | Saint Laurent 2016飞行员夹克 by Hed i Slimane",
-  "saint laurent | ¥36 | YSL圣罗兰烫钻牛仔外套，背后大logo+袖口烫钻，细节很闪 ，版型宽松，春秋穿",
-  "celine | ¥899 | Celine中古老花小水桶单肩腋下包，原始成色，尺寸底长24 ×包口长32×高2",
-  "celine | ¥630 | CE SOFT SHOPPER标志印花手袋。 斜挎和肩背 TRIOMPHE按扣开",
-  "celine | ¥860 | 赛琳顶级原单 专柜品质 签收三天内，货不对版退换其他非质量问题不退换原厂皮，特级",
-  "rick owens | ¥158 | 特价！特价！特价！全新Rick Owens低帮大匡威板鞋，黑 色缎面+白色鞋头，"
+  "junya watanabe | ¥719 | 现货 | 【Marithe+Francois Girbaud 】中古MFG棕色褶",
+  "junya watanabe | ¥2290 | 【现货实拍】Yohji Yamamoto 山本耀司 yohj i 22aw vi",
+  "junya watanabe | ¥3650 | JUNYA WATANABE MAN 帆布工装 日本代购 JUNYA WATAN",
+  "junya watanabe | ¥3000 | 包邮｜alexander mqueen亚历山大麦昆荷叶边衬衣 意大利正品，经典白",
+  "junya watanabe | ¥1013 | junya watanabe × duveti 日本代购 junya watan",
+  "junya watanabe | ¥1477 | Junya Watanabe Man【新品未使 日本代购 Junya Watan",
+  "junya watanabe | ¥3399 | junya watanabe man X mackintos h  联名款 连帽",
+  "junya watanabe | ¥2599 | junya watanabe man X karrimor 联名款 登山派克羽绒"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-17T16:02:02"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-17T16:32:36"
 }
