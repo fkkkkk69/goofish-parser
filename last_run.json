@@ -1,28 +1,26 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 0,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 15,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 14,
+ "sent": 4,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥455 | 橙橙made saintlaurent烟花夹克 size：46码喜欢来问 默认到",
-  "saint laurent | ¥59 | 出一件Saint Laurent圣罗兰黑风琴褶衬衫 L码，缎面面料，门襟风琴褶设",
-  "saint laurent | ¥55 | 出一条Saint Laurent巴黎牛仔裤，S码，复古蓝色微 喇裤型，面料柔软不",
-  "saint laurent | ¥58 | 圣罗兰saintlaurent查理镇一批双膝刀割破坏牛 好价 出 下水两次 穿过",
-  "celine | ¥510 | Celine凯旋门老花duffle小号托特 原版皮！孙千同款 不是正1400微商",
-  "celine | ¥750 | CE Halfmoon 半月包 进口羊皮，全钢五金，标志性Triomphe磁吸式",
-  "celine | ¥699 | 中古 古着 CELINE赛琳 红色荔枝纹牛皮 Boogie Bag 手提包  经",
-  "celine | ¥660 | CELINE Celine Romy腋下包，焦糖色牛皮，中号 ，意大利制造。因赛"
+  "celine | ¥648 | 为啥要花好几万去买个包呢 赛琳mini迷你tote 经典凯旋门印花托特 琴谱包手",
+  "celine | ¥600 | CELIN_E 2024｜TILLY中号亮泽牛皮革手袋 24s春季新品来啦！新年",
+  "celine | ¥995 | Longchamp x Caroline Helain跨界合 作托特包 全新 正",
+  "junya watanabe | ¥300 | Junya Watanabe ss06死神日历衬衫 成色很好 size M 默认"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-17T17:32:08"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-17T18:02:00"
 }
