@@ -1,19 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 3,
- "sent": 0,
+ "sent": 30,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥140 | ysl niki黑银微商购入介意勿扰 有些许瑕疵",
+  "saint laurent | ¥225 | YSL圣罗兰Jamie福袋包 焦糖棕麂皮 全新未使用 原包装盒、防尘袋都在经典金",
+  "saint laurent | ¥100 | 2026新款交叉带露趾高跟凉鞋女性感方头金属跟黑色性感御姐风 女鞋ysl38码 ",
+  "saint laurent | ¥2325 | 中古YSL棕色半月腋下包，皮革材质，马形logo，斜挎/单肩 都行，包型挺括，容",
+  "saint laurent | ¥8000 | 99新 圣罗兰/Saint Laurent 黑银羊皮云朵包mini 24 99新",
+  "saint laurent | ¥2000 | 出ysl niki小号 用过两次 感兴趣的话点“我想要”和我私聊吧～",
+  "saint laurent | ¥16800 | Chanel 香奈儿 31Bag nano 湖蓝色 25芯片 底长21cm几乎全",
+  "saint laurent | ¥335 | YSL圣罗兰Icare托特包 黑色牛皮 经典金属logo 手 感细腻 做工精致 "
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T21:01:58"
+ "finished_utc": "2026-10-18T21:32:32"
 }
