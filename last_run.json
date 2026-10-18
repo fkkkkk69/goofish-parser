@@ -6,14 +6,17 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥165 | 黑色Saint Laurent机车皮衣，意大利制造，经典三拉 链设计，皮质软，做",
+  "saint laurent | ¥60 | 精纺羊绒衬衫领上衣ysl超薄款 胸围100 衣长56-65  家里有个专给之禾等"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T09:32:00"
+ "finished_utc": "2026-10-18T10:02:06"
 }
