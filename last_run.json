@@ -1,26 +1,23 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 6,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 5,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥68 | Saint Laurent s家黑烟花夹克自主产品【标价定金 】 slp烟花夹克",
-  "saint laurent | ¥99 | 原价一千多的 YSL圣罗兰男士短袖衬衫16.5码米色。 尺码16½（XL），适合",
-  "saint laurent | ¥280 | YSL niki链条包 升级版配盒 油腊皮 五金亮 细节满分链条肩带 单肩斜挎都",
-  "celine | ¥689 | 26S cerf鳄鱼纹小牛皮托特包 4k购入 皮质很好 纹路细腻 没什么瑕疵  ",
-  "celine | ¥4800 | CELINE赛琳 Triomphe 经典满印老花 人造革拼牛 皮革 水桶包单肩斜",
-  "rick owens | ¥99 | RICK OWENS高帮板鞋，黑白拼皮，37码，YKk拉链款 ，鞋舌有RICK "
+  "saint laurent | ¥45 | Saint Laurent 黑白条纹长袖针织衫， 胸前小刺绣，圆领，面料有弹性，",
+  "celine | ¥668 | 【捡漏必入】Celine/赛琳 老花水桶包小号 凯旋门系列斜 挎包 经典复古百搭",
+  "junya watanabe | ¥288 | 【Archive 】Junya Watanabe 02ss Romantic P"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T05:01:55"
+ "finished_utc": "2026-10-18T05:32:01"
 }
