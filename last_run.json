@@ -1,22 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 0,
-  "celine": 0,
-  "junya watanabe": 0,
-  "rick owens": 0
+  "saint laurent": 30,
+  "celine": 30,
+  "junya watanabe": 30,
+  "rick owens": 30
  },
- "new_items": 0,
- "subscribers": null,
- "sent": 0,
+ "new_items": 1,
+ "subscribers": 3,
+ "sent": 1,
  "send_failed": 0,
- "sample_new": [],
- "last_alert_utc": null,
- "empty_streak": 1,
- "zero_keywords": 4,
- "error_samples": [
-  "empty result, stderr: "
+ "sample_new": [
+  "saint laurent | ¥35 | 圣罗蓝同款黑色直筒牛仔裤，进口面料阔腿裤，宽松长裤，高腰设计 显腿长，版型挺括有"
  ],
- "session_suspect": true,
- "finished_utc": "2026-10-18T15:32:08"
+ "last_alert_utc": null,
+ "empty_streak": 0,
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-18T16:02:00"
 }
