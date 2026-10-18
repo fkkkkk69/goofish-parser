@@ -1,19 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 3,
- "sent": 0,
+ "sent": 30,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥20 | YSL包女士黑色菱格链条包，单包出。成色几乎全新，皮质柔软有 光泽，五金光亮，拉",
+  "saint laurent | ¥1800 | 圣罗兰YSL真皮配帆布男士单肩包，香港专柜购买，九成新，公价 2万多，保真支持验",
+  "saint laurent | ¥820 | 出YSL圣罗兰ICARE HOBO草编手提包，几乎全新，保存 很好，黄色拉菲草编",
+  "saint laurent | ¥4700 | YSL圣罗兰 系列：鱼子酱信封包黑金年份：23年公价：8900尺寸：底长18.5",
+  "saint laurent | ¥2666 | 八九成新YSL圣罗兰包，杏色牛皮，金标logo，单肩斜挎都可 以，手机钱包都能放",
+  "saint laurent | ¥6500 | 98新Ysl圣罗兰 Loulou 黑色 黑扣云朵包方胖子链 98新Ysl圣罗兰 ",
+  "saint laurent | ¥9499 | YSL 圣罗兰 99新23年 niki 黑色做旧褶皱油蜡牛皮 购物袋单肩包 33",
+  "saint laurent | ¥9499 | YSL 圣罗兰 99新23年 niki 黑色做旧褶皱油蜡牛皮 购物袋单肩包 33"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T19:31:56"
+ "finished_utc": "2026-10-18T20:02:30"
 }
