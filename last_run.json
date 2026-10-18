@@ -1,28 +1,22 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 60,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 33,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4580 | YSL圣罗兰 College bag 黑银牛皮邮差包中号 感兴趣的话点“我想要”",
-  "saint laurent | ¥5300 | YSL 圣罗兰 Nolita 菱格 黑金 mini 链条包 编码：23",
-  "saint laurent | ¥4800 | 自用YSL圣罗兰曼哈顿中号黑金单肩包，牛皮+金色五金，经典磁 吸夹扣，容量大，通",
-  "saint laurent | ¥100 | ysl圣罗兰高跟鞋 35.5码，鞋头和后跟有磕碰，详情图有拍 ，没有原包装了，看",
-  "saint laurent | ¥1800 | SAINT LAURENT圣罗兰 Opyum 漆皮 搭扣高跟 圆头 一字带凉鞋 ",
-  "saint laurent | ¥10700 | 全新10月票带膜全套 ysl圣罗兰 黑金hobo迷你 附件：盒子 尘袋 小票正规",
-  "saint laurent | ¥4200 | YSL圣罗兰圆饼包 米白色 22年 尺寸：17×17×5.5cm经典V纹绗缝 金",
-  "saint laurent | ¥7399 | Saint Laurent 圣罗兰 YSL 鳗鱼皮乐福 36/37/38.5/3"
+  "saint laurent | ¥30 | 圣罗兰ysl小黑裤，无弹力，很有质感，版型好，显瘦显腿直，深 圳南油高货，裤长1",
+  "junya watanabe | ¥999 | 【99新】Junya Watanabe 反光条针织毛衣 日本 制 日本面料 M码"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T16:32:38"
+ "finished_utc": "2026-10-18T17:02:04"
 }
