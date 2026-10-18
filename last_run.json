@@ -1,23 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 3,
+ "new_items": 65,
  "subscribers": 3,
- "sent": 2,
+ "sent": 35,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥500 | 个人闲置 celine风衣 卡其色长款 带腰带 版型挺阔 显 瘦 显腿长 春秋都",
-  "celine | ¥750 | 可以出入专柜 CEline赛琳凯旋门老花抽绳水桶包 小号 尺寸：16x19x16",
-  "rick owens | ¥198 | 【全网最高品质】rick owens 糜烂拉丝大匡威 ro2 3ss破坏做旧大匡"
+  "saint laurent | ¥424 | 纯捡漏 吐血出！奥莱YSL圣罗兰 Puffer云朵包 黑金链 纯捡漏 吐血出！奥",
+  "saint laurent | ¥3500 | 95新 圣罗兰/Saint laurent 黑金鱼子酱卡包 底长13cm 专柜价",
+  "saint laurent | ¥328 | 全新YSL圣罗兰Hobo小号水桶包，黑色牛皮，金色logo， 经典百搭款！尺寸约",
+  "saint laurent | ¥1010 | 已过验YSL圣罗兰 高跟鞋 异形跟 Opyum 简约休闲漆皮 已过验YSL圣罗兰",
+  "saint laurent | ¥1010 | 已过验SAINT LAURENT圣罗兰一字带凉鞋 女款 黑色 已过验SAINT ",
+  "saint laurent | ¥2341 | 已过验SAINT LAURENT圣罗兰 YSL Le 5 A 已过验SAINT ",
+  "saint laurent | ¥180 | 【全新】YSL Kate杏色鱼子酱金扣链条包 全新未用，保存很好，没用过，成色特",
+  "saint laurent | ¥904 | 已过验 YSL圣罗兰 搭扣 细跟 一字带凉鞋跟高8.5cm 已过验 YSL圣罗兰"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T07:32:00"
+ "finished_utc": "2026-10-18T08:02:21"
 }
