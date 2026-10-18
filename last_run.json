@@ -1,28 +1,25 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 30,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥7199 | 3080 YSL圣罗兰 Niki小号复古白色全皮银链邮差包 尺寸约22x17x7",
-  "saint laurent | ¥5499 | YSL/圣罗兰黑色 中号日落包 99新 尺寸21.5*14. 5*7.5cm——",
-  "saint laurent | ¥5499 | YSL/圣罗兰黑色 中号日落包 99新 尺寸21.5*14. 5*7.5cm——",
-  "saint laurent | ¥8000 | 全新YSL 圣罗兰 荔枝皮银扣大号woc 礼盒尘袋，纸卡 尺寸约22*14*4 ",
-  "saint laurent | ¥1800 | 出全新  YSL/圣罗兰 oxalis拉菲草编织肩背包 出全新  YSL/圣罗兰",
-  "saint laurent | ¥6800 | 圣罗兰,灰色小号niki 单肩包/Saint ,013066 商品年份：2019",
-  "saint laurent | ¥1700 | 出全新  YSL/圣罗兰  26新款Jamie福袋小号 出全新  YSL/圣罗兰",
-  "saint laurent | ¥2300 | 出全新 YSL/圣罗兰 JAMIE4.3 large poc 出全新 YSL/圣"
+  "celine | ¥798 | 全新Celine最新FLAT SHOPPER大号标志印花手袋 ✨ 天然牛皮革包边",
+  "celine | ¥568 | 【清仓捡漏】全新Celine赛琳AVA腋下包老花小号单肩女包 包 厂清全新Cel",
+  "rick owens | ¥239 | Rick Owens Ramones 主线高帮牛皮经典款 43码  95新",
+  "rick owens | ¥55 | Rick owens帆布袋，主线副线随机发 灰色百搭款，全新正品，带logo刺绣",
+  "rick owens | ¥230 | Rick Owens高帮帆布鞋，39码女，全新未拆未使用 感兴趣的话点“我想要”"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T11:32:37"
+ "finished_utc": "2026-10-18T12:01:57"
 }
