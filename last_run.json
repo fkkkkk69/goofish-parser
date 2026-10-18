@@ -1,23 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 3,
+ "new_items": 31,
  "subscribers": 3,
- "sent": 3,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥318 | SLP 圣罗兰YSL双面穿立领工装夹克外套 size 36 38 40 42  ",
-  "celine | ¥770 | 赛琳包包 Celine Triomphe AVA 凯旋门老花 满印印花 帆布拼牛",
-  "junya watanabe | ¥399 | 【现货】Adidas三叶草华夫格外套，库存现货，吊牌三标齐全 ，正品保证，包邮！"
+  "saint laurent | ¥5000 | SAINT LAURENT YSL SOLFERINO 绿色 牛皮革 豆腐包单肩",
+  "saint laurent | ¥2800 | 闲置YSL圣罗兰黑色漆皮高跟凉鞋，37码，穿过一次，鞋底有磨 损，带原盒和防尘袋",
+  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
+  "saint laurent | ¥58 | YSL白色链条腋下包，全新，肩带保护膜都没撕！经典菱格纹软真 皮，银色五金log",
+  "saint laurent | ¥2980 | YSL圣罗兰 黑色皮面银色logo跟 37.5码 全新 lm 5170 仅298",
+  "saint laurent | ¥10800 | YSL hobo小号单肩包 黑色金属膜在 包装防尘袋盒子全 老款无子袋成色好 专",
+  "saint laurent | ¥10000 | 圣罗兰白色hobo 全新未拆封有礼盒、购物袋和防尘袋小号Le 5 A 7意大利产",
+  "saint laurent | ¥7289 | YSL圣罗兰Niki小号黑色链条包，24年我过生日朋友澳门专 柜购入送给我，是2"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T23:01:55"
+ "finished_utc": "2026-10-18T23:32:19"
 }
