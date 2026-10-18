@@ -1,28 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 34,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 34,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥309 | YSL圣罗兰GABY迷你化妆包，黑色小羊皮，经典菱格纹+金色 五金，手提斜挎两用",
-  "saint laurent | ¥10000 | YSL圣罗兰Niki小号黑银链条包，经典黑色油蜡 YSL圣罗兰Niki小号黑银链",
-  "saint laurent | ¥10000 | YSL圣罗兰Niki小号黑银链条包，经典黑色油蜡 YSL圣罗兰Niki小号黑银链",
-  "saint laurent | ¥11900 | YSL黑银NiKi shopping V纹油蜡皮单肩斜挎包 感兴趣的话点“我想要",
-  "saint laurent | ¥10800 | 全新26年10月 小票YSL圣罗兰 白色shopping b ag 托特购物袋 ",
-  "saint laurent | ¥248 | RainMade/YSL 圣罗兰 2色入 男女同款SAINT LAURENT棉质",
-  "saint laurent | ¥2199 | Saint Laurent YSL 专柜正品 36码 尖头亮片 矮筒 短靴 购物",
-  "saint laurent | ¥3400 | YSL圣罗兰Cassandra黑色漆皮高跟凉鞋，36码，金色 YSL字母扣，细跟"
+  "celine | ¥690 | Celine赛琳 单肩腋下包 成色如图 感兴趣的话点“我想要”和我私聊吧～"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T18:32:38"
+ "finished_utc": "2026-10-18T19:01:53"
 }
