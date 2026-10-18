@@ -1,28 +1,19 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 32,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 31,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥6200 | 商品名称：圣罗兰云朵包19年 品牌：圣罗兰/Saint La urent 品类：",
-  "saint laurent | ¥8990 | 全新圣罗兰YSL内购 原价25500折后899028x9x20圣罗兰NIKI中号",
-  "saint laurent | ¥6200 | 商品名称：圣罗兰云朵包19年 品牌：圣罗兰/Saint La urent 品类：",
-  "saint laurent | ¥13500 | 商品名称：圣罗兰云朵包 26.2.8票  品牌：圣罗兰/Sa int Laure",
-  "saint laurent | ¥13500 | 商品名称：圣罗兰云朵包 26.2.8票  品牌：圣罗兰/Sa int Laure",
-  "saint laurent | ¥6200 | 商品名称：圣罗兰云朵包 22年 品牌：圣罗兰/Saint L aurent 品类",
-  "saint laurent | ¥9600 | 商品名称：圣罗兰Niki托特包24年带芯片 品牌：圣罗兰/S aint Laur",
-  "saint laurent | ¥13000 | 商品名称：圣罗兰Niki托特包23年带芯片 品牌：圣罗兰/S aint Laur"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-18T09:02:23"
+ "finished_utc": "2026-10-18T09:32:00"
 }
