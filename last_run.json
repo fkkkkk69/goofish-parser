@@ -3,20 +3,28 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 30,
+  "junya watanabe": 0,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 8,
  "subscribers": 3,
- "sent": 2,
+ "sent": 8,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥66 | 出售SAINT LAURENT羊毛开衫毛衣 棕色系 杂色带细闪 秋冬穿很暖和宽松",
-  "saint laurent | ¥79 | ｜现/SAINT  LAURENT｜秋冬季日系海鸥领男加厚针 织衫毛衣潮流毛线衣"
+  "saint laurent | ¥365 | Saint Laurent圣罗兰2026全新高跟凉鞋，工厂直 供，全新带盒，收到",
+  "saint laurent | ¥365 | SAIN*LAURENT2026全新高跟凉鞋，工厂直供，收到 就是图片这样，所见",
+  "saint laurent | ¥4300 | YSL圣罗兰酒红色sac风琴包单肩包，96-97新，型号Sa c de Jour",
+  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
+  "saint laurent | ¥10900 | 出SAINT LAURENT圣罗兰 Niki Shoppin g Bag 迷你黑",
+  "saint laurent | ¥10500 | 全新YSL圣罗兰 Niki迷你托特包 黑金链条肩带 油蜡牛皮 V形绗缝 经典YS",
+  "saint laurent | ¥1550 | YSL Jamie 福袋包 小号 黑色 Nappa羊皮材质，古金雪花状五金，经典",
+  "saint laurent | ¥1550 | YSL 圣罗兰 Bea 小号托特包 尺寸18×15×13cm请先沟通，避免售后"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-19T03:02:13"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-19T03:32:04"
 }
