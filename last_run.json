@@ -1,23 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 3,
+ "new_items": 39,
  "subscribers": 4,
- "sent": 2,
+ "sent": 35,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥118 | 闲置YSL圣罗兰女士皮带，黑色2.0cm和3.0cm可选宽度 ，头层牛皮+金||",
-  "saint laurent | ¥115 | 闲置圣罗兰YSL女士腰带 进口纯铜五金扣意大利头层小牛皮+非烂大街普通皮质+认准",
-  "rick owens | ¥1599 | RICKOWENS DRKSHDW RO复线坦克底切尔西靴 黑色黑武士 袜筒靴 "
+  "saint laurent | ¥11800 | 98新 圣罗兰niki黑银新款D扣中号 尺寸：28 x 20 x 8.5，我们好",
+  "saint laurent | ¥1280 | J41087 圣罗兰 Yves Saint laurent 37码 黑色方头漆皮",
+  "saint laurent | ¥4800 | YSL Kate流苏包 小号 鳄鱼压纹 银标五金 流苏装饰裸 粉淡粉尺寸19*1",
+  "saint laurent | ¥6500 | YSL圣罗兰 Kate羊羔毛链条包，双面反转可拆卸链条 奶油绿配色，羊羔毛+羊皮",
+  "saint laurent | ¥7900 | 97新 YSL/圣罗兰 Niki中号 黑色 银链单肩链条包 97新 YSL/圣罗",
+  "saint laurent | ¥7900 | 97新 YSL/圣罗兰 Niki中号 黑色 银链单肩链条包 97新 YSL/圣罗",
+  "saint laurent | ¥7900 | 97新 YSL/圣罗兰 Niki中号 黑色 银链单肩链条包 97新 YSL/圣罗",
+  "saint laurent | ¥7900 | 97新 YSL/圣罗兰 Niki中号 黑色 银链单肩链条包 97新 YSL/圣罗"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T14:32:07"
+ "finished_utc": "2026-10-19T15:02:39"
 }
