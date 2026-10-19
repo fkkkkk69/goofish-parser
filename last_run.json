@@ -6,14 +6,17 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 4,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "celine | ¥900 | celine高版本凯旋门mini 背过2次，基本全新，肩带可调节900包邮出，高",
+  "junya watanabe | ¥299 | byvovo 自主junya 02ss诗歌水洗牛仔裤 绝对的通勤 绝对的版本答案"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T22:31:57"
+ "finished_utc": "2026-10-19T23:02:02"
 }
