@@ -3,28 +3,21 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 0,
+  "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 20,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 20,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥215 | P210、P215 圣罗兰新品Jamie手袋，松弛有度的时尚，YSL新品Jami",
-  "saint laurent | ¥680 | 【欧牌 Vintage 】Lumberjack 铆钉摇滚机车 黑色短靴39码购前",
-  "saint laurent | ¥6500 | YSL 圣罗兰 Kate 黑金 鳄鱼压纹流苏包 尺寸:20* 13cm 单肩斜挎",
-  "saint laurent | ¥790 | 不满意包退 YSL圣罗兰26年新配色，褶皱乐福鞋 #YSL/ 圣罗兰 超级经典的",
-  "saint laurent | ¥5288 | 全新大全套 YSL圣罗兰黑金鱼子酱信封包 专柜正品 经典黑金配色 牛皮材质 五金",
-  "saint laurent | ¥49 | YSL Niki中号黑色链条包，非正，油蜡皮，经典菱格纹，黑 银链条肩带，单肩斜",
-  "saint laurent | ¥268 | 出闲置YSL圣罗兰信封包，经典V纹绗缝+金色logo，链条肩 带可拆卸，单肩斜挎",
-  "saint laurent | ¥6900 | 圣罗兰  曼哈顿  中号 尺寸约29 圣罗兰  曼哈顿  中号 尺寸约29"
+  "celine | ¥1000 | CELINE灰色短袖卫衣 女款 S码 几乎全新，保存很好，没怎么穿，衣柜清理出来",
+  "celine | ¥859 | 出Celine中古老花双肩包 状态如图，有瑕疵，可能有检查不仔细的地方 拍下不退",
+  "junya watanabe | ¥1599 | Junya Watanabe 18aw迷彩拼接内衬冲锋衣外套 版型剪裁非常好  "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-19T07:32:28"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-19T08:02:00"
 }
