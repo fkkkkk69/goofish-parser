@@ -1,21 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 1,
+ "new_items": 62,
  "subscribers": 4,
- "sent": 1,
+ "sent": 34,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥399 | 【三标齐全】Adidas三叶草华夫格外套，韩国爱豆同款，男女 同款，春秋季情侣装"
+  "saint laurent | ¥19 | 关于  Abling ab saintlaurent slp 圣罗兰黑色棒球服 ",
+  "saint laurent | ¥6500 | Gianmarco Lorenzi 中古稀有紫色镶钻哑光缎面 防水台高跟鞋成色好",
+  "saint laurent | ¥798 | 【全新正品】Saint Laurent YSL圣罗兰黑色方头 高跟凉鞋，经典方头",
+  "saint laurent | ¥1780 | 现货  SAINT LAURENT圣罗兰 SL/61 小牛皮 圆头系带 低帮 板",
+  "saint laurent | ¥650 | 【全新正品】Saint Laurent圣罗兰黑色漆皮粗跟凉鞋 ，金色logo设计",
+  "saint laurent | ¥2080 | 现货 SAINT LAURENT圣罗兰 Poppy  方头套 脚 芭蕾平底鞋 黑",
+  "saint laurent | ¥1880 | 现货  SAINT LAURENT圣罗兰 闪面皮革 乐福鞋休 闲鞋 黑色尺码37",
+  "saint laurent | ¥1880 | 现货  SAINT LAURENT圣罗兰 LAURENT 圆 头套脚 休闲单鞋 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T13:02:10"
+ "finished_utc": "2026-10-19T13:32:28"
 }
