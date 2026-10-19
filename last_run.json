@@ -1,22 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥6400 | 圣罗兰Sunset中号鳄鱼压纹链条包YSL Sunset中号 包，蓝色鳄鱼压纹牛",
-  "saint laurent | ¥11900 | 26年全新未使用 圣罗兰/Saint laurent 黑金油蜡皮 26年全新未使"
+  "rick owens | ¥220 | Rick Owens平替/英国小众品牌 size：S 立领设计 版型很好 皮料很"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T04:32:08"
+ "finished_utc": "2026-10-19T05:02:10"
 }
