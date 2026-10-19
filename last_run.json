@@ -2,27 +2,22 @@
  "keywords_total": 4,
  "per_keyword_items": {
   "saint laurent": 60,
-  "celine": 30,
+  "celine": 0,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 27,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 27,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥100 | YSL圣罗兰黑色链条包，经典V纹皮，银色链条肩带，容量实用， 手机钱包都能装。尺",
-  "saint laurent | ¥149 | 全新YSL圣罗兰黑色漆皮高跟凉鞋，经典一字带+logo金属跟 ，气质拉满！鞋面进",
-  "saint laurent | ¥149 | 全新YSL圣罗兰黑色漆皮高跟鞋，原盒配件都在，没穿过，保存很 新，细节做工精致，",
-  "saint laurent | ¥5699 | YSL 圣罗兰 经典V纹 牛皮 邮差包 黑色 soblack  ",
-  "saint laurent | ¥4299 | YSL圣罗兰黑色鳄鱼压纹KATE银扣流苏链条包小号20x12 .5x4.5 感兴",
-  "saint laurent | ¥299 | 全新YSL圣罗兰Calypso链条信封包，酒红/黑色/米色三 色可选，经典金色l",
-  "saint laurent | ¥60 | 【包邮】YSL圣罗兰黑色漆皮一字带高跟凉鞋，方头设计，异形鞋 跟很有辨识度，气质",
-  "saint laurent | ¥1960 | 【正品代购】YSL圣罗兰黑金hobo腋下包 经典黑金配色 牛 皮材质 金色log"
+  "saint laurent | ¥990 | ➗高版YSL Niki中号黑色链条包 带d扣 原价2380买的可发购买记录 商家"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-19T02:02:14"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-19T02:32:01"
 }
