@@ -1,22 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 34,
  "subscribers": 4,
- "sent": 2,
+ "sent": 33,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥15 | 二手轻奢｜m码 试穿过 YSL圣罗兰白色针织开衫，胸前YSL水钻logo，珍珠纽",
-  "junya watanabe | ¥499 | Rick Owens FW21 Tyrone Bootcut s 黑色微喇刷蜡牛"
+  "saint laurent | ¥309.90 | YSL新款Gaby小盒子包 19*11cm 手拎斜挎两用 尺寸规格：19*11c",
+  "saint laurent | ¥3980 | Ysl 圣罗兰  GABY 金属品牌徽标拉链开合 绗缝羊皮 单肩斜挎包  黑色尺",
+  "saint laurent | ¥2500 | YSL圣罗兰中号鱼子酱信封包 22年 YSL圣罗兰中号鱼子酱信封包 22年",
+  "saint laurent | ¥2500 | YSL圣罗兰中号鱼子酱信封包 22年 YSL圣罗兰中号鱼子酱信封包 22年",
+  "saint laurent | ¥2500 | YSL圣罗兰中号鱼子酱信封包 22年 YSL圣罗兰中号鱼子酱信封包 22年",
+  "saint laurent | ¥3200 | 99新YSL圣罗兰Kate流苏链条包 黑金配色 中号牛皮 感兴趣的话点“我想要”",
+  "saint laurent | ¥390 | 特价清 ysl 墨绿色丝绒外套 就一件s",
+  "saint laurent | ¥1899 | YSL 圣罗兰 裸色 漆皮尖头高跟鞋 36.5码 原盒配件齐 全 下地一次 品相"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T10:31:54"
+ "finished_utc": "2026-10-19T11:02:37"
 }
