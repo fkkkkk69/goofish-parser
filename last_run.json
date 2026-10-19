@@ -3,19 +3,22 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 30,
+  "junya watanabe": 0,
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "rick owens | ¥220 | Rick Owens平替/英国小众品牌 size：S 立领设计 版型很好 皮料很"
+  "saint laurent | ¥21 | 拍卖 Saint Laurent SLP  圣罗兰 徽标刻印 针扣 皮革腰带 皮",
+  "saint laurent | ¥45 | 个人闲置，YSLING LOYRON男士夹克，黑色，L码，具 体尺寸见图，厚实款"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-19T05:02:10"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-19T05:32:13"
 }
