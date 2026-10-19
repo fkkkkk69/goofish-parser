@@ -1,7 +1,7 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
@@ -11,12 +11,12 @@
  "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥389 | 圣罗兰百分百羊毛西装！有瑕在后背，正品，可走验货宝，包邮！垫 肩有点开线不影响穿",
-  "saint laurent | ¥86 | 顶级复刻版本【Yves Saint Laurent YSL 圣罗兰限定款草写提花"
+  "saint laurent | ¥6400 | 圣罗兰Sunset中号鳄鱼压纹链条包YSL Sunset中号 包，蓝色鳄鱼压纹牛",
+  "saint laurent | ¥11900 | 26年全新未使用 圣罗兰/Saint laurent 黑金油蜡皮 26年全新未使"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T04:02:03"
+ "finished_utc": "2026-10-19T04:32:08"
 }
