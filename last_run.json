@@ -2,18 +2,27 @@
  "keywords_total": 4,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
-  "rick owens": 30
+  "rick owens": 60
  },
- "new_items": 0,
+ "new_items": 62,
  "subscribers": 4,
- "sent": 0,
+ "sent": 39,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥108 | 【专柜版本➕运费险】杨树林同款圣罗兰高跟鞋 金色字母跟一字带 凉鞋街头御姐  颜",
+  "celine | ¥6800 | 瑟琳,黄色凯旋门腋下包 单肩包/Celine,019139 护理情况：无护理商品",
+  "celine | ¥1500 | 【原厂高定 不正包退】Celine凯旋门包，牛皮，金色锁扣， 尺寸19*13*8",
+  "celine | ¥6000 | CELINE赛琳 凯旋门老花琴谱包 mini tote 关注本店、成为粉丝、立减",
+  "celine | ¥2500 | 商品名称：瑟琳 圆饼包21年 品牌：瑟琳/Celine 品类 ：箱包-单肩包 成",
+  "celine | ¥3200 | 成色新 Celine Triomphe系列凯旋门黑金box皮 杨幂同款 挺乖的这",
+  "celine | ¥2588 | Celine赛琳笑脸包，黑白拼色，手提款，正品保证，个人自用 款，背了一段时间，",
+  "celine | ¥898 | Burberry Blue Label 彩色字母保龄球包蓝标 包型可爱 容量实用"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-19T19:02:06"
+ "finished_utc": "2026-10-19T19:32:41"
 }
