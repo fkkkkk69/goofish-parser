@@ -1,28 +1,23 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 44,
+ "new_items": 3,
  "subscribers": 4,
- "sent": 44,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥399 | ｜36.5｜YSL圣罗兰中古vintage红色漆皮木跟高跟凉 鞋木屐鞋跟高10.",
-  "saint laurent | ¥4900 | 商品名称：圣罗兰凯特流苏包20年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥4699 | YSL圣罗兰黑银鱼子酱22信封包中号 22年 尺寸： YSL圣罗兰黑银鱼子酱22",
-  "saint laurent | ¥5500 | YSL/Saint Laurent 女士腋下斜挎包becky22.5*14.5*",
-  "saint laurent | ¥69.90 | YS1圣罗lan V领针织衫打底衫 修身版型，胸前小logo，弹力面料，穿着舒服",
-  "saint laurent | ¥9680 | YSL  迷你Jamie 4.3  底长26厘米左右  全原 无补色 正常使用感",
-  "saint laurent | ¥4800 | 商品名称：圣罗兰菱格纹链条包 20年 品牌：圣罗兰/Sain t Laurent",
-  "saint laurent | ¥6999 | YSL NIKI小号黑银 公价2W+ 秋冬热门款 单肩斜挎流 浪背 巨百搭 便宜"
+  "celine | ¥920 | 瑟琳托特包 购于中古店 大小适中 适用于任何季节 不挑穿搭 感兴趣的话点“我想要",
+  "celine | ¥600 | CELINE赛琳 Triomphe Racer 牛皮绒面革 圆头系带 1cm 低",
+  "celine | ¥1380 | 已过检（全新）现货 出一未拆封Celine波士顿，经典凯旋门 |||老花系列，越"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T11:02:48"
+ "finished_utc": "2026-10-20T11:32:04"
 }
