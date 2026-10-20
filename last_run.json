@@ -1,28 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 60,
-  "junya watanabe": 30,
-  "rick owens": 30
+  "saint laurent": 30,
+  "celine": 30,
+  "junya watanabe": 60,
+  "rick owens": 60
  },
- "new_items": 48,
+ "new_items": 60,
  "subscribers": 4,
- "sent": 47,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥8000 | YSL 圣罗兰 ENVELOPE so black 邮差 信封包 黑色 鱼 YS",
-  "saint laurent | ¥9000 | 99新圣罗兰niki中号黑银 编码：PLM638160.0722 入 99新圣罗",
-  "saint laurent | ¥9000 | 99圣罗兰hobo 黑金小号 编码:7139380523 入库:153074 9",
-  "saint laurent | ¥7000 | 99新SL niki小号墨绿色 D扣 编码：YSL633160.1220 入 9",
-  "saint laurent | ¥7500 | YSL圣罗兰牛仔云朵包 Loulou Puffer小号 专柜 正品入的 水洗做旧",
-  "saint laurent | ¥6700 | 98新 圣罗兰水桶  黑金 编码：后四位0923 入库: 98新 圣罗兰水桶  ",
-  "saint laurent | ¥9500 | 99新圣罗兰niki大号 编码:0622 入库:116594 存档:CG 99新",
-  "saint laurent | ¥10000 | 99新 圣罗兰云朵大号黑银 编码：GUE577475.0624 99新 圣罗兰云"
+  "saint laurent | ¥160 | 黑色法棍手提包，油蜡皮 经典三角，皮质光滑，手柄有保护套，包 包很有分量 保存很",
+  "junya watanabe | ¥374 | JUNYA WATANABE MAN 黑色斜纹 日本代购 JUNYA WATAN",
+  "junya watanabe | ¥2623 | JUNYA WATANABE 黑色登山夹克 日本代购 这是一款由junyawat",
+  "junya watanabe | ¥1639 | Junya Watanabe 假层叠式腰带连衣 日本代购 Junya Watan",
+  "junya watanabe | ¥520.70 | 状况良好 Junya Watanabe Comme des Garçons 滚边",
+  "junya watanabe | ¥599 | Tornado mart风小众日牌Fuga中古波浪纹复古水洗 直筒牛仔裤44码 ",
+  "junya watanabe | ¥499 | buffalo bobs系日牌中古vintage水牛皮骑士夹 克皮衣掉了一个扣子",
+  "junya watanabe | ¥483 | alice auaa系blumarine系姬系古早名伶荷叶边 哥特上衣短袖dol"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T02:02:57"
+ "finished_utc": "2026-10-20T02:32:15"
 }
