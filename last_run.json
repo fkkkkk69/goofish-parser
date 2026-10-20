@@ -1,24 +1,30 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 30
+  "rick owens": 0
  },
- "new_items": 4,
+ "new_items": 34,
  "subscribers": 4,
- "sent": 4,
+ "sent": 34,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥169 | Saint Laurent圣罗兰SLP立领撞色夹克外套 藏青+卡其拼色，立领拉链",
-  "celine | ¥1587 | 【三鉴定过验】CELINE赛琳 Cabas 黑色粒面牛皮凯旋 门托特包  全店支",
-  "celine | ¥785 | 正品可过检CELINE/赛琳百变包型，全新未用，小号单肩包， 经典老花，棕色皮革",
-  "junya watanabe | ¥435 | JUNYA WATANABE灰色竖条纹西裤， • 52% 羊毛47% 聚酯纤维1"
+  "saint laurent | ¥5700 | 商品名称：YSL拉菲草托特包24年 闲置  品牌：圣罗兰/S aint Laur",
+  "saint laurent | ¥6000 | 商品名称：YSL拉菲草托特包24年 闲置  品牌：圣罗兰/S aint Laur",
+  "saint laurent | ¥7150 | 到店YSL圣罗兰Niki中号灰色22年 。阿锋看好再拍 感兴趣的话点“我想要”和",
+  "saint laurent | ¥11000 | YSL圣罗兰/Saint laurent LE 5 A 7系 列 大号 鹿皮革 ",
+  "saint laurent | ¥699 | Rock Revival 正品做旧水洗低腰牛仔裤长裤辣妹y2 k 易梦玲同款 J",
+  "saint laurent | ¥11800 | 圣罗兰 ysl 新款 D 扣 部分扣膜在 送内胆  很新 也 很干净 尺寸 27",
+  "saint laurent | ¥13800 | YSL圣罗兰 Jamie 4.3大号 黑色小羊皮链条包 尺寸 29x21x9.5",
+  "saint laurent | ¥2200 | YSL /圣罗兰 V纹大号黑色 牛皮手包 20年全套 尺寸： 30*21 -24"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-20T12:32:06"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-20T13:02:33"
 }
