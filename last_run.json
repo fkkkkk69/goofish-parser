@@ -1,28 +1,23 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 60
+  "rick owens": 30
  },
- "new_items": 22,
+ "new_items": 3,
  "subscribers": 4,
- "sent": 20,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥3699 | 98新 YSL圣罗兰 光面牛皮中号kate流苏链条包 16年编码 尺寸23*5*",
-  "saint laurent | ¥1800 | YSL圣罗兰 Jamie 福袋水桶包 大号 白色 纯羊皮材质，菱格绗缝，古铜色五",
-  "saint laurent | ¥1800 | YSL圣罗兰 Jamie 福袋包 酒红色小羊皮 经典菱格绗缝，金色YSL金属标，",
-  "saint laurent | ¥2888 | YSL圣罗兰星星波士顿包 15年 尺寸22.5x14 现好价 BTT003862",
-  "saint laurent | ¥1260 | 全新YSL圣罗兰黑金noleta洛丽塔mini单肩斜挎包 超少女 上身小巧又不失",
-  "saint laurent | ¥450 | YSL Bea小号托特包 黑色 荔枝纹鹿皮 金色logo尺寸18×15×13cm",
-  "saint laurent | ¥1450 | YSL Bea小号托特包 奶白色荔枝纹鹿皮 金色logo手提肩背两用 容量适中尺",
-  "saint laurent | ¥1450 | YSL Bea小号托特 酒红荔枝皮 金色logo手提斜挎两用 容量日常够用尺寸1"
+  "saint laurent | ¥86 | YSL圣罗兰RIVE GAUCHE帆布托特包，米白拼咖色经典 logo款，帆布包",
+  "celine | ¥1188 | Celine赛琳黑色麂皮手提包  中古款 有使用痕迹 五金正 常 内里干净 容量",
+  "rick owens | ¥11000 | Rick Owens FW07 Rick Owens Dus t Detroit"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T04:32:11"
+ "finished_utc": "2026-10-20T05:01:56"
 }
