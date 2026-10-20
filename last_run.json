@@ -1,28 +1,25 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 45,
+ "new_items": 5,
  "subscribers": 4,
- "sent": 43,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥7999 | 3151 YSL 圣罗兰  奶茶色 Niki 中号  斜挎包 单肩包 流浪包 尺",
-  "saint laurent | ¥2990 | 全新圣罗兰YSL内购 原价7400折后299037/1 38/1圣罗兰黑白低帮板",
-  "saint laurent | ¥4999 | YSL/圣罗兰sunset粉色鳄鱼压纹银色+中号+日落包单肩 斜挎链条包，尺寸：",
-  "saint laurent | ¥3990 | 全新圣罗兰YSL内购 原价9100折后399038/1 圣罗兰黑色漆皮logo跟",
-  "saint laurent | ¥2400 | YSL圣罗兰 Le37水桶黑金中号 尺寸：20 X 25 X 16厘米全新正品 ",
-  "saint laurent | ¥18300 | Saint Laurent 女士 长袖休闲夹克FR-34 F R-38 FR-4",
-  "saint laurent | ¥2590 | 全新圣罗兰YSL内购 原价11900折后259037/2 38/1圣罗兰黑色牛皮",
-  "saint laurent | ¥79.90 | YSL圣罗兰菜篮子手提包 黑色 咖色 棕色都有 经典菱格纹 五金亮 logo清晰"
+  "saint laurent | ¥99 | 操作中Saint Laurent 14AW 圣罗兰SLP黑色 全皮双肩包  价格",
+  "celine | ¥528 | CELINE赛LINE SOFT SHOPPER黄褐色凯旋门 托特单肩包 2k多",
+  "celine | ¥5800 | Celine mini triomphe 思琳迷你凯旋门粉色 斜挎小包买回来没怎",
+  "rick owens | ¥128.80 | Rick Owens 长袖v领金属排扣衬衫（天花板本） 尺码：46-48-50码",
+  "rick owens | ¥299 | 【广州天花板】RICK OWENS/RO 全粒面小牛皮 低帮 时尚板鞋 男女同款"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T10:02:54"
+ "finished_utc": "2026-10-20T10:32:01"
 }
