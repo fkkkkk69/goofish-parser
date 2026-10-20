@@ -1,22 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 35,
  "subscribers": 4,
- "sent": 2,
+ "sent": 35,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥555 | saint lauren圣罗兰 d02黑色基础牛26码 模特 秀款 经典D02版",
-  "saint laurent | ¥249 | YSL 圣罗兰 男士罗纹针织羊毛半拉链毛衫羊毛混纺 半拉链高 领针织毛衣 249"
+  "saint laurent | ¥698 | 【全新正品】Saint Laurent圣罗兰黑色漆皮尖头后空 高跟鞋，金色异形细",
+  "saint laurent | ¥699 | 【全新正品】Saint Laurent圣罗兰酒红拼色尖头高跟 凉鞋，经典后空设计",
+  "saint laurent | ¥1000 | YSL 圣罗兰 黑色光面牛皮方头后空玛丽珍粗跟凉鞋。女鞋35 .5码，鞋跟高6c",
+  "saint laurent | ¥149 | Saint Laurent圣罗兰粉色板鞋，37码，意大利制造 ，真皮材质，经典款",
+  "saint laurent | ¥15800 | LV 路易威登 CarryAll小号 PM 小号 29*24 棕色 M46203",
+  "saint laurent | ¥10000 | YSL圣罗兰 Niki 中号链条包 日本专柜正品购入  黑银 配色 油蜡牛皮材质",
+  "saint laurent | ¥123 | 复刻 YSL圣罗兰中号单肩包，链条肩带，皮质细腻，容量实用， 日常通勤、约会都能",
+  "saint laurent | ¥980 | YSL圣罗兰Niki链条包 米白色小号 油蜡皮，银色链条肩带，菱格纹设计容量能装"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T20:32:07"
+ "finished_utc": "2026-10-20T21:02:26"
 }
