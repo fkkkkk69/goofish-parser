@@ -3,26 +3,21 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
-  "rick owens": 60
+  "junya watanabe": 30,
+  "rick owens": 30
  },
- "new_items": 60,
+ "new_items": 3,
  "subscribers": 4,
- "sent": 31,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥160 | 黑色法棍手提包，油蜡皮 经典三角，皮质光滑，手柄有保护套，包 包很有分量 保存很",
-  "junya watanabe | ¥374 | JUNYA WATANABE MAN 黑色斜纹 日本代购 JUNYA WATAN",
-  "junya watanabe | ¥2623 | JUNYA WATANABE 黑色登山夹克 日本代购 这是一款由junyawat",
-  "junya watanabe | ¥1639 | Junya Watanabe 假层叠式腰带连衣 日本代购 Junya Watan",
-  "junya watanabe | ¥520.70 | 状况良好 Junya Watanabe Comme des Garçons 滚边",
-  "junya watanabe | ¥599 | Tornado mart风小众日牌Fuga中古波浪纹复古水洗 直筒牛仔裤44码 ",
-  "junya watanabe | ¥499 | buffalo bobs系日牌中古vintage水牛皮骑士夹 克皮衣掉了一个扣子",
-  "junya watanabe | ¥483 | alice auaa系blumarine系姬系古早名伶荷叶边 哥特上衣短袖dol"
+  "saint laurent | ¥550 | Saint Laurent圣罗兰YSL同款女士黑色腰带透纱真 丝工装衬衫，码数3",
+  "celine | ¥1350 | 新款宝藏包包DUFFLE小号 简直是通勤的宝藏包包 又轻又能装！百搭又耐用#ce",
+  "rick owens | ¥148 | 【现货秒发】ro小胖丁 Rick Owens RO小胖丁Rick Owens小胖"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T02:32:15"
+ "finished_utc": "2026-10-20T03:02:09"
 }
