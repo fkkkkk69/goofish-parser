@@ -6,17 +6,20 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 5,
  "subscribers": 4,
- "sent": 2,
+ "sent": 4,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥550 | 个人闲置 Celine凯旋门白花小号水桶包，几乎全新，保存很 好，经典老花配色，",
-  "celine | ¥1000 | 【全新】CELINE赛琳新款老花duffle法棍包，小号，经 典Triomphe"
+  "saint laurent | ¥238 | 全新 原标 YSL*SLP立领撞色夹克外套 男女明星同款 [红圆]深圳南油高版本",
+  "saint laurent | ¥169 | 欧洲站潮牌YSL圣罗兰男士高品质低帮休闲鞋运动鞋板鞋潮流百搭 男鞋 码数",
+  "celine | ¥850 | 出Celine凯旋门经典老花配色mini款背包，容量很实用， 日常通勤、出门背都",
+  "junya watanabe | ¥1380 | JUNYA WATANABE MAN 拼接牛仔裤 S码 质感非常顶级 腰围84裤",
+  "rick owens | ¥259 | ro倒三角 Rick Owens九百购入37码 盒子还在穿一 次而已很少穿 平常"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T17:02:48"
+ "finished_utc": "2026-10-20T17:32:33"
 }
