@@ -1,22 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 30,
  "subscribers": 4,
- "sent": 2,
+ "sent": 30,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥850 | 近三千买的celine老花链条包  99新 皮质很好 细节很到位 朋友都说看不出",
-  "celine | ¥520 | CELINE AVA腋下包 白色老花款 经典凯旋门图案 棕色包边 单肩背 成色几"
+  "saint laurent | ¥7999 | 99新 YSL圣罗兰 niki中号光面牛皮 黑色 新款D扣 底长27cm 无瑕疵",
+  "saint laurent | ¥8200 | YSL中号all black niki 2019年12月购入，无D扣黑色鳄鱼纹链",
+  "saint laurent | ¥3300 | 商品名称：圣罗兰丝绒相机包 20年 品牌：圣罗兰/Saint Laurent 品",
+  "saint laurent | ¥7999 | YSL灰色绗缝皮革配金色金属链条包 尺寸19*5*12",
+  "saint laurent | ¥5500 | 商品名称：圣罗兰单肩包20年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥4599 | 98新 二手YSL圣罗兰信封包小号黑银鱼子酱19年/19*1 2*4cm/L22",
+  "saint laurent | ¥3800 | Ysl圣罗兰Kate红色鱼子酱流苏包，有尘袋，尺寸24*15 *6，很新 优惠出",
+  "saint laurent | ¥8999 | YSL 圣罗兰 niki 黑色V纹牛皮链条包单肩包 底长28 感兴趣的话点“我想"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-20T13:32:01"
+ "finished_utc": "2026-10-20T14:03:22"
 }
