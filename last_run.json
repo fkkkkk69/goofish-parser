@@ -1,19 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 4,
- "sent": 0,
+ "sent": 30,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥560 | Saint Laurent黑色短款钱包，黑白拼色，蛇皮纹理， 金属按扣，卡位多，",
+  "saint laurent | ¥2000 | Saint Laurent 16AW City Backpa ck (Full ",
+  "saint laurent | ¥499 | YSL CASSANDRE托特包，黑色油蜡皮质感超有光泽，正 面金属Logo超吸",
+  "saint laurent | ¥17000 | 二手 YSL 圣罗兰 icare tote托特包 黑金大号 38cm 专柜原价4",
+  "saint laurent | ¥4500 | 圣罗兰/Saint laurent KAIA系列  小号马鞍 包 牛皮革 尺寸：",
+  "saint laurent | ¥6500 | 99❤️YSL/圣罗兰 Loulou方胖子小号黑色 金色lo go 经典V纹绗缝",
+  "saint laurent | ¥300 | ysl流苏链条包 流苏链条斜挎包，牛仔材质，瑕疵见图10年前加拿大买的，包是真的",
+  "saint laurent | ¥7800 | YSL niki中号黑色非D扣工价25000JM11-088 1"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T18:31:55"
+ "finished_utc": "2026-10-21T19:03:21"
 }
