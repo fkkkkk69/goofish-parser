@@ -1,19 +1,28 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 32,
  "subscribers": 4,
- "sent": 0,
+ "sent": 32,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥290 | YSL Loulou 迷你网纱花边限定款，V型绗缝小羊皮包身 ，包身边缘拼接黑色",
+  "saint laurent | ¥1200 | 个人闲置CLEON英国YSL原版泡皮小羊皮外套，黑色L码，2 5年8月淘宝买的，",
+  "saint laurent | ¥12500 | 商品名称：圣罗兰云朵包 26.2.8票  品牌：圣罗兰/Sa int Laure",
+  "saint laurent | ¥3860 | ysl 暗纹logo刺绣双肩包 全新 专柜全新在售14200¥货号756285F",
+  "saint laurent | ¥8900 | 【好价YSl】 圣罗兰Ysl鳄鱼纹Cassandra手提压纹信封邮差小方包黑色金",
+  "saint laurent | ¥4429 | ysl 全新牛皮信封包 专柜在售10500¥",
+  "saint laurent | ¥99 | 99新YSL圣罗兰绿色针织开衫，意大利制造，胸前粉色logo 刺绣，紫色纽扣，圆",
+  "saint laurent | ¥105 | ysl包 假包假包假包 便宜出 没有子母包 几乎全新 买到就 是赚到"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T22:01:54"
+ "finished_utc": "2026-10-21T22:32:28"
 }
