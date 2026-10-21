@@ -1,23 +1,26 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 3,
+ "new_items": 6,
  "subscribers": 4,
- "sent": 3,
+ "sent": 6,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥328 | Saint Laurent圣罗兰星星板鞋 全新未穿，带原包装盒意大利进口小牛皮鞋",
-  "celine | ¥1388 | 【得物 / 识货双重鉴定】CELINE赛琳AVA 23年凯旋 门老花帆布拼小牛皮",
-  "junya watanabe | ¥1499 | CDG Junya Watanabe 渡边淳弥哥特朋克厚底靴 Size 1 相当"
+  "saint laurent | ¥999 | RAIVE黑色月牙腋下包 小众设计 轻便防水 容量日常够用 成色都在图里啦 闲置",
+  "saint laurent | ¥880 | 【顶级版本】YSL圣罗兰2026秋冬新款高跟长靴 侧拉链高筒 靴休闲鞋尖头细跟靴",
+  "saint laurent | ¥108 | 【全新顶级➕运费险】杨树林同款圣罗兰黑色漆皮高跟凉鞋 金色l ogo跟 一字带 ",
+  "saint laurent | ¥398 | Saint Lanrent  YSL  情侣同款 官方最新爆款小白鞋，运动跑鞋，",
+  "celine | ¥729 | celine水桶包，绿色牛皮，容量大，日常通勤、出门都能装不 少东西。包身成色还",
+  "celine | ¥970 | 【出入专柜无压力】Celine Duffle 小号手袋 【关于质量】包包保证是全"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T03:01:59"
+ "finished_utc": "2026-10-21T03:33:05"
 }
