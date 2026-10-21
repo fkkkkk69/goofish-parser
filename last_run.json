@@ -6,14 +6,18 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 3,
  "subscribers": 4,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "celine | ¥650 | 全新带扣小兰studio celine凯旋门开衫 凯旋门灰开 衫 全新带扣   ",
+  "celine | ¥638 | 全新带扣 小兰studio celine凯旋门开衫 凯旋门灰 开衫 全新带扣 属",
+  "celine | ¥788 | 【假货包退】CELINE赛琳 Triomphe 经典老花满印 可调节肩带 涂层帆"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T08:01:57"
+ "finished_utc": "2026-10-21T08:32:02"
 }
