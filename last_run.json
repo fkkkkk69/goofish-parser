@@ -6,14 +6,17 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 4,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "celine | ¥1528 | 【三鉴定过验】CELINE赛琳 Soft Shopper托特 包 常规 黄褐色 ",
+  "junya watanabe | ¥369 | *纽约时装周秀款乱世巨星古惑Junya bootleg复古蓝 歌词直筒牛仔裤 m"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T15:02:03"
+ "finished_utc": "2026-10-21T15:32:03"
 }
