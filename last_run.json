@@ -1,28 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 32,
+ "new_items": 1,
  "subscribers": 4,
- "sent": 31,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥5200 | YSL圣罗兰/曼哈顿/中号/黑色/金扣 同行批发 材质：牛皮\r颜色：黑色\r尺寸：",
-  "saint laurent | ¥1800 | 出YSL圣罗兰米色Y扣手拿包，经典款，牛皮材质，米黄色，金属 Y扣设计，容量适中",
-  "saint laurent | ¥3500 | 商品名称：圣罗兰爱心链条包16年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥5500 | 98新 YSL圣罗兰 Kate 灰银压纹牛皮流苏小号 单包 感兴趣的话点“我想要",
-  "saint laurent | ¥2060 | 【正品代购】 YSL圣罗兰 Nolita mini 黑金链条 【正品代购】 YS",
-  "saint laurent | ¥2560 | 【正品代购】 YSL圣罗兰 Le 5A7 Hobo 黑色腋下 【正品代购】 YS",
-  "saint laurent | ¥5500 | 99新 YSL圣罗兰奶茶色 鳄鱼压纹kate流苏小号 感兴趣的话点“我想要”和我",
-  "saint laurent | ¥6400 | 商品名称：圣罗兰Niki20年 D 扣 品牌：圣罗兰/Sai nt Lauren"
+  "celine | ¥528 | Celine赛琳拼色手拿包，Phoebe Philo时期经典 款，黑色+浅蓝色拼"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T16:32:34"
+ "finished_utc": "2026-10-21T17:02:07"
 }
