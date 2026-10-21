@@ -6,16 +6,18 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 3,
  "subscribers": 4,
- "sent": 1,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥48 | 【个人闲置】YSL圣罗兰黑色马海毛毛衣，S码，经典logo字 母，秋冬穿很舒服，"
+  "saint laurent | ¥299 | Saint Laurent黑色机车皮衣，38码 肩宽41，胸围96，衣长53，袖",
+  "celine | ¥939 | （已过验）CELINE赛琳 波士顿包 113772 全新未使用，专柜品质，带包装",
+  "rick owens | ¥390 | RICK OWENS 复线DEKSHDW 2026SS新款厚 底粗鞋带低帮帆布大"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-21T10:32:03"
+ "finished_utc": "2026-10-21T11:01:57"
 }
