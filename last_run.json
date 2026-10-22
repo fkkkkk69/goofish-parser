@@ -1,21 +1,25 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 1,
+ "new_items": 5,
  "subscribers": 4,
- "sent": 0,
+ "sent": 5,
  "send_failed": 0,
  "sample_new": [
-  "rick owens | ¥330 | rickowens/RO 暗黑斜拉链皮衣夹克 码数sml 现货秒发 图片独家实物"
+  "saint laurent | ¥1299 | 95新正品Saint Laurent/圣罗兰黑色拼豹纹尖头细 跟单鞋37码 意大",
+  "saint laurent | ¥168 | 2026新款樱桃水钻绑带高跟鞋女夏尖头细跟凉鞋甜辣风绝美包头 单鞋ysl紫葡萄同",
+  "saint laurent | ¥2180 | YSL圣罗兰 白金全皮Gaby mini链条包 成色98新， YSL圣罗兰 白金",
+  "saint laurent | ¥4980 | YSL圣罗兰 黑金全皮超迷你loulou链条包 全新闲 YSL圣罗兰 黑金全皮超",
+  "celine | ¥599 | 【现货秒发】ce 26ss新款polo式丝羊绒套头衫，三色少 量现货，70%羊绒"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T05:01:51"
+ "finished_utc": "2026-10-22T05:31:59"
 }
