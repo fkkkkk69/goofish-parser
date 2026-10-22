@@ -6,14 +6,16 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 1,
  "subscribers": 4,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "rick owens | ¥299 | 正品匡威Converse 1970s联名Ro瑞克欧文斯Ric k Owens异形"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T02:32:04"
+ "finished_utc": "2026-10-22T03:02:19"
 }
