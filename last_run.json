@@ -6,14 +6,23 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 25,
  "subscribers": 3,
- "sent": 0,
+ "sent": 23,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "celine | ¥600 | 个人闲置 Celine 凯旋门黑金腋下包，三千多入的高，高， 高，黑色牛皮+金色",
+  "junya watanabe | ¥450 | HYS 歇斯底里 松弛字母印花吊带连衣裙 free size国内现货 成色如图 ",
+  "junya watanabe | ¥649 | 现货欧牌 vintage古着欧牌 暗黑魔女先锋视觉系 金属朋 克多绑带 重工机能",
+  "junya watanabe | ¥1169.33 | JUNYA WATANABE COMME des GARCONS MAN 13S",
+  "junya watanabe | ¥1100 | Junya Watanabe 17AW秀款 变形渐变格纹百褶 裙 裙/裤两穿裙子",
+  "junya watanabe | ¥2299 | Junya Watanabe Comme des Garço ns x Levi",
+  "junya watanabe | ¥800 | JUNYA WATANABE渡边淳弥牛皮单肩包，黑色，日本代 购款，22年2月淘",
+  "junya watanabe | ¥499 | 特价秒杀全新Brooks Brothers/布克兄弟男士长袖 休闲衬，牛仔蓝可以"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T16:39:24"
+ "finished_utc": "2026-10-22T17:06:42"
 }
