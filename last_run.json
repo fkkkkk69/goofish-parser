@@ -1,28 +1,19 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 31,
+ "new_items": 0,
  "subscribers": 4,
- "sent": 31,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥6999 | 2911 YSL 圣罗兰 大象灰 鳄鱼压纹 中号 日落链条 单肩斜挎包 尺寸：2",
-  "saint laurent | ¥10500 | YSL圣罗兰 Niki 中号 D扣 黑色 油蜡皮 22年 链 条斜挎包 底长28",
-  "saint laurent | ¥2599 | YSL黑白手拿包 现货*1，完标大全套2599。 ———————————————",
-  "saint laurent | ¥6000 | YSL Joe黑金链条双肩包 羊皮V纹 金色五金22*29*15cm成色如图皮质",
-  "saint laurent | ¥8199 | 2309 YSL圣罗兰白色小号Niki单肩包 D扣 感兴趣的话点“我想要”和我私",
-  "saint laurent | ¥2599 | YSL黑金钱包，包挂，现货1，完标大全套2599。 ——————————————",
-  "saint laurent | ¥6200 | 99新 YSL 圣罗兰 Kate 黑金鳄鱼压纹流苏链条包，1 9年编码，专柜正品",
-  "saint laurent | ¥3200 | YSL/圣罗兰 kate大象灰色流苏小号链条包 护理 YSL/圣罗兰 kate大"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T09:02:32"
+ "finished_utc": "2026-10-22T09:32:00"
 }
