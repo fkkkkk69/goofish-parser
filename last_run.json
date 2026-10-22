@@ -1,28 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 60,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 14,
+ "new_items": 1,
  "subscribers": 4,
- "sent": 14,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥500 | saint laurent椰树夹克 jas出品 当年发售价1 000➕的产物 这",
-  "saint laurent | ¥11900 | 本人25年在武汉武商商场专柜买的，当时买的从没想过卖掉，所以 发票和专柜包装袋都",
-  "saint laurent | ¥100 | ✅YSL圣罗兰黑色腋下包，（高版本） 经典YSL金标，牛皮材质，手感细腻，包型挺",
-  "saint laurent | ¥4650 | YSL米色尼龙Niki，明星同款 现货*3，完标4650，在 途*1。 运费顺丰",
-  "saint laurent | ¥580 | YSL圣罗兰hobo黑金鳄鱼压纹腋下包 高A专柜购入 99%成新  五金细节全部",
-  "saint laurent | ¥1099 | 97新 YSL 圣罗兰 玫粉色长款对折钱包 尺寸19×10×2 正品保真 现货好",
-  "saint laurent | ¥728 | YSL 26新款Niki｜黑金羊皮通勤包太戳人背法很灵活，单 肩松弛随性，调成斜",
-  "saint laurent | ¥599 | YSL Niki迷你手袋，油蜡牛皮，光泽感满满，菱格纹+金属 YSL标志超有辨识"
+  "rick owens | ¥330 | rickowens/RO 暗黑斜拉链皮衣夹克 码数sml 现货秒发 图片独家实物"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T04:32:06"
+ "finished_utc": "2026-10-22T05:01:51"
 }
