@@ -1,28 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
+  "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 60,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 60,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4999 | YSL圣罗兰 Kate  鳄压黑银流苏中号链条包 底长24 编码17开",
-  "saint laurent | ¥280 | YSL圣罗兰|Le37 水桶包不要太可爱辣!!!!可以手提手挽也有肩带可以单肩背",
-  "saint laurent | ¥2360 | 【正品代购】YSL圣罗兰 Icarino baby 黑金羊皮 小号呼啦圈包 经典",
-  "saint laurent | ¥5600 | ¥5600 Ysl 圣罗兰 Voltaire 标志性金属品牌徽标 羊皮 手提包 ",
-  "saint laurent | ¥999 | YSL/圣罗兰 玫红色手拿信封包 98新 尺寸：28*2*1 6.5",
-  "saint laurent | ¥5499 | 98新 二手YSL圣罗兰kate链条包中号黑金鳄压纹/24* 15*6cm/B5",
-  "saint laurent | ¥2260 | 【正品代购】YSL圣罗兰 Puffer云朵包 小号 白银配色 银色五金 经典菱格",
-  "saint laurent | ¥198 | YSL圣罗兰信封包链条包 经典百搭款 四季皆可搭  实用性很高九成新 新旧如图 "
+  "celine | ¥501 | 【拍卖】CELINE羊绒毛衣 ———成色∶ 98  ———尺码∶ m  ——— "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T12:33:01"
+ "finished_utc": "2026-10-22T13:02:03"
 }
