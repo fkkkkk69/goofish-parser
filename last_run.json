@@ -6,17 +6,14 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 2,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 1,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "celine | ¥650 | CELIN*23s早春系列｜CUIR TRIOMPHE小号光 滑小牛皮革波士顿包",
-  "rick owens | ¥249 | Rick Owens ro不规则翻领结构机车夹克皮衣外套 不规则翻领机车夹克 高"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-22T11:32:16"
+ "finished_utc": "2026-10-22T12:02:05"
 }
