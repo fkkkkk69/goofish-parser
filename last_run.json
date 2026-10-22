@@ -1,19 +1,30 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "rick owens": 30
+  "rick owens": 0
  },
- "new_items": 0,
+ "new_items": 30,
  "subscribers": 3,
- "sent": 0,
+ "sent": 30,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥240 | YSL圣罗兰Jamie福袋包 工厂现货！全新未拆膜，配包装盒 +防尘袋，保存超好",
+  "saint laurent | ¥2280 | 正品圣罗兰爆款牛仔裤 验货宝确认发出后不退换哦。同城也可自提感兴趣的话点“我想要",
+  "saint laurent | ¥7400 | ysl 圣罗兰 Niki黑色鳄鱼压纹链条包 小号D扣款 ysl 圣罗兰 Niki",
+  "saint laurent | ¥3500 | 圣罗兰 YSL Kate 链条斜挎包 流苏设计 包身有正常使用痕迹内里干净 裸包",
+  "saint laurent | ¥399 | 335.5码圣罗兰YSL中古专柜正品vintage古着复古优 雅简约经典款名媛风",
+  "saint laurent | ¥6550 | YSL小托特，7月底在识季购买的包包，全新未使用。 有中检二维码，有防尘袋。可以",
+  "saint laurent | ¥528 | 全新YSL家26新款焦糖棕工装夹克 南油一比一高定全新带三标，品质放心。斜纹工装",
+  "saint laurent | ¥1266 | 【全新 过验】YSL圣罗兰 LouLou中号链条包 【细节】羊皮材质，柔软有光泽"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-22T20:32:01"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-22T21:02:31"
 }
