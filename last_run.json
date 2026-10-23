@@ -4,29 +4,27 @@
   "saint laurent": 60,
   "celine": 60,
   "junya watanabe": 30,
-  "number nine": 0,
-  "undercoverism": 30,
+  "number nine": 30,
+  "undercoverism": 59,
   "undercover": 30
  },
- "new_items": 37,
+ "new_items": 55,
  "subscribers": 3,
- "sent": 37,
+ "sent": 50,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥8500 | 【现货】99新YSL圣罗兰 LouLou Puffer天鹅绒 泡芙云朵包 中号2",
-  "saint laurent | ¥200 | Saint Laurent 豹纹短袖T恤 by：小飞机发货量极少的一件，全网没多",
-  "saint laurent | ¥3699 | 99新 YSL圣罗兰 风琴包 托特包 14编 手提包 锡器灰 色 牛皮 金扣 尺",
-  "saint laurent | ¥5500 | YSL/圣罗兰 曼哈顿 鳄鱼纹 黑金 单肩斜挎包 98新 原 始成色 尺寸：24",
-  "saint laurent | ¥2100 | 白菜价出 YSL圣罗兰 saint laurent时尚黑色亮 片YSL字母高跟鞋",
-  "saint laurent | ¥158 | #YSL/圣罗兰 #时髦穿搭达人推荐 #针织开衫 ysl·满 提花刺绣字母v领开",
-  "saint laurent | ¥158.30 | 现货-全新未使用  YS圣兰男士圆领毛圈棉卫衣衣服，黑白两色 现货，经典logo",
-  "celine | ¥810 | 。CELINE 新品Flair包包 New CELINE的高级 FLAIR小号手"
+  "saint laurent | ¥2260 | 【正品代购】SAINT LAURENT圣罗兰 YSL 流浪包 Niki黑链黑标L",
+  "saint laurent | ¥2260 | 【正品代购】圣罗兰 YSL LE5A7手提包 金标Logo 牛皮革腋下包流浪包单",
+  "saint laurent | ¥2360 | 【支持检验】YSL圣罗兰黑色链条包 尺寸：26×15×7cm附件：礼盒 保卡 防",
+  "saint laurent | ¥2460 | 【支持验货】YSL圣罗兰Niki小号链条包 奶油白油蜡皮 经 典菱格纹尺寸：21",
+  "saint laurent | ¥2460 | 【支持检验】YSL圣罗兰Niki黑金链条包 小号 全新全套 支持检验后发货 配件",
+  "saint laurent | ¥2260 | 【正品代购】YSL圣罗兰 黑金信封包 小号 荔枝纹牛皮 经典 链条肩带 手提斜挎",
+  "saint laurent | ¥2360 | 【正品代购】圣罗兰YSL信封包 PARIS 常规斜挎包黑银L ogo链条背带绗缝",
+  "saint laurent | ¥2360 | 【支持验货】YSL圣罗兰 Envelope黑金链条信封包 小 号尺寸：长21cm"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-23T21:33:08"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-23T22:03:30"
 }
