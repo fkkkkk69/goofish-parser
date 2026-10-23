@@ -1,30 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 60,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
-  "number nine": 30,
-  "undercoverism": 59,
+  "number nine": 60,
+  "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 55,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 50,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥2260 | 【正品代购】SAINT LAURENT圣罗兰 YSL 流浪包 Niki黑链黑标L",
-  "saint laurent | ¥2260 | 【正品代购】圣罗兰 YSL LE5A7手提包 金标Logo 牛皮革腋下包流浪包单",
-  "saint laurent | ¥2360 | 【支持检验】YSL圣罗兰黑色链条包 尺寸：26×15×7cm附件：礼盒 保卡 防",
-  "saint laurent | ¥2460 | 【支持验货】YSL圣罗兰Niki小号链条包 奶油白油蜡皮 经 典菱格纹尺寸：21",
-  "saint laurent | ¥2460 | 【支持检验】YSL圣罗兰Niki黑金链条包 小号 全新全套 支持检验后发货 配件",
-  "saint laurent | ¥2260 | 【正品代购】YSL圣罗兰 黑金信封包 小号 荔枝纹牛皮 经典 链条肩带 手提斜挎",
-  "saint laurent | ¥2360 | 【正品代购】圣罗兰YSL信封包 PARIS 常规斜挎包黑银L ogo链条背带绗缝",
-  "saint laurent | ¥2360 | 【支持验货】YSL圣罗兰 Envelope黑金链条信封包 小 号尺寸：长21cm"
+  "junya watanabe | ¥399 | Le Grande Bleu Wolf L.G.B 视觉系复 古剪裁宽松橄榄绿加",
+  "number nine | ¥2400 | supreme number nine 百家布卫衣橙色很新 size：m很帅很帅",
+  "number nine | ¥4294 | 名作档案 NUMBER NINE 徽章针织衫  日本代购 名作档案 NUMBER",
+  "number nine | ¥1368 | 【新品未使用】NINE RULAZ AFD I 日本代购 【新品未使用】NINE"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T22:03:30"
+ "finished_utc": "2026-10-23T22:32:17"
 }
