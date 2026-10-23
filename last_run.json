@@ -1,30 +1,28 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
-  "number nine": 60,
-  "undercoverism": 59,
+  "junya watanabe": 30,
+  "number nine": 30,
+  "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 57,
+ "new_items": 6,
  "subscribers": 3,
- "sent": 26,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥9800 | 【26年10月票可拍】YSL圣罗兰niki黑金mini复古手 袋～货号84608",
-  "saint laurent | ¥9800 | 【26年10月票可拍】YSL圣罗兰niki黑金mini复古手 袋～货号84608",
-  "saint laurent | ¥2199 | YSL圣罗兰 97新 白色帆布子母水桶包，尺寸20×27×2 0附件 子袋",
-  "saint laurent | ¥3599 | 圣罗兰邮差单肩包斜挎包 （没有斜挎肩带）淘宝配了一个斜挎链条 可送！发现不太适合",
-  "saint laurent | ¥2199 | YSL圣罗兰 97新 白色帆布子母水桶包，尺寸20×27×2 0附件 子袋",
-  "saint laurent | ¥3200 | 圣罗兰/YSL Kate流苏链条包￼ 尺寸：24*15*6",
-  "saint laurent | ¥90 | 闲置圣罗兰黑色流浪包，嫂子现在带娃基本用不上了，让我帮着处理 掉，她闺蜜留学回来",
-  "saint laurent | ¥85 | YSL圣罗兰编织链条包 米色编织款，链条肩带，容量适中全新，保存很好尺寸约21."
+  "saint laurent | ¥4299 | 3398 YSL圣罗兰黑金荔枝纹牛皮信封包 20编码 尺寸：19×12.5×3c",
+  "saint laurent | ¥8800 | 闲置新 YSL/圣罗兰 kate黑金流苏链条包 鳄鱼压纹款 尺寸：24*2*15",
+  "saint laurent | ¥261 | 圣罗兰牛仔裤托特包，深蓝色，厚实质感，金属链条装饰，细节做工 很到位，容量大，通",
+  "number nine | ¥899 | Number (N)ine 裤子 archive [红圆]vintage num",
+  "number nine | ¥588 | numbernine 华夫格长袖打底，archive经典内搭 。 size3 肩",
+  "undercover | ¥59 | 全新Nike x Undercover联名Daybreak跑 鞋，黄黑配色，原盒"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T06:59:49"
+ "finished_utc": "2026-10-23T07:02:22"
 }
