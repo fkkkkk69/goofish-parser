@@ -1,30 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 33,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 30,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥8200 | 商品名称：圣罗兰niki小号22年D扣 品牌：圣罗兰/Sai nt Lauren",
-  "saint laurent | ¥14900 | 4011 圣罗兰 黑金羊皮福袋中号 Saint lauren t/圣罗兰YSL ",
-  "saint laurent | ¥7999 | 3151 YSL 圣罗兰  奶茶色 Niki 中号  斜挎包 单肩包 流浪包 尺",
-  "saint laurent | ¥8999 | 98新 二手 YSL圣罗兰Niki托特黑色 /33*26*1 0cm/B5903",
-  "saint laurent | ¥6666 | 二奢回收闲置爱马仕、Dior、lv、香奈儿包包 迪奥、宝格丽等中古侈品包包回收，",
-  "saint laurent | ¥7499 | 3529 YSL圣罗兰niki奶白色D扣中号邮差包 单肩斜挎包 尺寸：27cm左",
-  "saint laurent | ¥5000 | 商品名称：圣罗兰曼哈顿中号 20年 品牌：圣罗兰/Saint Laurent 品",
-  "saint laurent | ¥12100 | 【全新 带膜 10月票 实拍】LV黑白otg小号 LOUIS VUITTON O"
+  "saint laurent | ¥101 | 【全新顶级➕运费险】杨树林同款圣罗兰黑色漆皮高跟凉鞋 金色l ogo跟 一字带 ",
+  "number nine | ¥1299 | number nine x Alpha Industries 联名夹克 L码 全",
+  "undercover | ¥166 | 山葵uc黑皮衣undercover06ssT期黑机车皮衣 size：1码 2码 ",
+  "undercover | ¥88.80 | uc绝技夹克 Undercover 2006ss 绝迹乐队夹克 棕色S码 胸前拼"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T16:03:22"
+ "finished_utc": "2026-10-23T16:45:57"
 }
