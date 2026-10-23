@@ -4,27 +4,24 @@
   "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
-  "number nine": 60,
+  "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 15,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 3,
+ "sent": 4,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥2000 | Celine赛琳灰色羊绒卫衣，L码，意大利制造，86%棉+1 4%羊绒，面料舒服",
-  "celine | ¥900 | Celine老花腋下包 3000多买的 品质看实拍视频  几乎全新 全套包装都在",
-  "celine | ¥699 | Celine拼色羊毛针织衫，S码，适合100斤左右的女生，意 大利产，翻领有多种",
-  "number nine | ¥1914 | Number Nine Ortega 弹力牛仔 日本代购 Number Nine",
-  "number nine | ¥5447 | 有库存 R-GAZA BMW R12 nine 日本代购 有库存 R-GAZA ",
-  "number nine | ¥4807 | FW13 NUMBER(N)NINE - 登山 日本代购 FW13 NUMBER",
-  "number nine | ¥1641 | NUMBER (N)INE 05AW 芬达标志 日本代购 NUMBER (N)I",
-  "number nine | ¥1804 | ナンバーナイン NUMBER NINE 宫下期 日本代购 ナンバーナイン NUM"
+  "saint laurent | ¥50 | 【95新】Saint Laurent黑色昆虫刺绣灯芯绒夹克， m码，秋冬百搭，版",
+  "celine | ¥1380 | （渠道货真料）CELINE赛琳Flair荔枝纹小牛皮斜挎手提 包小号平纹真皮麂皮",
+  "celine | ¥1380 | CELINE赛琳灰色连帽毛衣#CELINE 短款，长袖套头款，面料软糯不扎皮肤，",
+  "junya watanabe | ¥2300 | 正品FILSON × JUNYA WATANABE 的独家款 式，存在感极强的F",
+  "undercover | ¥150 | undercover绝迹夹克 size:1 版型做的很不错很好看印花与原版一致这"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T19:32:27"
+ "finished_utc": "2026-10-23T20:13:01"
 }
