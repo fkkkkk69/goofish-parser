@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 60,
   "celine": 30,
-  "junya watanabe": 0,
+  "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 0,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥78 | 借图出嗜睡皮靴 Undercover 11ss 铆钉皮靴 41码 Sleepbo"
+  "saint laurent | ¥2371 | Christian Louboutin 裸杏漆皮鱼嘴细跟防水台高跟鞋 vinta",
+  "saint laurent | ¥7500 | ysl圣罗兰 kate流苏包  黑银鳄鱼压纹  小号20*1 3cm  成色如图",
+  "saint laurent | ¥1722 | 【YSL圣罗兰Jamie福袋托特包】黑色大号，经典菱格纹，金 色logo，容量大",
+  "saint laurent | ¥4099 | YSL圣罗兰黑色鳄纹 crossbody链条包 五金亮 皮质 有纹理 内里干净 ",
+  "saint laurent | ¥148 | 【全新高品质】Y家圣罗*2025春夏新品玫瑰花高跟后空凉鞋 尖头后空设计，跟高约",
+  "saint laurent | ¥11700 | YSL圣罗兰 SOLFERINO黑色单肩斜挎包，22年8月淘 宝买的，原价两千多",
+  "saint laurent | ¥600 | 商品名称：圣罗兰波士顿17年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥12000 | 闲置YSL圣罗兰26新款黑金Niki Shopping链条托 特包，mini号，"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 2,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-23T20:32:53"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-23T21:02:51"
 }
