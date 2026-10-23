@@ -1,28 +1,21 @@
 {
  "keywords_total": 4,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 30,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 30,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4550 | YSL圣罗兰银标信封包，中号浅蓝色荔枝皮，经典V纹 链条原装 ，细节都在图里～颜",
-  "saint laurent | ¥335 | YSL圣罗兰V纹牛皮邮差包 黑色 经典链条肩带 手提斜挎都行 容量实用 手机钱包",
-  "saint laurent | ¥335 | YSL圣罗兰 college 黑金邮差包 392737 黑色V纹牛皮 金色五金 ",
-  "saint laurent | ¥335 | YSL圣罗兰黑色链条包 经典V纹牛皮 银色五金logo 链条 +皮质手柄 手提斜",
-  "saint laurent | ¥335 | YSL圣罗兰妖孽款邮差包 428056 米色 超柔滑 V纹设 计 金色五金 细节",
-  "saint laurent | ¥370 | YSL圣罗兰Jamie 4.3福袋托特包 棕色羊皮 金色链条 logo 菱格纹抽",
-  "saint laurent | ¥370 | YSL圣罗兰Jamie 4.3福袋托特包 黑色羊皮 金色链条 +抽绳设计柔软小羊",
-  "saint laurent | ¥370 | YSL圣罗兰Jamie福袋托特包 黑色小羊皮 金色链条抽绳设 计柔软小羊皮 质感"
+  "saint laurent | ¥4550 | YSL圣罗兰白金鱼子酱信封包，很特别的蓝色 经典V纹，金色l ogo，链条包款，"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T03:05:59"
+ "finished_utc": "2026-10-23T03:18:51"
 }
