@@ -1,24 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 35,
  "subscribers": 3,
- "sent": 1,
+ "sent": 32,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥19.70 | 【现货秒发】【zp开模】 #saint laurent slp三段扣皮带  款式",
-  "undercover | ¥158 | 蓝线undercover 1码 95新 几乎全新 二手商品出售不退不换 感兴趣的"
+  "saint laurent | ¥82.50 | YSL圣罗兰黑色链条包  姑姑去香港旅游带回来送我的礼物 ，专柜正入手 款式不适",
+  "saint laurent | ¥3200 | 圣罗兰斜挎包 尺寸25x15 圣罗兰斜挎包 尺寸25x15",
+  "saint laurent | ¥1899 | YSL 白色 logo 乐福鞋 尺码 36 37 38特价1899",
+  "saint laurent | ¥6500 | 98❤️ YSL 圣罗兰 kaia 马鞍包，黑金鳄鱼压纹 超 气质百搭 专柜16",
+  "saint laurent | ¥1999 | HolyMen男士夹克皮衣YSL款，M码，全新未穿，抖音官方 店购入，吊牌包装吊",
+  "saint laurent | ¥6000 | 未使用新 YSL/圣罗兰 流苏相机包墨绿色 尺寸23X16 荔枝纹小牛皮材质 公",
+  "saint laurent | ¥188 | YSL圣罗兰高跟凉鞋，孔雀蓝方头，金属YSL字母跟，交叉绑带 设计，跟高8-10",
+  "saint laurent | ¥88 | YSL圣罗兰Niki黑色链条包，中号，经典菱格纹设计，黑色l ogo搭配银色链条"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T14:43:34"
+ "finished_utc": "2026-10-23T15:03:00"
 }
