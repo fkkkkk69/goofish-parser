@@ -1,27 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 0,
   "celine": 30,
-  "junya watanabe": 30,
+  "junya watanabe": 0,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 5,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 4,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥50 | 【95新】Saint Laurent黑色昆虫刺绣灯芯绒夹克， m码，秋冬百搭，版",
-  "celine | ¥1380 | （渠道货真料）CELINE赛琳Flair荔枝纹小牛皮斜挎手提 包小号平纹真皮麂皮",
-  "celine | ¥1380 | CELINE赛琳灰色连帽毛衣#CELINE 短款，长袖套头款，面料软糯不扎皮肤，",
-  "junya watanabe | ¥2300 | 正品FILSON × JUNYA WATANABE 的独家款 式，存在感极强的F",
-  "undercover | ¥150 | undercover绝迹夹克 size:1 版型做的很不错很好看印花与原版一致这"
+  "undercover | ¥78 | 借图出嗜睡皮靴 Undercover 11ss 铆钉皮靴 41码 Sleepbo"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-23T20:13:01"
+ "zero_keywords": 2,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-23T20:32:53"
 }
