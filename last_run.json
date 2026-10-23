@@ -6,14 +6,17 @@
   "junya watanabe": 30,
   "rick owens": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥101 | 拍卖 Saint Laurent 羊毛西裤 ●38号 审核原因 详细介绍见图9",
+  "celine | ¥558.88 | 闲置全新，CELINE，型号197202，尺寸23*14.5 *4cm，经典老花"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T04:32:24"
+ "finished_utc": "2026-10-23T05:02:09"
 }
