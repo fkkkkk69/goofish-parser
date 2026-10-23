@@ -1,24 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
-  "junya watanabe": 30,
-  "number nine": 30,
-  "undercoverism": 30,
+  "saint laurent": 0,
+  "celine": 0,
+  "junya watanabe": 0,
+  "number nine": 0,
+  "undercoverism": 0,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 1,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "number nine | ¥999 | number nine 08SS bird期夹克 正品 1/2码 求回收求求求",
-  "undercover | ¥39 | Undercover 06SS 女神呐喊T恤 黑色S码 小众经典款 女神呐喊印花"
+  "undercover | ¥22 | 【我不是雾自主】undercover吸烟少女手提帆布包 黑色帆布材质，经典单肩设"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-23T11:32:28"
+ "zero_keywords": 5,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-23T12:02:38"
 }
