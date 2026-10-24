@@ -1,26 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 4,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥150 | MICHAEL KORS中号小香风链条包，黑色，经典菱格纹， 容量大，通勤出门都",
-  "saint laurent | ¥3465 | 圣罗兰流苏链条包，鳄鱼压纹，银色logo扣，链条肩带都在，成 色九成新，保存很好",
-  "saint laurent | ¥240 | YSL圣罗兰女士皮带白色头层小牛皮宽2.0cm银色方形扣带品 牌logo原装包装",
-  "junya watanabe | ¥258 | JunyaWatanabe 17ss 'PTAKI'Long Sleeve黑白骷"
+  "celine | ¥2620 | celine twisted cabas phoebe 时代的老法拉利当年最火的",
+  "celine | ¥874 | 个人闲置 Celine赛琳 Boogie包，奶白色荔枝纹牛皮 ，经典款型，容量实",
+  "number nine | ¥3580 | rick owens drkshw 羊皮石洗外套  S码 胸围98 肩宽44大身",
+  "undercover | ¥48 | Undercover 06ss T期假两件铆钉卫衣1码 掉了 颗钉子 套在外面的",
+  "undercover | ¥43 | 出闲置 Undercover 16SS neoboy 不对称 做旧口袋七分袖 深"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-24T02:32:46"
+ "finished_utc": "2026-10-24T03:02:29"
 }
