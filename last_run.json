@@ -1,27 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 14,
  "subscribers": 3,
- "sent": 1,
+ "sent": 14,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥299 | 【现货】LIEBESKIND BERLIN德国设计师品牌暗黑 重水洗做旧双拉链外",
-  "number nine | ¥2400 | number nine 05ss蛛网宫廷西服 尺码：2 肩宽：40 胸围：44 ",
-  "undercover | ¥88 | Undercover 06ss T期拼接漩涡呐喊T恤，全新， 胸前Chuuut!"
+  "saint laurent | ¥4000 | 闲置 YSL 圣罗兰 黑金Kate 腰包 未使用️ 尺 闲置 YSL 圣罗兰 黑",
+  "saint laurent | ¥15000 | 全新YSL/圣罗兰CALYPSO黑色羊皮革手袋 可单肩、斜挎、链条背海外入，实物",
+  "saint laurent | ¥1196 | SAINT LAURENT PARIS 水洗做旧 高腰直筒牛仔裤 【商品成色】轻",
+  "saint laurent | ¥399 | 【最顶鉴定级】圣罗兰ysl  球纹KAT流苏款 绝对是杨树林的永恒经典款_永不过",
+  "saint laurent | ¥777 | 德国中古正品白色金扣马毛编织包白金马毛包稀有皮中古包 德国制Cravache牌中",
+  "saint laurent | ¥399 | 【最顶鉴定级】圣罗兰ysl  平纹KAT流苏款 绝对是杨树林的永恒经典款_永不过",
+  "saint laurent | ¥399 | 【最顶鉴定级】圣罗兰ysl  鳄鱼纹KAT流苏款 绝对是杨树林的永恒经典款_永不",
+  "saint laurent | ¥439 | 【最顶鉴定级】YSL Amalia的小号设计，不仅承袭了品牌 经典之美，更添几分"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-24T05:02:33"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-24T05:32:45"
 }
