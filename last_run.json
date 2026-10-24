@@ -8,14 +8,19 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥86 | 出闲置YSL圣罗兰流浪包，黑色油蜡皮配银链，专柜入的正品。皮 质软有光泽，内里带",
+  "celine | ¥1280 | 个人闲置 天花板品质赛琳FLAIR小号新款手拎包 泰好看啦～ [呲牙]CELIN",
+  "junya watanabe | ¥268 | Raf Simons AW02 “Virginia Cree per” Long",
+  "undercover | ¥28 | 全网最低 undercover高桥盾风格 锯齿银手镯开口手环 archive男女"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-23T23:32:29"
+ "finished_utc": "2026-10-24T00:02:36"
 }
