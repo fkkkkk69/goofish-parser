@@ -3,28 +3,22 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
-  "number nine": 60,
+  "junya watanabe": 30,
+  "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 14,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 12,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥99 | 圣罗兰行政夹克 藏青色 肩宽48cm胸宽59cm衣长65cm 袖长54cm(y7",
-  "saint laurent | ¥319 | ［现货秒发］SAINT LAURENT风格圣罗兰卡其色拼色刺 绣复古工装哈灵顿夹",
-  "celine | ¥560 | 全网绝版old Celine夹子口金包包 六年前在二手中古大千元买的 不确定是不",
-  "celine | ¥600 | Celine Romy中号单肩包，焦糖色牛皮，2020年后版 本，尺寸34x16",
-  "junya watanabe | ¥1100 | Junya Watanabe SS23 秀款 重度破坏 牛仔 裤  尺码：S（腰",
-  "junya watanabe | ¥699 | JUNYA WATANABE AD 2003 工装裤 - s / size- 6",
-  "junya watanabe | ¥999 | JUNYA WATANABE AD2013 工装裤 #043 - s / siz",
-  "junya watanabe | ¥8500 | Junya Watanabe SS02 Poem Flora l Button "
+  "saint laurent | ¥200 | OKANDLA黑色机车！这件女款皮衣是2XL码，100%绵羊 皮，皮质软软的，经",
+  "saint laurent | ¥108 | Saint Laurent Paris 黑色刺绣大义夹克，L 码，成色很新没怎么"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-24T08:02:30"
+ "finished_utc": "2026-10-24T08:33:07"
 }
