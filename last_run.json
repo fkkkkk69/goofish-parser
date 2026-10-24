@@ -8,14 +8,17 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "undercoverism | ¥550 | 全新血亏2.5折,UNDERCOVER 17ss Men's Black 'Ro",
+  "undercoverism | ¥1204 | UNDERCOVERISM 针织 耳罩 MAN 日本代购 UNDERCOVERI"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-24T13:32:33"
+ "finished_utc": "2026-10-24T14:02:23"
 }
