@@ -8,14 +8,23 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 60,
  "subscribers": 3,
- "sent": 0,
+ "sent": 60,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥180 | 圣罗兰同款黑色外套，M码，心形金属装饰，精品店1000+购入 ，有使用痕迹，质感",
+  "saint laurent | ¥9999 | 3945 YSL圣罗兰 Niki大号黑色全皮金属链邮差包 ， 单肩斜挎链条包D扣",
+  "saint laurent | ¥1000 | Ysl bea托特 几乎全新，专柜品质，我背太大了，两千加入 手，有兴趣私聊",
+  "saint laurent | ¥46 | Yves Saint Laurent 附赠黑色 日本代购 Yves Saint ",
+  "saint laurent | ¥17500 | 全新YSL圣罗兰福袋大号 链条抽绳设计容量大日常通勤很实用 有尘袋吊牌 现货秒发",
+  "saint laurent | ¥7380 | YSL圣罗兰 Niki 墨绿色中号油蜡皮单肩斜挎链条包 配件 : 防尘袋上身个位",
+  "saint laurent | ¥11600 | YSL圣罗兰 Le 5 A 7 小号hobo包 白金色 #是时候换新包啦 包包为",
+  "saint laurent | ¥14500 | 全新 YSL圣罗兰Jamie福袋小号黑金羊皮 小羊皮摸起来好 软好软 专柜245"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-24T10:32:38"
+ "finished_utc": "2026-10-24T11:03:32"
 }
