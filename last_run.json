@@ -1,30 +1,21 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 24,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 24,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥9999 | •预定•Saint Laurent 圣罗兰 YSL 新款 黑 色Louis长筒靴",
-  "saint laurent | ¥5200 | 个人闲置98新 20年 YSL圣罗兰 金标Logo百搭 牛皮 斜挎包 中号 Ka",
-  "saint laurent | ¥8000 | 正品  YSL圣罗兰 Niki黑银链中号链条包 专柜购入，偶尔背下98成新，成色",
-  "saint laurent | ¥6399 | 全新正品ysl信封包白色，得物买的，包装盒包装袋都在，原装手 提袋也有，没用过，",
-  "saint laurent | ¥4000 | YSL圣罗兰黑金信封包，经典V纹鱼子酱牛皮，金色logo，链 条肩带，尺寸22*",
-  "saint laurent | ¥5600 | 圣罗兰13元年皮靴成色不是很好 感兴趣的话点“我想要”和我私聊吧～",
-  "saint laurent | ¥80 | 圣家系列开衫 S码",
-  "saint laurent | ¥7199 | 97新 YSL圣罗兰 puffer黑金全皮小号云朵包 尺寸2 1×14×8"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-25T21:02:59"
+ "finished_utc": "2026-10-25T21:32:26"
 }
