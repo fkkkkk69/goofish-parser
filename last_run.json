@@ -1,24 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 35,
  "subscribers": 3,
- "sent": 0,
+ "sent": 35,
  "send_failed": 0,
  "sample_new": [
-  "number nine | ¥549 | Numbernine 冰淇淋短袖 09AW最终季 融化的冰淇淋最后也预示着最后的",
-  "undercover | ¥55 | Undercover 05ssT期 Amazing 白色铆钉 卫衣 假两件帽衫 "
+  "saint laurent | ¥7499 | 2912 YSL圣罗兰 Niki小号 白色全皮银链邮差包 尺 寸22×18",
+  "saint laurent | ¥4699 | 3279 圣罗兰YSL黑银鱼子酱中号信封包 尺寸:22cm 感兴趣的话点“我想要",
+  "saint laurent | ¥185 | YSL圣罗兰星星双肩包，酒红色，帆布材质，满版星星装饰，容量 大，电脑书本都能装",
+  "saint laurent | ¥7499 | 3539 YSL圣罗兰黑金puffer迷你mini云朵链条包 单肩斜挎包，尺寸约",
+  "saint laurent | ¥1566 | 圣罗兰Saint Laurent Paris SLP羊毛衫 L码 黑白条纹 羊毛",
+  "saint laurent | ¥6588 | YSL圣罗兰 le37 黑色迷你水桶包 牛皮材质 经典黑金配 色尺寸：13*14",
+  "saint laurent | ¥17.88 | 几乎全新｜YSL圣罗兰ICARE托特包，白色菱格纹，金色lo go，容量大，手机",
+  "saint laurent | ¥4999 | YSL圣罗兰 黑色 中号 日落链条包 单肩斜挎包 YSL圣罗兰 黑色 中号 日落"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-25T07:38:52"
+ "finished_utc": "2026-10-25T08:03:27"
 }
