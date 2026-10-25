@@ -8,14 +8,19 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥448 | Saint Lauren* Ysl 26ss早秋新款褶皱金属 标乐福鞋 情侣款 ",
+  "saint laurent | ¥145 | ys星空皮 到手仅试穿 成色非常新 L码的 有意向的可以来聊 二手商品售出改不退",
+  "undercover | ¥160 | 出UC皮衣，Undercover的。160块这个价真的很良心 了，懂行的兄弟都知",
+  "undercover | ¥110 | Undercover撕裂的天堂指纹大衣 1码  整体保存很好 有轻微穿着痕迹 包"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-25T05:32:22"
+ "finished_utc": "2026-10-25T06:02:26"
 }
