@@ -8,14 +8,18 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 3,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "undercoverism | ¥549 | 稀有 07ss Undercoverism 紫 日本代购 稀有 07ss Und",
+  "undercover | ¥109 | SOUTHPAW+1 绿色拉链毛衣开衫 M码 kiko风格面料软糯 穿着舒服全新",
+  "undercover | ¥200 | Undercover 22SS 人像皮衣 3码 最新一批，全新仅试穿，吊牌和扣子"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-25T11:32:27"
+ "finished_utc": "2026-10-25T12:03:01"
 }
