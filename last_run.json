@@ -1,21 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 0,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "undercover | ¥190 | 出undercover 山葵派克大衣，1码，成色还可以，没穿 过几次99新 抽绳",
+  "undercover | ¥135 | Undercover 魔女期十字丝绒夹克 易瞳二码 九成半新，春秋穿很合适。黑色"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-25T22:03:17"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-25T22:32:32"
 }
