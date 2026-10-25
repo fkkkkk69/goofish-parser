@@ -1,26 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥190 | 出undercover 山葵派克大衣，1码，成色还可以，没穿 过几次99新 抽绳",
-  "undercover | ¥135 | Undercover 魔女期十字丝绒夹克 易瞳二码 九成半新，春秋穿很合适。黑色"
+  "saint laurent | ¥399 | SaintLaurentParis SS19 \"Malibu \" Hoodie ",
+  "junya watanabe | ¥401.18 | Junya Watanabe Comme des Garçons 无袖针织毛衣 ",
+  "undercoverism | ¥561.39 | 罕见合作：UNDERCOVERISM Comme des Garçons 罕见 ",
+  "undercoverism | ¥850 | 全新北面紫标 nanamica 春秋夹克 现在这个季节非常适 合 银座专柜购入 ",
+  "undercover | ¥95 | Undercover  gu 运动服 99 新 m码 买来没 穿过 感兴趣的话点"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-25T22:32:32"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-25T23:02:20"
 }
