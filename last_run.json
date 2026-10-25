@@ -8,16 +8,18 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 0,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥110 | Undercover撕裂的天堂指纹大衣 1码  整体保存很好 有轻微穿着痕迹 包"
+  "celine | ¥500 | CELINE赛琳白色连帽卫衣，M码，春秋季穿刚好。 胸前CELINE字母+16数",
+  "celine | ¥899 | celine中古波士顿 尺寸32cm×18cm×17cm（手工测量存在细微误差）",
+  "number nine | ¥788.88 | numbernine 绿方格衬衫宫下贵裕 09ss本人最后一 季 number "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-24T23:32:29"
+ "finished_utc": "2026-10-25T00:02:27"
 }
