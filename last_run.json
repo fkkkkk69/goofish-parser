@@ -1,23 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 33,
  "subscribers": 3,
- "sent": 1,
+ "sent": 32,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥5700 | JUNYA   CDG junya wanatabe 渡边淳弥 26春夏半身裙 "
+  "saint laurent | ¥1680 | 【已过检】个人闲置出YSL圣罗兰Niki黑色链条包 中号｜油 蜡皮银链｜单肩斜挎",
+  "saint laurent | ¥288 | 【最高版本】YSL黑金信封包 经典V型绗缝 粒面牛皮 金色l ogo链条链条肩带",
+  "saint laurent | ¥1080 | Ysl圣罗兰新款 可翻折过膝长靴合集超长金属尖头细高跟长靴 所见即所得，品质保证",
+  "saint laurent | ¥999 | Saint Laurent YSL字母异形跟尖头高筒靴，棕色 ，全新，带原包装盒",
+  "saint laurent | ¥1780 | 【已过检】YSL圣罗兰Niki中号奶白色油蜡皮链条包｜几乎全 新｜带原包装盒+防",
+  "saint laurent | ¥1400 | SAINT LAURENT圣罗兰 光面皮革平底系带鞋皮鞋 男 女同款，特价140",
+  "saint laurent | ¥2280 | 35码 试穿成色 圣罗兰 YSL Opyum 黑色漆皮 字母 异形跟 尖头高跟鞋",
+  "saint laurent | ¥680 | 【国内现货】replay抹茶同款凉鞋 39码 replay Jean Paul "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-26T22:36:25"
+ "finished_utc": "2026-10-26T23:02:55"
 }
