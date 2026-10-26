@@ -1,30 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 38,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 36,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥3321 | YSL圣罗兰白色鳄压雾面小号风琴手提单肩包 编码16年 尺寸 26*20.5*1",
-  "saint laurent | ¥5998 | 【95新】YSL/圣罗兰 niki 中号 黑银链条包斜挎包 18年编码 尺寸：2",
-  "saint laurent | ¥1899 | 全新闲置YSL/圣罗兰黑色牛皮V纹手拿包， 尺寸：24×14 .5×5.5cm，",
-  "saint laurent | ¥8990 | 全新圣罗兰YSL【现货】 原价25000折后899016x19x14圣罗兰黑金小",
-  "saint laurent | ¥3999 | 圣罗兰 斜挎包 Cassandra Chain Wallet 链条钱包 皮革 红",
-  "saint laurent | ¥3099 | ¥3099 Ysl 圣罗兰 Julia 黑色小牛皮方头高筒靴 长靴 跟高7cm ",
-  "saint laurent | ¥172.80 | YSL圣罗兰高仿灰色风琴包，小号，牛皮材质，手提斜挎两用，五 金亮，容量实用，内",
-  "saint laurent | ¥2999 | ¥2999 Ysl 圣罗兰 Cherish 织物 豹纹印花 细跟 猫跟鞋 37码"
+  "celine | ¥840 | 【高定/正品皮】Celine  Strap Box Bag 薯 条包  【关于质",
+  "celine | ¥940 | 【高定/正品皮】Celine Mini Tote迷你托特 【关于质量】包包保证是",
+  "number nine | ¥980 | 【现货】BPN peace now 侧拉大衣大衣 size：m   很帅的一件 ",
+  "undercover | ¥269 | 鱼丸uc85牛undercover85破坏牛仔裤 Size：0/1/2/3/4/",
+  "undercover | ¥151 | Undercover 2006ss 绝迹乐队标语夹克 2码 深黑蓝宽松版型 乐队"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-26T13:51:58"
+ "finished_utc": "2026-10-26T14:10:47"
 }
