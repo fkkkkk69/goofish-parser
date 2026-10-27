@@ -2,24 +2,26 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 0,
+  "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥39 | 毅轩 undercover x光骷髅印花短袖 1码 标价实价 爽快包邮"
+  "celine | ¥520 | 科幻可交换（只换其他包包！！！）凯旋门老花mini双肩包，经 典老花配色，min",
+  "junya watanabe | ¥799 | Junya Watanabe CDG WJ‑P402 渡边淳 弥 法国制 100",
+  "junya watanabe | ¥381.23 | 成色极佳的 JUNYA WATANABE MAN Comme des Garço",
+  "number nine | ¥2680 | numbernine 01aw「standards」子弹孔盾 牌连帽卫衣，宫下贵",
+  "undercover | ¥25 | 【正品打版】undercover黑/白呐喊 唱片t恤合集 ■定制面料 ■三标齐全"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-27T01:03:37"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-27T01:32:39"
 }
