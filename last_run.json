@@ -1,28 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 30,
+  "saint laurent": 30,
+  "celine": 0,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 6,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 6,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥7200 | Ysl Niki小号 21年D扣 最低价了，不议价 想要直接 拍 不接受到手刀感",
-  "saint laurent | ¥1080 | YSL 圣罗兰 LE 57系列绗缝腋下包 这年头没个腋下包都不好意思说自己是个潮",
-  "saint laurent | ¥5980 | 圣罗兰Envelope牛皮V纹绗缝单肩包 商品成色：98新包袋尺寸：22.5*1",
-  "saint laurent | ¥199 | 闲置二手 YSL圣罗兰Kate黑色鳄鱼纹流苏链条包，经典黑银 配色，链条肩带+流",
-  "saint laurent | ¥4000 | 商品名称：圣罗兰链条包16年 品牌：圣罗兰/Saint La urent 品类：",
-  "junya watanabe | ¥1841.80 | JUNYA WATANABE MAN × BerBerJin 转印牛仔布 【品牌"
+  "undercover | ¥39 | 毅轩 undercover x光骷髅印花短袖 1码 标价实价 爽快包邮"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-27T00:32:42"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-27T01:03:37"
 }
