@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
-  "junya watanabe": 30,
-  "number nine": 30,
+  "saint laurent": 60,
+  "celine": 60,
+  "junya watanabe": 58,
+  "number nine": 60,
   "undercoverism": 30,
-  "undercover": 30
+  "undercover": 59
  },
- "new_items": 3,
+ "new_items": 120,
  "subscribers": 3,
- "sent": 2,
+ "sent": 69,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥90 | YSL刺绣字母翻领针织长袖#换季穿新衣 #夏日亮点穿搭 #春 夏潮流穿搭指南",
-  "saint laurent | ¥90 | YSL白边吊带裙90 YSL白边吊带80#夏日亮点穿搭 #时髦穿搭达人推荐 #春",
-  "number nine | ¥2699 | Number (n)ine 01aw弹孔牛仔裤 standard  尺码：2×3"
+  "saint laurent | ¥2200 | 正品闲置ysl圣罗兰包包，专柜正品，一眼就看上了，奶呼呼的， 很爱，可调节链条，",
+  "saint laurent | ¥198 | 圣罗兰满额礼赠菱格手提链条盒子包改造化妆盒内带镜子女包小包包 感兴趣的话点“我想",
+  "saint laurent | ¥8399 | 98+YSL圣罗兰 LE5A7 鳄鱼纹压花亮面皮革流浪包 H obo腋下包 肩带",
+  "saint laurent | ¥5200 | YSL圣罗兰Kate流苏链条包，圣罗兰黑色鳄鱼压纹牛皮翻盖斜 挎包，标志性YSL",
+  "saint laurent | ¥6200 | YSL圣罗兰Loulou墨绿金方胖子小号，经典V纹绗缝+金色 logo，皮质柔软",
+  "saint laurent | ¥5800 | YSL PARIS Kate 黑色牛皮小号 金标 单肩包 编 码：33782",
+  "saint laurent | ¥5800 | SAINT LAURENT PARIS Kate 黑色 鳄鱼 压纹 牛皮 小号 ",
+  "saint laurent | ¥6999 | 98➕YSL 圣罗兰 Kate 黑金流苏链条包 中号 经典鳄 鱼压纹 黑色皮质 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T07:32:27"
+ "finished_utc": "2026-10-27T08:03:15"
 }
