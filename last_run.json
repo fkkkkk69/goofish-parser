@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
-  "junya watanabe": 0,
-  "number nine": 0,
-  "undercoverism": 0,
-  "undercover": 0
+  "saint laurent": 60,
+  "celine": 60,
+  "junya watanabe": 60,
+  "number nine": 58,
+  "undercoverism": 30,
+  "undercover": 30
  },
- "new_items": 1,
+ "new_items": 99,
  "subscribers": 3,
- "sent": 1,
+ "sent": 91,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥128 | 圣罗兰黑白拼色棒球服外套，经典款，男女士同款，秋冬春都能穿， 版型好看，穿着有型"
+  "saint laurent | ¥8500 | YSL Loulou Puffer Small 小号泡芙，黑 银 回收二奢勿扰请",
+  "saint laurent | ¥6899 | YSL圣罗兰 East/West黑色全皮子母托特包25年/34×28×13/F1",
+  "saint laurent | ¥1860 | 圣罗兰ysl乐福鞋，全新的未穿37.5码，个人闲置。售出不退 不换",
+  "saint laurent | ¥5015.12 | 圣罗兰/Saint laurent  流苏kate中号鱼子酱黑色 24*15*5",
+  "saint laurent | ¥4500 | SAINT LAURENT PARIS 日落 积雨云灰色 牛皮 小号 金扣 店铺",
+  "saint laurent | ¥4999 | YSL 圣罗兰 荧光绿银色链条信封包 中号 底长22厘米 全 新未使用  可送礼",
+  "saint laurent | ¥1000 | YSL圣罗兰黑色油蜡皮牛皮手拿包，98新，附件：无，尺寸：2 7.5x16x2c",
+  "saint laurent | ¥7800 | 92新 Saint Laurent 黑色MANHATTAN系 列 贴皮鳄鱼纹尺寸"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 4,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-27T15:02:41"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-27T15:33:56"
 }
