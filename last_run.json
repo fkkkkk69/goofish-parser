@@ -8,18 +8,23 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 1,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥449 | （出预售名额）Saint Laurent黑烟花夹克 男女都能 穿  经典烟花刺绣",
-  "undercover | ¥78 | 闲置UNDERGARDEN藏蓝色教练夹克～ XL码，成色很新，翻领单排扣设计，胸",
-  "undercover | ¥179 | Undercover 06ssT期 六重人格漩涡夹克外套 Size：S/M/LC"
+  "saint laurent | ¥3400 | 商品名称：圣罗兰凯特流苏包17年 品牌：圣罗兰/Saint Laurent 品类",
+  "saint laurent | ¥98 | （有购买记录）圣罗兰托特包大容量，感觉大了点平时用不上，全新 的无任何使用痕迹，",
+  "saint laurent | ¥5900 | 商品名称：圣罗兰日落22年 品牌：圣罗兰/Saint Lau rent 品类：箱",
+  "saint laurent | ¥646.79 | Saint Laurent 黑色铆钉平底鞋，36码，法式经典 款，皮质软，上脚很",
+  "saint laurent | ¥12400 | 商品名称：圣罗兰链条包23年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥5305 | 全新YSL圣罗兰黑金hobo小号，专柜正品，牛皮材质，经典黑 金配色，金色五金亮",
+  "saint laurent | ¥5100 | 商品名称：圣罗兰信封包21年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥6900 | 圣罗兰中号黑金鳄鱼压纹曼哈顿 尺寸约29*21 公价约2.6 W 成色好"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T21:32:49"
+ "finished_utc": "2026-10-27T22:03:05"
 }
