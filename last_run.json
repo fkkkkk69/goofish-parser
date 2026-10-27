@@ -1,26 +1,24 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 3,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥330 | 高ban圣罗，兰Niki黑色金标链条包 经典菱格纹 黑色油蜡皮 金色链条容量手机",
-  "saint laurent | ¥60 | 原单YSL圣罗兰Kate黑色小号链条包 星星月亮云朵刺绣+流 苏链条 装饰很特别",
-  "celine | ¥1100 | （媲美专柜）CELINE赛琳 Triomphe 经典老花满印 帆布拼小牛皮 水桶",
-  "undercover | ¥107 | undercover 06ss漩涡邮差包 早期批次 无下水现在不玩低价出了  没"
+  "undercover | ¥180 | sleep boy嗜睡男孩 undercover52牛原价260的东西 区别毅轩",
+  "undercover | ¥146 | uc漩涡挎包Undercover06ssT期漩涡挎包水洗印花 邮差包  非常经典"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T05:02:47"
+ "finished_utc": "2026-10-27T05:32:33"
 }
