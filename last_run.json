@@ -3,23 +3,21 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
+  "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 2,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥1299 | saint laurent slp 21SS D18牛仔裤 size：31  裤",
-  "saint laurent | ¥88 | 现货秒发【Saint Laurent荷叶边衬衫】亚麻材质 【意大利制造】【荷叶边",
-  "undercover | ¥100 | 出 Undercover 06ss T 期解构拼接风衣夹克， 藏青色，胸前和袖子"
+  "saint laurent | ¥80 | Saint Laurent圣罗兰男士黑色刺绣logo慢跑裤 经典黑色，面料柔软，"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T16:32:46"
+ "finished_utc": "2026-10-27T17:05:20"
 }
