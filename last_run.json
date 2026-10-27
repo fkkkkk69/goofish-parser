@@ -1,32 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 0,
+  "saint laurent": 60,
+  "celine": 60,
   "junya watanabe": 30,
-  "number nine": 30,
-  "undercoverism": 30,
+  "number nine": 59,
+  "undercoverism": 59,
   "undercover": 30
  },
- "new_items": 15,
+ "new_items": 54,
  "subscribers": 3,
- "sent": 13,
+ "sent": 30,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥1650 | YSL圣罗兰黑色长款信封手拿包，型号YSL A TIMBRE ，正品。牛皮材质，",
-  "saint laurent | ¥9199 | YSL，圣罗兰，Le 5 À 7，hobo小号，黑金，柔软粒 面牛皮，金色Log",
-  "saint laurent | ¥258 | YSL圣罗兰中号链条包，油蜡皮材质，经典菱格压纹，尺寸27- 21-9cm。可手",
-  "saint laurent | ¥6280 | 全新YSL黑色麂皮内里皮草长靴 39码 巴黎现货 原价8000欧 型号LX410",
-  "saint laurent | ¥279.90 | 包包 组合上新 【全新系列组合X1088】YSL链条包+YSL斜挎包+YSL钱包",
-  "saint laurent | ¥5500 | YSL圣罗兰mini sunset日落包！酒红色牛皮，链条肩 带",
-  "saint laurent | ¥6199 | SAINT LAURENT圣罗兰 YSL Niki  绗缝麂 皮 流浪包单肩斜挎",
-  "saint laurent | ¥8800 | ysl 米色 有点偏灰 小号hobo 银扣 全新 感兴趣的话点“我想要”和我私聊"
+  "celine | ¥1499 | 出全新 CELINE 赛琳 TEEN TRIOMPHE 凯旋 门手袋，经典酒红色",
+  "celine | ¥1599 | 出闲置转让正品 CELINE赛琳凯旋门包大号，水泥灰配金色锁 扣，经典百搭不挑衣",
+  "celine | ¥3800 | celine包包 感兴趣的话点“我想要”和我私聊吧～",
+  "celine | ¥3800 | Celine包包 感兴趣的话点“我想要”和我私聊吧～",
+  "celine | ¥1450 | CELINE赛琳 Ava 凯旋门老花腋下包 棕色老花帆布拼小牛皮，金色凯旋门翻盖",
+  "celine | ¥600 | 复刻版 celine 豆腐包 17cm 市面最高版本，原价2k懂货的看皮料就知道",
+  "celine | ¥8999 | Celine赛琳草编水桶包，赛琳/Celine 拉菲草水桶包 手提单肩斜挎包有肩",
+  "celine | ¥9999 | Celine赛琳 Triomphe凯旋门马鞍包，灰蓝色牛皮革 ，赛琳/Celin"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-27T03:32:51"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-27T04:02:53"
 }
