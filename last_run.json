@@ -3,28 +3,22 @@
  "per_keyword_items": {
   "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
-  "number nine": 60,
+  "junya watanabe": 30,
+  "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 31,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 29,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥1180 | 【高定/正品皮】Celine Teen Nino 牛仔手袋 【关于质量】包包保证",
-  "junya watanabe | ¥4098 | 26AW noir kei ninomiya 日本代购 ——以下为煤炉原商品信息",
-  "junya watanabe | ¥686.80 | JUNYA WATANABE MAN Levi's 505 迷彩牛仔布 19春夏",
-  "junya watanabe | ¥2699 | 全新Junya Watanabe渡边淳弥拼接羊毛西服 码数S 肩宽43 衣长74",
-  "junya watanabe | ¥548.20 | 罕见 JUNYA WATANABE COMME des GARCONS 蝴蝶印花",
-  "junya watanabe | ¥492.76 | 成色极佳 / COMME des GARCONS JUNYA WATANABE ",
-  "junya watanabe | ¥1015.33 | Junya Watanabe Comme des Garçons 图案针织毛衣，",
-  "junya watanabe | ¥699 | （现货秒发粉丝更优惠）正品vivienne westwood 西太后薇薇安中古米"
+  "number nine | ¥600 | Number(N)ine 06aw双排扣夹克 成色很好 粘毛 属于正常现象 si",
+  "number nine | ¥920 | Number nine05aw高街期牛仔马甲，稀有大码4码， 两条riri点缀 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T06:02:54"
+ "finished_utc": "2026-10-27T06:32:41"
 }
