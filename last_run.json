@@ -8,16 +8,18 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 1,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥80 | Saint Laurent圣罗兰男士黑色刺绣logo慢跑裤 经典黑色，面料柔软，"
+  "saint laurent | ¥183 | YSL圣罗兰黑色星星双肩包，帆布拼皮，银色五角星装饰，容量大 ，电脑书本都能装，",
+  "celine | ¥1999 | Celine赛琳nano笑脸包，意大利制造，红黑拼色，。成色 一般，有正常使用痕",
+  "junya watanabe | ¥1699 | Junya Watanabe MAN CDG拼接西装外套 M 码2013AW秀款"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T17:05:20"
+ "finished_utc": "2026-10-27T17:32:58"
 }
