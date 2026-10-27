@@ -1,30 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 60,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
-  "number nine": 59,
-  "undercoverism": 59,
+  "number nine": 30,
+  "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 54,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 30,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥1499 | 出全新 CELINE 赛琳 TEEN TRIOMPHE 凯旋 门手袋，经典酒红色",
-  "celine | ¥1599 | 出闲置转让正品 CELINE赛琳凯旋门包大号，水泥灰配金色锁 扣，经典百搭不挑衣",
-  "celine | ¥3800 | celine包包 感兴趣的话点“我想要”和我私聊吧～",
-  "celine | ¥3800 | Celine包包 感兴趣的话点“我想要”和我私聊吧～",
-  "celine | ¥1450 | CELINE赛琳 Ava 凯旋门老花腋下包 棕色老花帆布拼小牛皮，金色凯旋门翻盖",
-  "celine | ¥600 | 复刻版 celine 豆腐包 17cm 市面最高版本，原价2k懂货的看皮料就知道",
-  "celine | ¥8999 | Celine赛琳草编水桶包，赛琳/Celine 拉菲草水桶包 手提单肩斜挎包有肩",
-  "celine | ¥9999 | Celine赛琳 Triomphe凯旋门马鞍包，灰蓝色牛皮革 ，赛琳/Celin"
+  "saint laurent | ¥210 | YSL圣罗兰女士皮带黑色头层牛皮宽度3.0cm银色YSL标志 扣可调节长度原装包",
+  "celine | ¥586 | 【出闲置】CELINE赛琳ava腋下包 Celine老花月亮包 包太多了买回来就",
+  "celine | ¥1999 | CELINE阔腿休闲卫裤，L码。 专柜原价7600元。面料是86%棉➕14%山羊",
+  "number nine | ¥1999 | sold！if six was nine 先锋重工日牌 archive级别！重磅",
+  "undercover | ¥190 | Undercover85牛嘉兴ak 破洞牛仔裤，成色还可以， 破洞和细节都在图里"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-27T04:02:53"
+ "finished_utc": "2026-10-27T04:32:35"
 }
