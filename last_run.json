@@ -1,21 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
-  "undercoverism": 30,
-  "undercover": 30
+  "undercoverism": 55,
+  "undercover": 60
  },
- "new_items": 0,
+ "new_items": 29,
  "subscribers": 3,
- "sent": 0,
+ "sent": 26,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥1999 | YSL圣罗兰 黑金折叠钱包 闲置品 五金膜还在 款式很好看 超耐用的鱼子酱皮 公",
+  "saint laurent | ¥1450 | 自背出 YSL 圣罗兰 PUFFER 黑金双皮边云朵包 斜挎 单肩包上身百搭 手",
+  "saint laurent | ¥1700 | 出一全新YSL圣罗兰 25早春新款 LouLou黑金中号链条 包羊皮手感柔柔软软",
+  "saint laurent | ¥6980 | 圣罗兰Uptown牛皮单肩包 Saint Laurent P aris/圣罗兰商",
+  "saint laurent | ¥1250 | Saint Laurent 圣罗兰钻石闪粉夹克 尺码：44码状态：99新 工价8",
+  "saint laurent | ¥8999 | 全新带票 SAINT LAURENT圣罗兰 YSL Niki 做旧复古古铜色饰件",
+  "saint laurent | ¥11900 | 几乎全新未使用 YSL/圣罗兰 黑银niki中号链条包 油蜡 皮 耐磨耐造 可单",
+  "saint laurent | ¥100 | 圣罗兰黑色油蜡皮，成色特别好#春日出游必备 #换季穿新衣 感兴趣的话点“我想要”"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T06:32:28"
+ "finished_utc": "2026-10-28T07:02:41"
 }
