@@ -1,30 +1,23 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 34,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 32,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥9800 | 全新 YSL圣罗兰Baby Bea黑金小号托特包 尺寸：18 ×15cm 可调节",
-  "saint laurent | ¥528 | yslhobo小号水桶包 2k多入 528出 牛皮皮质质感超级好 做旧五金非常松",
-  "saint laurent | ¥1299 | YSL圣罗兰黑银枕头包，尺寸35*22*20，成色98新，附 件肩带",
-  "saint laurent | ¥6999 | YSL 97新 黑色中号NIKI链条包 尺寸28*22 SV24585 YSL ",
-  "saint laurent | ¥52 | YSL圣罗兰云朵包 灰色羊皮银扣 小号 经典菱格绗缝 皮质软糯 容量大 手机钱包",
-  "saint laurent | ¥186 | Saint Laurent黑色菱格托特包，金色YSLlogo ，链条装饰，皮质手",
-  "saint laurent | ¥50 | YSL圣罗兰Cassandra红色鳄鱼纹压花链条包 单肩斜挎 信封包成色：实拍原",
-  "saint laurent | ¥1400 | slp saint laurent 圣罗兰虎纹 毛衣开衫外套 虎纹xs码 宽松的"
+  "undercoverism | ¥2100 | Undercover/Undercoverism 老爷车汽车 月亮贴布针织开衫外"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T21:03:13"
+ "finished_utc": "2026-10-28T21:32:11"
 }
