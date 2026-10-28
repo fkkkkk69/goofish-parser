@@ -1,24 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 2,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥260 | Saint Laurent 圣罗兰 经典黑白棒球服 成色全新  看洗水标就知道穿",
-  "junya watanabe | ¥266 | Junya Wantanabe cdg ss06 骷髅头 t ee size S"
+  "saint laurent | ¥10800 | 圣罗兰,黑色中号niki 单肩包/Saint ,026123 护理情况：无护理商",
+  "saint laurent | ¥4300 | 商品名称：圣罗兰鳄鱼纹压印信封包  品牌：圣罗兰/Saint Laurent 品",
+  "saint laurent | ¥2900 | 商品名称：圣罗兰风琴包14年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥4200 | 商品名称：圣罗兰马鞍包22年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥5500 | 商品名称：圣罗兰链条包23年票 品牌：圣罗兰/Saint L aurent 品类",
+  "saint laurent | ¥4200 | 商品名称：圣罗兰链条相机包 19年 品牌：圣罗兰/Saint Laurent 品",
+  "saint laurent | ¥5800 | 商品名称：圣罗兰链条包23年票 品牌：圣罗兰/Saint L aurent 品类",
+  "saint laurent | ¥12400 | 商品名称：圣罗兰链条包23年 品牌：圣罗兰/Saint La urent 品类："
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T10:02:28"
+ "finished_utc": "2026-10-28T10:32:55"
 }
