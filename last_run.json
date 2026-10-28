@@ -1,24 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 36,
  "subscribers": 3,
- "sent": 0,
+ "sent": 32,
  "send_failed": 0,
  "sample_new": [
-  "number nine | ¥859 | number nine02aw针织毛衣 size：3 Number (N)ine",
-  "undercover | ¥78.91 | 杀戮  undercover贴纸夹克3码黄金码 这个尺码偏小 ，我173穿上去刚"
+  "saint laurent | ¥150 | Yves Saint Laurent男士polo衫，50码， 意大利产，100%",
+  "saint laurent | ¥12000 | 全新YSL圣罗兰黑金信封包中号，经典V纹菱格鱼子酱纹牛皮，耐 磨耐用，链条可调节",
+  "saint laurent | ¥899 | YSL圣罗兰黑金云朵mini链条包 99新 二奢修复包 个人闲置    羊皮材质",
+  "saint laurent | ¥5299 | 98新 YSL/圣罗兰 黑金羊皮june box斜挎饭盒包 尺寸19x10x15",
+  "saint laurent | ¥11500 | 【YSL圣罗兰 hobo小号水桶包】全新正品，奶茶色，经典款 ！尺寸小，适合日常",
+  "saint laurent | ¥11500 | YSL圣罗兰LE5A7 hobo黑金羊皮小号腋下包，金色lo go扣，简约大气百",
+  "saint laurent | ¥8800 | YSL 圣罗兰 loulou mini 黑金 25年 20* 10 A10283",
+  "saint laurent | ¥335 | 全新顶级YSL圣罗兰Jamie手袋，松弛有度的时尚，秋冬新款 ，氛围感拉满！大号"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T19:32:17"
+ "finished_utc": "2026-10-28T20:03:06"
 }
