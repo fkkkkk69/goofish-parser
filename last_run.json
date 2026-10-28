@@ -1,23 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 36,
  "subscribers": 3,
- "sent": 0,
+ "sent": 32,
  "send_failed": 0,
  "sample_new": [
-  "undercoverism | ¥2100 | Undercover/Undercoverism 老爷车汽车 月亮贴布针织开衫外"
+  "saint laurent | ¥10500 | 全新大全套 圣罗兰Ysl hobo小号黑金腋下包水桶包 26年10月票 五金带膜",
+  "saint laurent | ¥6000 | 商品名称：圣罗兰Niki18年 品牌：圣罗兰/Saint L aurent 品类",
+  "saint laurent | ¥6300 | 商品名称：圣罗兰Niki20年D扣 品牌：圣罗兰/Saint Laurent 品",
+  "saint laurent | ¥4400 | YSL圣罗兰 kate绿色蛇皮纹流苏斜挎包 中号 0516（ 14777）底长2",
+  "saint laurent | ¥3899 | YSL圣罗兰 黑银日落链条包 中号 19年0819（1478 6）底长22cm ",
+  "saint laurent | ¥2500 | YSL圣罗兰链条包 玫红色 95新 带中检吊牌 特价 荔枝纹牛皮 小号19x12",
+  "saint laurent | ¥4999 | YSL圣罗兰Kate流苏链条包，米色鳄鱼纹牛皮，链条肩带，流 苏装饰，经典百搭款",
+  "saint laurent | ¥288 | YSL圣罗兰黑色金头高跟鞋，尖头后空设计，细跟很显腿长，气质 感满满，搭裙子裤子"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T21:32:11"
+ "finished_utc": "2026-10-28T22:02:59"
 }
