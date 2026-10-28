@@ -1,30 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 12,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 11,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4890 | YSL圣罗兰中号风琴包，专柜正品，芝华士购买，卖不卖无所谓， 只卖个人，黑色荔枝",
-  "saint laurent | ¥4800 | YSL圣罗兰Kate黑银鳄鱼压纹流苏链条包，搬家出～ 经典黑银配色，牛皮鳄鱼压纹",
-  "saint laurent | ¥1650 | YSL 圣罗兰 LE 信封式链条手拿包 酒红色羊皮 金色logo 五金 链条肩带",
-  "saint laurent | ¥3800 | YSL圣罗兰复古撞色帆布拼接小方包，搬家出～ 经典豆腐包型，米色帆布+棕色皮拼接",
-  "saint laurent | ¥1680 | YSL sac de jour 风琴包 黑色鳄鱼纹压花牛皮 金色五金 肩带可调节",
-  "saint laurent | ¥3999 | YSL圣罗兰复古撞色帆布拼皮小方包，专柜正品，米白+棕色拼接 ，金属logo扣，",
-  "saint laurent | ¥4999 | YSL圣罗兰Kate黑银鳄鱼压纹流苏链条包，小号20cm，牛 皮材质，经典黑银配",
-  "saint laurent | ¥5999 | 98新YSL/圣罗兰 KAIA系列黑金鳄压纹马鞍包 23年编 码  附件：尘袋 "
+  "saint laurent | ¥248 | Saint Laurent 圣罗兰蓝色水洗牛仔衬衫 圣罗兰 —— 蓝色水洗牛仔长",
+  "number nine | ¥999 | 日本潮牌Number Nine双面保暖夹克，9.5新，几乎全 新，一直放柜子里很",
+  "undercover | ¥439 | undercover+97aw爪扣大衣 size：S/M/Lfrom：蛋蛋egg"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T05:02:45"
+ "finished_utc": "2026-10-28T05:32:21"
 }
