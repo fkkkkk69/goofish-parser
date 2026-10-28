@@ -8,17 +8,18 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 1,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥2500 | Celine棕色牛皮手提包，经典款，容量大，通勤实用，皮质软 ，五金亮，内里干净",
-  "undercover | ¥93.48 | （出）Undercover 06ss T期 指纹大衣 藏青色 2码 26年9月淘"
+  "saint laurent | ¥780 | saint laurent Paris 17Fw L01 铆 钉做旧机车夹克  ",
+  "junya watanabe | ¥279 | Junya Watanabe 2003ss Barbed W ire Tee 荆",
+  "undercover | ¥90 | UNDERCOVER 17ss 破碎天使人像满印夹克 sold 引流 稀有颜色 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T01:02:48"
+ "finished_utc": "2026-10-28T01:32:34"
 }
