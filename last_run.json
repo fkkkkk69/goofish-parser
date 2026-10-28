@@ -1,30 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
-  "undercoverism": 55,
-  "undercover": 60
+  "undercoverism": 30,
+  "undercover": 30
  },
- "new_items": 29,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 26,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥1999 | YSL圣罗兰 黑金折叠钱包 闲置品 五金膜还在 款式很好看 超耐用的鱼子酱皮 公",
-  "saint laurent | ¥1450 | 自背出 YSL 圣罗兰 PUFFER 黑金双皮边云朵包 斜挎 单肩包上身百搭 手",
-  "saint laurent | ¥1700 | 出一全新YSL圣罗兰 25早春新款 LouLou黑金中号链条 包羊皮手感柔柔软软",
-  "saint laurent | ¥6980 | 圣罗兰Uptown牛皮单肩包 Saint Laurent P aris/圣罗兰商",
-  "saint laurent | ¥1250 | Saint Laurent 圣罗兰钻石闪粉夹克 尺码：44码状态：99新 工价8",
-  "saint laurent | ¥8999 | 全新带票 SAINT LAURENT圣罗兰 YSL Niki 做旧复古古铜色饰件",
-  "saint laurent | ¥11900 | 几乎全新未使用 YSL/圣罗兰 黑银niki中号链条包 油蜡 皮 耐磨耐造 可单",
-  "saint laurent | ¥100 | 圣罗兰黑色油蜡皮，成色特别好#春日出游必备 #换季穿新衣 感兴趣的话点“我想要”"
+  "saint laurent | ¥90 | YSL圣罗兰黑色短袖针织衫，M码，100%羊绒，胸前小马标刺 绣，圆领设计，衣长",
+  "junya watanabe | ¥299 | Junya Watanabe ss05 Cowardice tee 懦弱短袖T恤",
+  "junya watanabe | ¥2109.09 | JUNYA WATANABE COMME des GARCONS 牛仔拼布毛衣连",
+  "number nine | ¥666 | NUMBER NINE 日本制 纯棉 长T 感兴趣的话点“我想要”和我私聊吧～",
+  "undercover | ¥125 | 537Cuteuc 白色漩涡挎包 / Undercover 06ss T期漩涡挎"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T07:02:41"
+ "finished_utc": "2026-10-28T07:32:35"
 }
