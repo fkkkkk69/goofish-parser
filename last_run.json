@@ -1,30 +1,21 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 60,
+  "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 60
+  "undercover": 30
  },
- "new_items": 54,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 41,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥2588 | YSL酒红色高跟鞋现货 36*1，37*1，大全套2588 感兴趣的话点“我想要",
-  "saint laurent | ¥3699 | 全新捡漏！YSL 黑色小金条高跟鞋 37码 内购特价th36 99 原价9800",
-  "saint laurent | ¥760 | 个人闲置 SAINT LAURENT圣罗兰板鞋 40.5码， 经典黑白熊猫配色，",
-  "saint laurent | ¥550.36 | YSL圣罗兰水钻高跟凉鞋 YSL圣罗兰水钻高跟凉鞋超美的水钻装饰 高级感十足让整",
-  "saint laurent | ¥508.03 | YSL圣罗兰新款高跟凉鞋 YSL圣罗兰新款高跟凉鞋超级懂女人心的高跟鞋金属字母设",
-  "saint laurent | ¥508.03 | YSL圣罗兰尖头高跟鞋凉鞋 YSL圣罗兰尖头高跟鞋凉鞋显腿长神器，穿上气场全开上",
-  "saint laurent | ¥3170 | 女装 圣罗兰 / 黑色易剪裁羊毛长裙 / 38码 🇰🇷 韩国 Bunjang 闪",
-  "saint laurent | ¥9599 | YSL圣罗兰黑色信封包，YSL圣罗兰 黑色信封包 ，圣罗兰/ Saint lau"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T06:03:09"
+ "finished_utc": "2026-10-28T06:32:28"
 }
