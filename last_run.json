@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 12,
  "subscribers": 3,
- "sent": 1,
+ "sent": 11,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥49.90 | 【实拍系列】全新YSL圣罗兰黑色短袖Polo衫 全新带吊牌包装，品质保障，重磅面",
-  "number nine | ¥2500 | number(n)ine number nine 宫下贵裕的 NN 07ss “",
-  "number nine | ¥1188 | Number（n）ine 外套 夹克 vintage 机能 古着number n"
+  "saint laurent | ¥4890 | YSL圣罗兰中号风琴包，专柜正品，芝华士购买，卖不卖无所谓， 只卖个人，黑色荔枝",
+  "saint laurent | ¥4800 | YSL圣罗兰Kate黑银鳄鱼压纹流苏链条包，搬家出～ 经典黑银配色，牛皮鳄鱼压纹",
+  "saint laurent | ¥1650 | YSL 圣罗兰 LE 信封式链条手拿包 酒红色羊皮 金色logo 五金 链条肩带",
+  "saint laurent | ¥3800 | YSL圣罗兰复古撞色帆布拼接小方包，搬家出～ 经典豆腐包型，米色帆布+棕色皮拼接",
+  "saint laurent | ¥1680 | YSL sac de jour 风琴包 黑色鳄鱼纹压花牛皮 金色五金 肩带可调节",
+  "saint laurent | ¥3999 | YSL圣罗兰复古撞色帆布拼皮小方包，专柜正品，米白+棕色拼接 ，金属logo扣，",
+  "saint laurent | ¥4999 | YSL圣罗兰Kate黑银鳄鱼压纹流苏链条包，小号20cm，牛 皮材质，经典黑银配",
+  "saint laurent | ¥5999 | 98新YSL/圣罗兰 KAIA系列黑金鳄压纹马鞍包 23年编 码  附件：尘袋 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-28T04:32:47"
+ "finished_utc": "2026-10-28T05:02:45"
 }
