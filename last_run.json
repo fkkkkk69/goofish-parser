@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
+  "saint laurent": 60,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 37,
  "subscribers": 3,
- "sent": 2,
+ "sent": 37,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥600 | celine双肩包，轻微使用痕迹，走线很好（标下面的走线市面 上很多都不对，可以",
-  "junya watanabe | ¥530 | junya watanabe denim泡泡袖衬衫 size:S",
-  "number nine | ¥3835 | NUMBER (N)INE档案 08ss NU 日本代购 NUMBER (N)I"
+  "saint laurent | ¥249 | 全新正品支持鉴定！YSL圣罗兰loulou puffer云朵 包，黑色小羊皮，经",
+  "saint laurent | ¥4980 | 圣罗兰Kate牛皮斜挎包 Saint Laurent Par is/圣罗兰商品分",
+  "saint laurent | ¥1399 | 渠道货双11特价！YSL Paris VII Pochon水 桶包托特包手提单肩",
+  "saint laurent | ¥1399 | 渠道货双11特价！YSL Paris VII Pochon水 桶包托特包手提单肩",
+  "saint laurent | ¥248 | YSL圣罗兰条纹针织开衫，黑白+灰蓝两色可选，V领双头拉链设 计，长袖短款修身版",
+  "saint laurent | ¥699 | YSL Vintage 复古夹克 连肩袖71胸围106衣长61.5不议价，喜欢可",
+  "celine | ¥1084 | CELINE 麦卡丹纹托特包 棕色 日本代购 经典设计的托特包，特色在于标志性的",
+  "celine | ¥3600 | Celine Classic Box奶茶色豆腐包，24*18 *7cm，金扣，牛"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T05:02:27"
+ "finished_utc": "2026-10-29T05:33:03"
 }
