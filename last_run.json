@@ -1,32 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 0,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
-  "number nine": 59,
-  "undercoverism": 54,
-  "undercover": 60
+  "number nine": 30,
+  "undercoverism": 30,
+  "undercover": 30
  },
- "new_items": 9,
+ "new_items": 3,
  "subscribers": 3,
  "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥1200 | saint laurent/SLP/YSL/圣罗兰破洞牛仔长 裤 D05  31",
-  "saint laurent | ¥3980 | YSL 圣罗兰中古八角包 单肩斜挎包 配色超绝 包身巨有型 成色也很棒 25×1",
-  "number nine | ¥1199 | numbernine Number (N)ine03aw针织 毛衣 整体是破坏版",
-  "number nine | ¥1199 | number（n）ine 07SS 宫下贵裕本人期 羊毛花呢音符衬里西装马甲背心",
-  "number nine | ¥1899 | 独家绝版牛王中古Number nine 限定彩色宝石猫须洗水 牛仔裤宫下贵裕音符",
-  "number nine | ¥707 | 稀有 90年代 NUMBER (N)INE 长 日本代购 稀有 90年代 NUM",
-  "number nine | ¥1888 | 宫下裕贵 Number (N)ine 摇滚复古拼接灯芯绒骑士 马甲 黑色 M码上",
-  "number nine | ¥1200 | Number nine 四袋羊毛西装 2码 很适合当下流行的skinny风格n9"
+  "celine | ¥600 | celine双肩包，轻微使用痕迹，走线很好（标下面的走线市面 上很多都不对，可以",
+  "junya watanabe | ¥530 | junya watanabe denim泡泡袖衬衫 size:S",
+  "number nine | ¥3835 | NUMBER (N)INE档案 08ss NU 日本代购 NUMBER (N)I"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-29T04:32:08"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-29T05:02:27"
 }
