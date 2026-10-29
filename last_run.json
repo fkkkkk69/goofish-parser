@@ -1,7 +1,7 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
@@ -17,5 +17,5 @@
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T23:02:31"
+ "finished_utc": "2026-10-29T23:32:36"
 }
