@@ -1,26 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 30
+  "undercover": 60
  },
- "new_items": 4,
+ "new_items": 32,
  "subscribers": 3,
  "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥798 | （全新过验）YSL圣罗兰酒红色高跟乐福鞋，经典褶皱皮面+金属 logo，粗跟设计",
-  "saint laurent | ¥798 | （全新过验）YSL圣罗兰LE LOAFER高跟乐福鞋，黑色， 经典褶皱皮面+金属",
-  "saint laurent | ¥65 | Saint Laurent圣罗兰棒球服 米白色拼黑色 L码 宽松版型 男女都能穿",
-  "undercover | ¥159 | 全网最低价几乎全新Undercover 05SS 吸血鬼女孩 拼接帽衫外套 1码"
+  "saint laurent | ¥600 | 正品Saint Laurent 22SS秋冬圣罗兰单排扣羊毛 西装外套Size：",
+  "saint laurent | ¥210 | Saint Laurent 13FW秀场黑风琴衬衫 by:  biao   si",
+  "saint laurent | ¥1100 | Saint Laurent Paris 13FW元年环扣切尔 西by：biao ",
+  "undercover | ¥177 | 【2件】UNIQLO x undercover 日本代购 【2件】UNIQLO ",
+  "undercover | ¥118 | Undercover 06ss T期机车皮衣，1码（S码）， 成色几乎全新，拍照",
+  "undercover | ¥1067 | undercover 2000-2001AW melting pot铁环红格条纹",
+  "undercover | ¥812 | UNDERCOVER 25AW T恤 Prin 日本代购 UNDERCOVER ",
+  "undercover | ¥59 | 毅轩club-Undercover06ssT期秀场款 黑色倒 呐喊女人像半裙si"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T03:32:19"
+ "finished_utc": "2026-10-29T04:02:23"
 }
