@@ -1,30 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 35,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 33,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥5599 | 98+Ysl 圣罗兰 west hollywood好莱坞系列 单肩斜挎包 尺寸2",
-  "saint laurent | ¥5588 | 99+YSL 圣罗兰 淡粉金扣 曼哈顿鳄鱼纹单肩斜挎包 金色 方扣设计 超有质感",
-  "saint laurent | ¥1600 | YSL手拿包 正品宴会包玫红色 99新 保存完好 可加链条做单肩/斜挎包走验货宝",
-  "saint laurent | ¥5000 | YSL圣罗兰 黑金鱼子酱信封包中号 可单肩可斜挎 V纹牛皮 经典链条容量实用 我",
-  "saint laurent | ¥6999 | 闲置新YSL圣罗兰 Gaby Micro黑色羊皮菱格包 尺寸：12×8×4cm成",
-  "saint laurent | ¥750 | YSL圣罗兰Niki黑色金标链条包，小号，经典油蜡牛皮，复古 抓皱纹理，金色lo",
-  "saint laurent | ¥3999 | 圣罗兰Kate_拉菲草藤链条包 原价2W➕特 3999涂标！满满的艺术气息～拉菲",
-  "saint laurent | ¥7200 | YSL 圣罗兰 Manhattan系列 黑色牛皮单肩包 型号675626DND0"
+  "saint laurent | ¥58 | SAINT LAURENT圣罗兰 字母组合银色针扣 羊皮腰带 男女同款情侣款 黑",
+  "number nine | ¥1580 | Number Nine 09SS 丝绸金扣宫廷马甲 size：2宫下贵裕本人期 ",
+  "number nine | ¥2999 | Number (N)ine SS05「Nightcrawle r」Distres"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T10:03:00"
+ "finished_utc": "2026-10-29T10:32:28"
 }
