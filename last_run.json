@@ -1,30 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 30
+  "undercover": 60
  },
- "new_items": 12,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 11,
+ "sent": 7,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥5999 | 98新YSL/圣罗兰 KAIA系列黑金鳄压纹马鞍包 23年编码  附件：尘袋 尺",
-  "saint laurent | ¥200 | YSL原皮黑色羊皮腋下包，比常规牛皮版本更有质感松弛，小号， 金色logo，五金",
-  "saint laurent | ¥150 | 品牌:Saint Laurent 女款低帮板鞋，经典黑白配色 ，一脚蹬设计，金属",
-  "saint laurent | ¥10900 | 圣罗兰Niki中号V纹绗缝单肩包 D扣 Saint Laur ent Paris",
-  "saint laurent | ¥7980 | 圣罗兰LE 37小号牛皮斜挎包 Saint Laurent Paris/圣罗兰商",
-  "saint laurent | ¥4980 | 圣罗兰Kate黑色漆皮流苏包 Saint Laurent P aris/圣罗兰商",
-  "saint laurent | ¥310 | 全新YSL圣罗兰黑色绑带高跟凉鞋，经典罗马绑带设计，金色YS L标志点缀，鞋面定",
-  "saint laurent | ¥249 | 全新正品支持鉴定！YSL圣罗兰loulou puffer云朵 包，热销榜第一名！"
+  "saint laurent | ¥199 | SAINT LAURENT黑色羊皮机车皮衣， 胸围102衣长58落肩袖长68 。",
+  "saint laurent | ¥680 | Saint laurent圣罗兰slp 18fw墨绿色标语卫 衣Saint La",
+  "celine | ¥630 | 【描述不符包退】Celine 赛琳25秋冬新款撞色logo针 织毛衣礼盒包装：额",
+  "celine | ¥3900 | CELINE赛琳凯旋门老花水桶包，小号，经典老花涂层帆布拼棕 色牛皮饰边，金色五",
+  "celine | ¥899 | CELINE 37码 蛇纹尖头鞋 秀款 买来大几千 几百 感兴趣的话点“我想要”",
+  "celine | ¥960 | 【全新】Celine赛琳Triomphe凯旋门老花小号水桶包 ，棕黑配色，经典百",
+  "junya watanabe | ¥428 | JUNYA WATANABE黑色无袖连衣裙，正品，几乎全新， 保存很好，没啥使用",
+  "number nine | ¥488 | Number(N)ine AW06 Nior 宫下贵裕菱形格 贴花西服夹克  S"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T06:02:41"
+ "finished_utc": "2026-10-29T06:32:29"
 }
