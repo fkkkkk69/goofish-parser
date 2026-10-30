@@ -2,31 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 60,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 0
+  "undercover": 30
  },
- "new_items": 33,
+ "new_items": 65,
  "subscribers": 3,
- "sent": 33,
+ "sent": 64,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥4800 | 商品名称：圣罗兰凯特包18年 品牌：圣罗兰/Saint La urent 品类：",
-  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥2400 | 商品名称：圣罗兰信封手拿包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥5500 | 商品名称：圣罗兰信封包大号13年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥7000 | 商品名称：圣罗兰信封包25年 品牌：圣罗兰/Saint La urent 品类："
+  "saint laurent | ¥5000 | ysl/圣罗兰 灰银鳄鱼压纹kate流苏包 19年编码 底长 24",
+  "saint laurent | ¥7800 | SAINT LAURENT圣罗兰 YSL Niki流浪||| 包中号 银链黑标L",
+  "saint laurent | ¥11800 | YSL/圣罗兰  Niki D扣 流浪包黑色中号链条包漆皮 现货好成色~喜欢可以",
+  "saint laurent | ¥3600 | YSL/圣罗兰 Kate黑色鳄鱼压纹链条包 黑金配色 经典款 金色粗链条 肩带可",
+  "saint laurent | ¥9741 | YSL圣罗兰 LE 5A 7系列Hobo托特包 小号 黑色金 扣 粒面小牛皮 可",
+  "saint laurent | ¥5500 | 98新❤️YSL/圣罗兰 曼哈顿鳄鱼纹单肩斜挎包 黑色金扣 尺寸24*16*7 ",
+  "saint laurent | ¥7999 | 98新，YSL橄榄绿牛皮金扣小号水桶hobo单肩包，24年编 码，公价21000",
+  "saint laurent | ¥4300 | 98新 YSL圣罗兰黑色银标流苏Kate链条包，小号鳄鱼纹流 苏银标元素，优雅又"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-30T16:03:12"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-30T16:33:36"
 }
