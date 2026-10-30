@@ -1,30 +1,23 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 29,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 26,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥11800 | 商品名称：ysl niki 中号26年 品牌：圣罗兰/Sai nt Lauren",
-  "saint laurent | ¥7780 | [1]现货  SAINT LAURENT圣罗兰 YSL Ca lypso羊 皮斜",
-  "saint laurent | ¥1380 | Saint Laurent YSL圣罗兰秋冬新款侧拉链高跟小 方头细跟长靴颜色细",
-  "saint laurent | ¥98 | 朋友送的YSL圣罗兰黑金链条托特包，大号，几乎全新，保存很新 ，家里包太多了闲置",
-  "saint laurent | ¥1380 | Saint Laurent YSL圣罗兰秋冬新款侧拉链高跟小 方头细跟长靴颜色细",
-  "saint laurent | ¥4680 | 38码 YSL圣罗兰 香槟金缎面金根高跟鞋 全新 xy015 2",
-  "saint laurent | ¥7800 | YSL 圣罗兰 男款黑色皮衣，意大利制造，小羊皮，夹薄棉，特 价7800库存：4",
-  "saint laurent | ¥4680 | 38码 YSL圣罗兰 香槟金缎面金根高跟鞋 全新 xy015 2"
+  "undercover | ¥160 | undercover537拼接裤 全网最顶 原价429的价格 尺码：1～3码都有"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-30T20:02:47"
+ "finished_utc": "2026-10-30T20:32:29"
 }
