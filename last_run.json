@@ -1,25 +1,21 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 3,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥5500 | YSL/圣罗兰 20年 流苏kate中号鱼子酱牛皮粉银 银色logo五金，流 Y",
-  "saint laurent | ¥5500 | YSL/圣罗兰 20年 流苏kate中号鱼子酱牛皮粉银 银色logo五金，流 Y",
-  "saint laurent | ¥7380 | YSL圣罗兰 Niki 墨绿色中号油蜡皮单肩斜挎链条包 配件 : 防尘袋上身个位"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-30T05:32:25"
+ "finished_utc": "2026-10-30T06:02:41"
 }
