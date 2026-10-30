@@ -2,23 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 33,
  "subscribers": 3,
- "sent": 0,
+ "sent": 30,
  "send_failed": 0,
  "sample_new": [
-  "number nine | ¥568 | 【in stock现货】自主 Number (N)ine 0 6AW NOIR ",
-  "number nine | ¥4299 | number nine 06aw 枪驳领西服 noirSize：3成色：9/10"
+  "saint laurent | ¥48 | Saint Laurent YSL尖牙图案短袖 黑色 Size：s码 9新 成色",
+  "saint laurent | ¥98 | Saint Laurent SLP13fw黑色吸烟装西服外套 abling出品经",
+  "saint laurent | ¥98 | Saint Laurent黑色星星双肩包 经典款 星星印花 拉链顺滑 肩带可调节",
+  "celine | ¥3999 | 3880 old Celine 绝版沙滩包 亚麻托特包， 王菲同款沙滩包 好价¥",
+  "celine | ¥1500 | 赛琳裤子#CELINE TG261005281",
+  "celine | ¥3999 | 98❤️赛琳Celine Classic Box 经典豆腐金 扣斜挎包单肩包 酒",
+  "celine | ¥3999 | 瑟琳大象灰鲶鱼包 有肩带 24底 S-GA-5212原始成色价格可聊",
+  "celine | ¥4999 | Celine sizeL 小鸡黄开衫，金扣短款，原价2300 0，38、40都能"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-30T06:32:37"
+ "finished_utc": "2026-10-30T07:03:02"
 }
