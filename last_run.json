@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 32,
  "subscribers": 3,
- "sent": 2,
+ "sent": 32,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥60 | 包邮到家 YSL圣罗兰男士黑色夹克 175-180身高 春秋 款 立领拉链设计 ",
-  "junya watanabe | ¥480 | Junya Watanabe x COMME des GAR ÇONS的秀场款，",
-  "undercover | ¥600 | 时间undercover 97aw抓扣大衣 纯羊毛款 size：1码成色：10/"
+  "saint laurent | ¥1280 | Saint Laurent YSL圣罗兰 秋冬新款侧拉链高跟 及踝靴尖头细跟短靴",
+  "saint laurent | ¥1280 | Saint Laurent YSL圣罗兰秋冬新款侧拉链高跟及 踝靴尖头细跟短靴颜",
+  "saint laurent | ¥2288 | 03674 ysl圣罗兰黑根高跟鞋38码原盒，成色充新轻微使 用（鞋子只有一双❗",
+  "saint laurent | ¥3999 | YSL/圣罗兰25年编码 LE37水桶包 奶茶色 没有硬伤",
+  "saint laurent | ¥4199 | YSL圣罗兰黑色缎面高跟凉拖 仅试穿 带原盒 方头交叉带 金 色logo跟 跟高",
+  "saint laurent | ¥5200 | 商品名称：圣罗兰链条包18年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥9800 | 圣罗兰,中号envelop信封包 单肩包/Sa,029164 护理情况：无护理商",
+  "saint laurent | ¥11500 | 圣罗兰,白色小号niki 单肩包/Saint ,029165 护理情况：无护理商"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-30T19:02:34"
+ "finished_utc": "2026-10-30T19:32:57"
 }
