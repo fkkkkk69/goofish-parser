@@ -1,21 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 0,
+ "sent": 4,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥4480 | YSL -SLP 圣罗兰 26S 羊羔毛翻领拼接皮革收腰腰带 夹克外套领标吊牌水",
+  "saint laurent | ¥50 | YSL黑色链条包，中号，油蜡皮，经典菱格纹，百搭不过时，链条 肩带可单肩斜挎，容",
+  "celine | ¥569 | 【闲置全新出清】赛琳ava腋下包凯旋门老花牛皮手柄月亮包 全新现货Celine赛",
+  "junya watanabe | ¥627.33 | 15SS Junya Watanabe 男士 Comme des Garçons",
+  "undercoverism | ¥178 | 【现】Undercover skoloct 壁虎臂玫瑰长袖 街头百搭时尚  -黑"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-29T23:32:36"
+ "finished_utc": "2026-10-30T00:02:41"
 }
