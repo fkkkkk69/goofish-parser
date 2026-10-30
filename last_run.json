@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
-  "number nine": 30,
-  "undercoverism": 30,
-  "undercover": 30
+  "number nine": 59,
+  "undercoverism": 56,
+  "undercover": 57
  },
- "new_items": 1,
+ "new_items": 55,
  "subscribers": 3,
- "sent": 0,
+ "sent": 8,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥90 | 撕裂天堂拉链牛l码便宜处理 Undercover牛仔裤L码，深蓝色，拉链款，裤腿"
+  "celine | ¥7500 | 99新 CELINE/赛琳 TINA 腋下包 单肩包 女款 黑色25年编码 尺寸",
+  "celine | ¥6111 | Celine凯旋门水桶包 黑色牛皮 logo浮雕 肩带可调节 手提斜挎都行 容量",
+  "celine | ¥4467 | 女士钱包 (全套包装) 赛琳 Trio 钱包 🇰🇷 韩国 Bunjang 闪电官",
+  "celine | ¥5300 | CELINE 羊绒羊毛 圆领针织衫 【商品成色】几乎全新【尺码】M【尺码数据】衣",
+  "celine | ¥4350 | CELINE 开衫 【商品成色】轻微穿着痕迹【尺码】M【尺码数据】衣长76cm、",
+  "celine | ¥598 | Ce 泡泡棉章仔毛织拉链外套 size：xs s m l",
+  "celine | ¥4250 | Celine赛琳 橄榄绿粗花呢短款外套 34码 成色很新 仅4250出不议价 顺",
+  "celine | ¥4999 | ️赛琳/Celien瑟琳  凯旋门老花锁头包 单肩腋下包  99新22年 ️赛琳"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-30T02:02:32"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-30T02:32:24"
 }
