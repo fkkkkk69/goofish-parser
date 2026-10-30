@@ -1,28 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 0,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 6,
+ "new_items": 1,
  "subscribers": 3,
- "sent": 4,
+ "sent": 0,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥6500 | YSL圣罗兰黑金链条包，全新未使用，6500出～ 买的全新的，发票、防尘袋都在，",
-  "saint laurent | ¥10800 | YSL圣罗兰Niki中号黑银链条包，油蜡皮材质，金色D扣链条 ，包型挺括，容量实",
-  "saint laurent | ¥1170 | 圣罗兰很好穿的一双鞋 鞋头有点小印痕 不影响整个效果 四季可 穿",
-  "saint laurent | ¥1080 | 全新YSL PARIS VII抽绳单肩包圣罗兰paris v ii女士腋下包皮革",
-  "undercover | ¥100 | Undercover AW 06ss昆虫刺绣夹克外套 关联：眼泪club 1码 ",
-  "undercover | ¥100 | 【秒价出】Undercover 02aw 魔女期荷叶花边衬衫 关联：幼稚鬼mad"
+  "undercover | ¥90 | 撕裂天堂拉链牛l码便宜处理 Undercover牛仔裤L码，深蓝色，拉链款，裤腿"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-10-30T01:32:20"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-10-30T02:02:32"
 }
