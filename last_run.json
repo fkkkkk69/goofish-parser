@@ -8,14 +8,17 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 2,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "number nine | ¥568 | 【in stock现货】自主 Number (N)ine 0 6AW NOIR ",
+  "number nine | ¥4299 | number nine 06aw 枪驳领西服 noirSize：3成色：9/10"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-30T06:02:41"
+ "finished_utc": "2026-10-30T06:32:37"
 }
