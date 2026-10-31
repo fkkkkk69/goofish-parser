@@ -1,32 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
-  "celine": 0,
-  "junya watanabe": 0,
-  "number nine": 58,
-  "undercoverism": 0,
+  "saint laurent": 30,
+  "celine": 30,
+  "junya watanabe": 30,
+  "number nine": 30,
+  "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 25,
+ "new_items": 29,
  "subscribers": 3,
- "sent": 0,
+ "sent": 27,
  "send_failed": 0,
  "sample_new": [
-  "number nine | ¥294 | Number nine 01aw弹孔泼墨牛仔裤 灰涩代理店铺直发 中腰 修身版型",
-  "number nine | ¥359 | Number nine 04ss 双骷髅刺绣拉链夹克外套 Size：S/M/L/",
-  "number nine | ¥399 | Number (N)ine 17SS Fencing Jac ket 立体裁剪击",
-  "number nine | ¥300 | number nine 08ss birds raw den im jacket",
-  "number nine | ¥399 | Number+(N)ine+AW05秀款+格子法兰绒衬衫连帽 外套+木村拓哉同款",
-  "number nine | ¥369 | 【出】Number nine 01ss 羊毛呢西装外套 肩宽45  衣长77，胸",
-  "number nine | ¥299 | 操作中NumberNine 07SS 泪心泥染破坏牛仔裤 -初版样板只是测试泥染",
-  "number nine | ¥289 | 开发中 -Number Nine 双骷髅田径夹克 archive单品 关联537"
+  "saint laurent | ¥3980 | 37.5码 YSL圣罗兰 黑色漆皮黑标高跟鞋 全新 xy01 57",
+  "saint laurent | ¥5800 | YSL 圣罗兰 Kate 黑金 鳄鱼压纹流苏包 尺寸:20* 13cm",
+  "saint laurent | ¥9600 | 99+新 SAINT LAURENT圣罗兰 Le5A7 ho bo海盐色 小号腋",
+  "saint laurent | ¥1200 | YSL圣罗兰黑色Y扣手拿包，经典款，专柜购入，正品支持验货宝 。几乎全新，保存很",
+  "saint laurent | ¥108 | 出YSL圣罗兰Niki黑色链条包，油蜡皮，经典菱格纹，银色链 条肩带，容量能装手",
+  "saint laurent | ¥500 | 圣罗兰经典小白鞋 【Saint Laurent小白鞋】35.5码 适合35-36",
+  "saint laurent | ¥7780 | 现货  SAINT LAURENT圣罗兰 YSL Calyp so羊 皮斜挎包 ",
+  "saint laurent | ¥45 | YSL 圣罗兰 Jeans 男士牛仔裤，算是养养出来了，浅蓝 水洗色，直筒微阔版"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 4,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-10-31T07:03:15"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-10-31T07:32:42"
 }
