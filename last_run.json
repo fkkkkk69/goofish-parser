@@ -1,26 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 3,
  "subscribers": 3,
  "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥2050 | Yves Saint Laurent 圣罗兰 Ysl 灰色麂 皮系带流苏高跟德比",
-  "saint laurent | ¥200 | biao made saint laurent骷髅衬衫  成色挺新 37 默认顺",
-  "junya watanabe | ¥750 | Junya Watanabe COMME des GARÇO NS 蓝白条纹长袖",
-  "number nine | ¥559 | Number (N)ine 06AW NOIR Cargo Military P"
+  "saint laurent | ¥58 | 全新包邮闲置包包YSL水桶包le37 ysl黑金手提单肩斜挎 |||包 女款 中",
+  "junya watanabe | ¥499.90 | JUNYA WATANABE COMME des GARÇONS 长袖衬衫，M ",
+  "junya watanabe | ¥1999 | Junya watanabe 2001SS秀款 西装外套 配套裙子也在 洗标被剪"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-31T04:02:37"
+ "finished_utc": "2026-10-31T04:32:20"
 }
