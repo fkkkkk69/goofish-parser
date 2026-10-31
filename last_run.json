@@ -1,30 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 33,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 32,
+ "sent": 4,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥3999 | 圣罗兰Lou Lou相机包 黑色皮革款，单肩/斜挎都行，流苏 挂饰，尺寸23×1",
-  "saint laurent | ¥940 | 全新Saint Laurent圣罗兰黑色尖头低跟短靴，带原包 装盒，没穿过，鞋底",
-  "saint laurent | ¥5980 | 现货全新 SAINT LAURENT圣罗兰 YSL KATE 做旧金标Logo链",
-  "saint laurent | ¥7500 | ysl niki黑银油蜡皮小号 老扣 19年编码 原始成色 感兴趣的话点“我想要",
-  "saint laurent | ¥3999 | 圣罗兰Lou Lou相机包 黑色皮革款，单肩/斜挎都行，流苏 挂饰，尺寸23×1",
-  "saint laurent | ¥2999 | 【95新】YSL圣罗兰 Sacdejour迷你 白色 风琴手 提包 底长22cm",
-  "saint laurent | ¥7980 | 现货 全新SAINT LAURENT圣罗兰 YSL KATE 金标Logo链条鳄",
-  "saint laurent | ¥940 | 全新Saint Laurent圣罗兰酒红色尖头低跟短靴，，没 穿过，保存很好，鞋"
+  "saint laurent | ¥118 | YSL圣罗兰腰带 黑色小牛皮 2.0cm宽度 方形金属扣 圣罗兰SAINT LA",
+  "junya watanabe | ¥2000 | Junya Watanabe COMME des GARÇO NS黑色毛毛外套 ",
+  "junya watanabe | ¥1299 | Junya watanabe x levis jeans x s码 w31 L3",
+  "junya watanabe | ¥1599 | JUNYA WATANABE 03aw针织蝴蝶结夹克 size S   发出前会"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-31T12:33:11"
+ "finished_utc": "2026-10-31T13:02:36"
 }
