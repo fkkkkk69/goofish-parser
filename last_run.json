@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 9,
  "subscribers": 3,
- "sent": 3,
+ "sent": 9,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥58 | 全新包邮闲置包包YSL水桶包le37 ysl黑金手提单肩斜挎 |||包 女款 中",
-  "junya watanabe | ¥499.90 | JUNYA WATANABE COMME des GARÇONS 长袖衬衫，M ",
-  "junya watanabe | ¥1999 | Junya watanabe 2001SS秀款 西装外套 配套裙子也在 洗标被剪"
+  "saint laurent | ¥300 | saint lauent l17皮衣 size:44 by:韩网 韩网做的一部分",
+  "saint laurent | ¥350 | YSL圣罗兰Niki泡泡羊皮黑色链条包，中号，经典黑银配色， 容量大，日常通勤、",
+  "saint laurent | ¥161 | SAINT LAURENT巴黎男士牛仔裤，L码，膝盖破洞设计 ，做旧风格，拉链款",
+  "saint laurent | ¥4999 | 圣罗兰黑银流苏包   中号   16年  裸包  95新 支持同城自提单单都可过",
+  "saint laurent | ¥850 | 【家中闲置】YSL圣罗兰枪银色漆皮长款钱包手包 成色还可以，保存不错，只有轻微使",
+  "saint laurent | ¥1180 | ysl爆款皮鹅绒｜一衣三穿 山羊绒毛领可脱卸 客户天天爆单的款来个跑量价格吧棕色",
+  "saint laurent | ¥155.99 | SLP圣罗兰星星板鞋 银色 41碼 头层牛皮 鞋面银色星星拼接 黑尾设计 细节很",
+  "celine | ¥580 | CELINE赛琳迷你琴谱包，尺寸17×20×4cm，老花满印 配棕色牛皮提手，正"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-10-31T04:32:20"
+ "finished_utc": "2026-10-31T05:02:25"
 }
