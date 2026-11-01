@@ -1,27 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 5,
+ "new_items": 9,
  "subscribers": 3,
- "sent": 4,
+ "sent": 5,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥6537 | 男装 圣罗兰 景观系列 拉链开衫 🇰🇷 韩国 Bunjang 闪电官方合作海淘店",
-  "saint laurent | ¥580 | 圣罗兰双面夹克，双面穿设计，一面奶白，一面藏蓝，完全是两种不 同的氛围感，相当于",
-  "saint laurent | ¥1080 | YSL/SaintLaurent皮标微喇牛仔裤，重庆旅游的时 候在国金专柜购入的",
-  "celine | ¥1536 | 【海淘清仓】CELINE赛琳 Triomphe Besace 羊皮翻盖单肩包 黑",
-  "number nine | ¥399 | Number(N)ine AW04 Heart Tribal Hoodie Gi"
+  "saint laurent | ¥189 | YSL圣罗兰Kate流苏包，经典鳄鱼纹，银色五金，链条+流苏 设计，小号尺寸20",
+  "saint laurent | ¥196 | 商场专柜圣罗兰品牌黑色绵羊皮夹克 品牌型号:L，身长54cm，胸围92cm，袖长",
+  "saint laurent | ¥39 | YSL大码两件套 送同色系吊带衬衫+吊带+裙子 39包邮",
+  "saint laurent | ¥150 | SaintLaurent 恐龙开衫 尺码 M码 起球通病 低价出 已读不回拉黑 ",
+  "junya watanabe | ¥1350.72 | JUNYA WATANABE COMME des GARCONS MAN 202",
+  "number nine | ¥499 | number nine 09aw 杂志特辑 图册画册 非常多 的nn经典图像 含",
+  "undercover | ¥119 | Undercover X Joy Division 脉冲长袖 上衣 黑白款  S",
+  "undercover | ¥48 | Undercover高桥盾锯齿银戒指指环男士DIZ纹身图腾戒 指 全新包邮   "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T05:32:19"
+ "finished_utc": "2026-11-01T06:02:25"
 }
