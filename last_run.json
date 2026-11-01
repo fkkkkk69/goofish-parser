@@ -1,26 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "number nine": 30,
+  "number nine": 57,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 10,
  "subscribers": 3,
- "sent": 3,
+ "sent": 4,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥78 | Saint Laurent黑色真皮皮衣 44码 成色很新 皮 质软 版型挺括 立",
-  "saint laurent | ¥200 | Saint Laurent流苏皮衣 46码 成色还可以 保存很好 流苏蛇纹拼接 ",
-  "celine | ¥500 | 正品闲置 Celine 侧边拉链Cabas托特包 菲比老款 德国购入 配原装布袋",
-  "undercover | ¥55 | Undercover德国战车1码 标价出，可小刀，爽快人包邮 ，东西成色还行，下"
+  "saint laurent | ¥191 | Saint Laurent椰树夹克 48码 意大利产 经典日落配色 金色袖口领口",
+  "saint laurent | ¥520 | saintlaurent 7‑Zip全皮 羊皮 机车裤s码 可以搭配heidbo",
+  "celine | ¥528.99 | 全新包邮 实物拍摄 Celine 赛琳 Frame 雾霾蓝拼 浅灰色豆腐包 中号",
+  "celine | ¥522 | Celine棕条纹托特包｜大号帆布款，几乎全新！灰褐+米白+ 深灰三色条纹，配色",
+  "number nine | ¥2048 | 男装 针织毛衣 Number Nine Kurt Cobain 针织衫 🇰🇷 韩",
+  "number nine | ¥9831 | 【品相良好、附吊牌】Number Nine T 日本代购 【品相良好、附吊牌】N",
+  "number nine | ¥822 | NUMBER (N)INE 05AW高街时期  日本代购 NUMBER (N)I",
+  "number nine | ¥14000 | NUMBER(N)INE NUMBER NIN 日本代购 NUMBER(N)IN"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T22:32:38"
+ "finished_utc": "2026-11-01T23:02:11"
 }
