@@ -1,30 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
+  "saint laurent": 0,
+  "celine": 0,
   "junya watanabe": 30,
   "number nine": 30,
-  "undercoverism": 30,
+  "undercoverism": 0,
   "undercover": 30
  },
- "new_items": 73,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 65,
+ "sent": 1,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥250 | YSL 圣罗兰hobo 手提包 黑金配色 感兴趣的话点“我想要”和我私聊吧～",
-  "saint laurent | ¥5600 | 商品名称：圣罗兰Kate信封包18年 品牌：圣罗兰/Sain t Laurent",
-  "saint laurent | ¥4300 | YSL圣罗兰黑金 鱼子酱包，，链条斜挎，经典V纹，黑色，尺寸 19*12cm。闲",
-  "saint laurent | ¥4999 | YSL圣罗兰黑银鱼子酱信封包 感兴趣的话点“我想要”和我私聊吧～",
-  "saint laurent | ¥4600 | 商品名称：圣罗兰流苏17年 品牌：圣罗兰/Saint Lau rent 品类：箱",
-  "saint laurent | ¥3861 | ysl黑金心形链条包 3800走 感兴趣的话点“我想要”和我私聊吧～",
-  "saint laurent | ¥6800 | YSL 圣罗兰 中号 NIKI系列手袋  牛皮压鳄鱼纹 尺寸 28 X 20 X",
-  "saint laurent | ¥4300 | 圣罗兰YSL玫瑰粉曼哈顿小号24×17×6cm 感兴趣的话点“我想要”和我私聊吧"
+  "junya watanabe | ¥850 | JUNYA WATANBE MAN shirt 衬衫 size xs 衣度 70",
+  "undercover | ¥100 | Undercover Aw02 魔女期高领十字架印花羊毛毛衣 关联：小年 Sma"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-11-01T15:03:33"
+ "zero_keywords": 3,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-11-01T15:32:44"
 }
