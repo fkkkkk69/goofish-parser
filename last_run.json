@@ -2,20 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 61,
  "subscribers": 3,
- "sent": 0,
+ "sent": 60,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥1815 | 【已过验//支持退换】圣罗兰YSL LE5A7大号手袋 牛皮革材质，绒面革衬里。",
+  "saint laurent | ¥1585 | 【已过验//支持退换】圣罗兰MONOGRAM豆腐包黑金大号 SAINT LAUR",
+  "saint laurent | ¥1615 | 【已过验//支持退换】圣罗兰YSL HOBO LE5A7小号手袋 圣罗兰YSL ",
+  "saint laurent | ¥1465 | 【已过验//支持退换】圣罗兰MONOGRAM豆腐包黑金小号 SAINT LAUR",
+  "saint laurent | ¥1055 | 【已过验//支持退换】saint laurent LE5À7手袋 YSL LE ",
+  "saint laurent | ¥1085 | 【已过验//支持退换】SAINT LAURENT钩织肩背包 圣罗兰oxalis拉",
+  "saint laurent | ¥1615 | 【已过验//支持退换】圣罗兰YSL HOBO LE5A7小号手袋 圣罗兰YSL ",
+  "saint laurent | ¥1055 | 【已过验//支持退换】saint laurent LE5À7手袋 saint l"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T03:02:25"
+ "finished_utc": "2026-11-01T03:33:34"
 }
