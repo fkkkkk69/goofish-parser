@@ -1,30 +1,26 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 16,
+ "new_items": 4,
  "subscribers": 3,
- "sent": 16,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4999 | Saint Lauren SLP YSL 复古格子双排扣西装 外套 F36码 细",
-  "saint laurent | ¥3880 | 几乎全新 YSL 圣罗兰 Kate 黑金流苏链条包 经典黑金 配色 牛皮材质 包",
-  "saint laurent | ¥62 | 全新包邮YSL圣罗兰Gaby Vanity Mini Box Bag黑色菱格链条",
-  "saint laurent | ¥638 | 全新Saint Laurent圣罗兰玛瑙五金细跟高跟凉鞋！气 质满分～鞋面牛皮，",
-  "saint laurent | ¥4999 | 几乎全新 YSL圣罗兰 Kate 黑色丝绒流苏链条包 经典链 条+流苏挂饰 设计",
-  "saint laurent | ¥5999 | SAINT LAURENT/圣罗兰 棕色羊羔毛拼接皮衣夹克 尺码：F36码。精准",
-  "saint laurent | ¥299 | YSL云朵包 小羊皮 带盒子 个人卖家 全新未背 成色很新经典菱格纹 金色log",
-  "saint laurent | ¥42.80 | YSL logo雪纺衬衫，白色底黑色印花，长袖款，轻薄透气， 春夏穿很舒服，防晒"
+  "saint laurent | ¥78 | Saint Laurent黑色真皮皮衣 44码 成色很新 皮 质软 版型挺括 立",
+  "saint laurent | ¥200 | Saint Laurent流苏皮衣 46码 成色还可以 保存很好 流苏蛇纹拼接 ",
+  "celine | ¥500 | 正品闲置 Celine 侧边拉链Cabas托特包 菲比老款 德国购入 配原装布袋",
+  "undercover | ¥55 | Undercover德国战车1码 标价出，可小刀，爽快人包邮 ，东西成色还行，下"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T22:02:36"
+ "finished_utc": "2026-11-01T22:32:38"
 }
