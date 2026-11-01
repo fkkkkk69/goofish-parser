@@ -1,23 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 9,
  "subscribers": 3,
- "sent": 0,
+ "sent": 8,
  "send_failed": 0,
  "sample_new": [
-  "undercover | ¥30 | 眼泪club自主原创 Undercover 06ss T期白 档案短袖archi"
+  "saint laurent | ¥1585 | 【无忧退换//支持鉴品】SAINT LAURENT新款BEA横款托特包 SAIN",
+  "saint laurent | ¥1115 | 【无忧退换//支持鉴品】SAINT LAURENT SUNSET MONOGRA",
+  "saint laurent | ¥975 | 【无忧退换//支持鉴品】SAINT LAURENT LOULOU PUFFER迷",
+  "saint laurent | ¥1299 | slp Saint Laurent 15Ss波西米亚流苏包 全皮黑色款 hedi",
+  "saint laurent | ¥1686 | YSL家的经典包包,+皮质柔软细腻，包自身非常轻，容量很大。 香港专柜正品买回来",
+  "saint laurent | ¥27.40 | 个人闲置YSL圣罗兰黑色短西装外套，胸前金色YSL标志，版型 挺括，穿上很显瘦，",
+  "saint laurent | ¥249 | SAINT LAURENT圣罗兰 FW26 棉质立领帆布拼色 长袖夹克外套男女同",
+  "junya watanabe | ¥899 | JUNYA WATANABE MAN 拼袖长袖衬衫 M码 蓝色 袖子拼接花色 设"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T04:02:33"
+ "finished_utc": "2026-11-01T04:32:21"
 }
