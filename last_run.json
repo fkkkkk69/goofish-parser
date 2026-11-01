@@ -1,30 +1,32 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
-  "celine": 30,
-  "junya watanabe": 30,
+  "saint laurent": 0,
+  "celine": 60,
+  "junya watanabe": 57,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 15,
+ "new_items": 42,
  "subscribers": 3,
- "sent": 8,
+ "sent": 41,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥799 | 正品Saint Laurent圣罗兰拼色高帮鞋，意大利制造， 41码，红白配色，",
-  "saint laurent | ¥599 | Saint Laurent14Fw Slp黑色刷蜡基础牛仔裤 尺码34 经典涂层",
-  "saint laurent | ¥650 | SaintlaurentParis黑色圆领卫衣带银色拉链装饰 size：L Co",
-  "saint laurent | ¥899 | 正品SaintLaurent 14AW  YSL/10H 黑金拼接高帮板鞋 商品",
-  "saint laurent | ¥190 | Saint Laurent牛仔外套 size:L made by:山明 Cond",
-  "saint laurent | ¥2800 | YSL圣罗兰黑色鳄鱼压纹链条包，专柜购入，带防尘袋，链条肩带 都在，成色还可以，",
-  "saint laurent | ¥840 | Saint laurent slp 18fw双膝破坏牛仔裤 码数:31 成色非常",
-  "junya watanabe | ¥2499 | JUNYA WATANABE Junya Watanabe MAN x Levi"
+  "celine | ¥3400 | 闲置 赛琳Celine 凯旋门老花贝壳化妆包斜挎包 21编码 尺寸16*7*10",
+  "celine | ¥3999 | 3240 Celine赛琳mini 黑金Triomphe凯旋 门单肩 斜挎包 小",
+  "celine | ¥4299 | 3321 Celine/赛琳 Belt 鲶鱼包荔枝牛皮 好价¥5499",
+  "celine | ¥3480 | Celine261101特卖内购 =【最新特卖内购，看我主页置顶】=~~~~~精",
+  "celine | ¥1588 | Celine Frame拼色豆腐包 红粉拼色 中号 尺寸25*12*9cm专柜价",
+  "celine | ¥1300 | CELINE赛琳Luggage拉链开合牛皮笑脸包手提包 女款 大号 底长30cm",
+  "celine | ¥4000 | 几乎全新CELINE赛琳凯旋门mini box黑金豆腐包，专 柜入的正品。经典光",
+  "celine | ¥2474.01 | Celine/赛琳 红色box 17年 尺寸：23.5*18*5 尘袋 98新 "
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 0,
- "error_samples": [],
- "finished_utc": "2026-11-01T07:32:37"
+ "zero_keywords": 1,
+ "error_samples": [
+  "empty result, stderr: "
+ ],
+ "finished_utc": "2026-11-01T08:03:45"
 }
