@@ -8,16 +8,14 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 1,
+ "new_items": 0,
  "subscribers": 3,
  "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "number nine | ¥1980 | Number (N)ine 09AW 羊皮皮毛一体拼接马甲 1码 胸围95衣长6"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T02:32:14"
+ "finished_utc": "2026-11-01T03:02:25"
 }
