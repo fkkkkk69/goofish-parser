@@ -1,26 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 14,
  "subscribers": 3,
- "sent": 3,
+ "sent": 10,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥2480 | Saint Laurent slp 16FW Wyatt黑色 基础切尔西靴siz",
-  "saint laurent | ¥300 | 正品Saint Laurent圣罗兰ysl星座款马海毛毛衣开 衫羊毛混纺马海毛材",
-  "celine | ¥950 | CELINE赛琳2022年新款小盒子，小圆筒包型加双拉链开合 加手腕，整体简约，",
-  "undercover | ¥40 | 低价出UNDERCOVER 05sst期 白铆钉假两件卫衣 size：2没穿出去"
+  "saint laurent | ¥1650 | YSL Hortense 链条腋下包 黑色油蜡牛皮 金色链条肩带 经典logo圆",
+  "saint laurent | ¥685 | 全新YSL圣罗兰Soft Hobo腋下包，黑银H，原版牛皮， 手感软，质感高级，",
+  "saint laurent | ¥7800 | YSL圣罗兰 Niki小号链条包，黑色鳄鱼压纹牛皮  尺寸21x16x7.5cm",
+  "saint laurent | ¥77 | YSL圣罗兰Kate流苏链条包 白色鳄鱼纹 金色链条 三百买的 现在77出了 有",
+  "saint laurent | ¥350 | 全新YSL圣罗兰Y水桶包，黑色小牛皮，经典Y字母设计，三角镂 空手柄，肩带可调节",
+  "saint laurent | ¥1100 | Saint Laurent圣罗兰slp 14ss D01 全新带吊牌 Hedi ",
+  "saint laurent | ¥235 | YSL圣罗兰Sunset日落中号链条包，鳄鱼纹牛皮质感，经典 翻盖Logo设计，",
+  "saint laurent | ¥175 | SaintLaurent 标识刺绣Polo衫 面料：云纹珠地棉 挺括有型 舒适贴"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-01T01:35:25"
+ "finished_utc": "2026-11-01T02:02:24"
 }
