@@ -8,14 +8,20 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 0,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 0,
+ "sent": 3,
  "send_failed": 0,
- "sample_new": [],
+ "sample_new": [
+  "saint laurent | ¥188 | saint Laurent Paris 16ss秀款棕榈树海 浪衬衫by：山明 ",
+  "celine | ¥1000 | 一线出当破烂收来的CÉLINE Classic Box（赛琳 Box，大家俗称豆",
+  "junya watanabe | ¥2429.69 | JUNYA WATANABE Comme des Garçons 男士拼布长裤，",
+  "undercover | ¥158 | Sleepboy嗜睡    Undercover眼睛牛 这一 批颜  成色98新",
+  "undercover | ¥42 | 1码带扣 易瞳 （原版开发 独家现货）Undercover 四重人格 H.U.N"
+ ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-02T10:32:50"
+ "finished_utc": "2026-11-02T11:02:49"
 }
