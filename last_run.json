@@ -1,30 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
-  "junya watanabe": 59,
-  "number nine": 58,
+  "junya watanabe": 30,
+  "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 64,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 58,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥1788 | 正品 YSL 圣罗兰 黑色西装外套，36码，成色如图。正品保 真，如假白送，非真",
-  "saint laurent | ¥488 | SAINT LAURENT 6个颜色 褶皱乐福鞋，复古一脚蹬 套脚版型，鞋头手工",
-  "saint laurent | ¥4999 | YSL圣罗兰 Vicky中号黑金链条包18年/20×17×8/F61816 YS",
-  "saint laurent | ¥650 | 【Saint Laurent圣罗兰金属logo高跟凉鞋】全新 ，带原包装盒，经典",
-  "saint laurent | ¥2488 | 98新❤️YSL/圣罗兰 荧光柠檬黄手拿包 编码14年 尺寸 ：25*15cm#",
-  "saint laurent | ¥650 | 【Saint Laurent圣罗兰金属logo高跟凉鞋】全新 ，带原包装盒，绿色",
-  "saint laurent | ¥720 | 【Saint Laurent酒红尖头高跟鞋】全新，带原包装盒 ，经典logo金属",
-  "saint laurent | ¥5500 | 商品名称：圣罗兰单肩包20年 品牌：圣罗兰/Saint La urent 品类："
+  "saint laurent | ¥588 | SAINT LAURENT 秋冬新款褶皱切尔西短靴 标志性金属logo，鞋头手工",
+  "saint laurent | ¥180 | Saint Laurent圣罗兰黑白拼皮棒球服 M码均码 成色很好  思思定制 ",
+  "saint laurent | ¥379 | 【in stock】Saint Laurent Paris Leather Pa",
+  "number nine | ¥288 | Number(N)ine 04ss Double Skull 骷髅毛毡连帽卫衣拉",
+  "undercover | ¥359 | Undercover 13aw 肋骨 双肩包 背包 二手售出不退"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-02T09:03:17"
+ "finished_utc": "2026-11-02T09:32:43"
 }
