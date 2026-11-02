@@ -2,24 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
-  "junya watanabe": 30,
+  "celine": 60,
+  "junya watanabe": 57,
   "number nine": 30,
-  "undercoverism": 30,
-  "undercover": 30
+  "undercoverism": 59,
+  "undercover": 60
  },
- "new_items": 3,
+ "new_items": 81,
  "subscribers": 3,
- "sent": 2,
+ "sent": 43,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥250 | ABling出品Ysl风格 秀款羊毛长袖Polo 海鸥领 xxl码 全新带扣未穿",
-  "junya watanabe | ¥2049.76 | Comme des Garçons Junya Watanabe 男士 Aral",
-  "undercover | ¥26 | Undercover 06SS T期 呐喊女人短袖 S码"
+  "celine | ¥1823.60 | CELINE思琳 JOGGER 凯旋门德训鞋 37码 穿一次 CELINE思琳 ",
+  "celine | ¥6999 | Celine赛琳 波士顿包 老花棕色 小号 尺寸20*11*14cm，手提斜挎都",
+  "celine | ¥4800 | celine 白色小号水桶包 2022年11月代购巴黎带回，有付款记录，仅背出去",
+  "celine | ¥4999 | 赛琳CELINE信封链条包+黑色金扣++公价1.65W+专柜 正品+25年4月走",
+  "celine | ¥5800 | Celine 赛琳 凯旋门老花琴谱包 22年 商品名称：Celine 赛琳 凯旋",
+  "celine | ¥9680 | Old Celine焦糖棕单肩hobo 配件 小包 尘袋 卡片PP时期有一只宝藏",
+  "celine | ¥10500 | 商品名称：瑟琳手提包23年 品牌：瑟琳/Celine 品类： 箱包-手提包 成色",
+  "celine | ¥4888 | 二奢勿扰，二奢勿扰， celine凯旋门腋下包，黑色老花牛皮，金色锁扣，已自刀"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-02T19:32:21"
+ "finished_utc": "2026-11-02T20:02:37"
 }
