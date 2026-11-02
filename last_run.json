@@ -8,17 +8,14 @@
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 0,
  "subscribers": 3,
- "sent": 2,
+ "sent": 0,
  "send_failed": 0,
- "sample_new": [
-  "saint laurent | ¥29.90 | 几乎全新Saint Laurent灰色圆领T恤，L码，意大利 产，品相自定。具体",
-  "junya watanabe | ¥656.73 | eYe JUNYA WATANABE COMME des GARCONS MAN"
- ],
+ "sample_new": [],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-02T23:02:50"
+ "finished_utc": "2026-11-02T23:32:25"
 }
