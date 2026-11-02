@@ -1,32 +1,24 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
-  "celine": 60,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 31,
+ "new_items": 2,
  "subscribers": 3,
- "sent": 31,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥1680 | CELINE Soft Triomphe半月包 小号 羊皮革 金色全钢五金尺寸2",
-  "celine | ¥3200 | 98新 CELINE赛琳棕色拼毛毡竖款托特包Tote包购物袋 琴谱包，手提单肩斜",
-  "celine | ¥4400 | 99新 Celine 赛琳Triomphe凯旋门老花风琴包双 层信封包斜挎包，美",
-  "celine | ¥2999 | celine芥末黄单肩包，专柜正品，五金亮，包身干净，边角无 磨损，配件齐全，保",
-  "celine | ¥2999 | Celine赛琳Trapeze秋千包，黑色牛皮拼翻毛皮，银色 五金，经典款，包型",
-  "celine | ¥5200 | 98新 CELINE赛琳 凯旋门棕色老花印花马鞍包，帆布拼牛 皮革单肩包斜挎包 ",
-  "celine | ¥6500 | celine迷你托特包 有使用痕迹 能接受的拍 走验货宝 感兴趣的话点“我想要”",
-  "celine | ¥4999 | Celine/赛琳 boy doll新款黑色尼龙帆布 邮差包 98新  尺寸：2"
+  "saint laurent | ¥90 | 黑金色ysl圣罗兰云朵包，中号28cm。过年买的，忘记用了， 又添置了几个，一直",
+  "saint laurent | ¥155 | Saint Laurent 16FW音符宫廷衬衫 By:查理镇 喜欢的来问，实价"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-11-02T02:33:08"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-11-02T03:02:26"
 }
