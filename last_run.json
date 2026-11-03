@@ -4,29 +4,27 @@
   "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
-  "number nine": 0,
+  "number nine": 30,
   "undercoverism": 30,
-  "undercover": 60
+  "undercover": 30
  },
- "new_items": 56,
+ "new_items": 33,
  "subscribers": 3,
- "sent": 32,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥3880 | YSL Kate 黑银 鳄鱼压纹 牛皮 小号 流苏包，自带冷 调贵气，精致又有辨",
-  "saint laurent | ¥5700 | 商品名称：YSL拉菲草托特包24年 闲置  品牌：圣罗兰/S aint Laur",
-  "saint laurent | ¥5000 | 商品名称：ysl凯特流苏包19年 品牌：圣罗兰/Saint Laurent 品类",
-  "saint laurent | ¥4880 | YSL 圣罗兰 Nolita 黑金 链条包，百搭本命小包～斜 挎单肩都可以！放下",
-  "saint laurent | ¥4600 | 商品名称：ysl 信封包20年 品牌：圣罗兰/Saint L aurent 品类",
-  "saint laurent | ¥4500 | 闲置出YSL圣罗兰Nolita黑金迷你链条包，专柜购入，保存 很好，成色特别好，",
-  "saint laurent | ¥4880 | YSL 圣罗兰 Nolita 黑金 链条包 YSL 圣罗兰 Nolita 黑金 ",
-  "saint laurent | ¥3880 | YSL Kate 黑银 鳄鱼压纹 牛皮 小号 流苏包 YSL Kate 黑银 鳄"
+  "saint laurent | ¥128 | saint Laurent 15fw 骷髅头衬衫 37码小码 没记错应该是bia",
+  "saint laurent | ¥14900 | 4011 圣罗兰 黑金羊皮福袋中号 Saint lauren t/圣罗兰YSL ",
+  "saint laurent | ¥3999 | 简约飒气 YSL圣罗兰 Sade奶白色小号圆筒包 手提腋下包99新 配件尘袋¥3",
+  "saint laurent | ¥5999 | 圣罗兰kate23年 品牌：圣罗兰/Saint L 全新  底长24  23年",
+  "saint laurent | ¥2300 | YSL圣罗兰 黑色波士顿手提包 斜挎包 98新 尺寸36*1 5.5*29",
+  "saint laurent | ¥1800 | YSL/圣罗兰 红色全皮波士顿手提包 98新 尺寸35*22 *20",
+  "saint laurent | ¥9700 | 商品名称：圣罗兰月牙包25年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥3880 | YSL圣罗兰 kate 黑银流苏链条包 鳄鱼压纹牛皮 小号 19*12.5*4c"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-11-03T15:33:00"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-11-03T16:03:05"
 }
