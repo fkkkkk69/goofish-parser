@@ -1,30 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 60
+  "undercover": 30
  },
- "new_items": 39,
+ "new_items": 31,
  "subscribers": 3,
- "sent": 9,
+ "sent": 30,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥1097.77 | JUNYA WATANABE COMME des GARÇONS 皮革包 26S",
-  "junya watanabe | ¥959.80 | Junya Watanabe Comme des Garçons 扭纹长开衫背面",
-  "junya watanabe | ¥775.84 | JUNYA WATANABE 男士 LACOSTE 夹克 规格：M○产品描述【品",
-  "junya watanabe | ¥6938.50 | JUNYA WATANABE MA-1 飞行夹克 规格：S- 品牌：JUNYA ",
-  "junya watanabe | ¥1120.77 | JUNYA WATANABE COMME des GARÇONS 外套 规格：X",
-  "junya watanabe | ¥1946.75 | MONCLER × COMME des GARCONS JUNYA WATANA",
-  "junya watanabe | ¥2100.35 | 全新！eYe JUNYA WATANABE × PENDLETON T恤 规格：",
-  "junya watanabe | ¥1461.09 | Junya Watanabe x Comme des Garçons AD202"
+  "saint laurent | ¥9999 | 【99新】YSL/圣罗兰 Loulou 黑金信封包 链条包斜 挎包 底长29cm",
+  "saint laurent | ¥4990 | 全新圣罗兰YSL双肩包 原价10300折后499031x22x41圣罗兰黑色棉拼",
+  "saint laurent | ¥274 | 因闲置出手，YSL圣罗兰hobo小号黑色腋下包，经典黑金配色 ，粒面鹿皮，质感软",
+  "saint laurent | ¥3199 | 97新 二手YSL圣罗兰风琴手提包小号深蓝色/25*20*1 2cm/B6469",
+  "saint laurent | ¥3280 | YSL 黑银V纹手拿包 98以上新 尺寸34*22 银扣高级 显贵 手拿超有气质",
+  "saint laurent | ¥7299 | 【97新】YSL/圣罗兰 Manhattan 曼哈顿包黑色金 扣  鳄鱼压纹 小",
+  "saint laurent | ¥7199 | 98新 二手YSL圣罗兰Niki大号黑色/32*23*9cm B6471",
+  "saint laurent | ¥10800 | 几乎全新未使用闲置 YSL圣罗兰 Niki shopping bag 大号 链条"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T14:33:03"
+ "finished_utc": "2026-11-03T15:03:09"
 }
