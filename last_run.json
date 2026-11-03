@@ -2,29 +2,24 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 60,
-  "celine": 60,
+  "celine": 30,
   "junya watanabe": 30,
-  "number nine": 60,
-  "undercoverism": 59,
+  "number nine": 30,
+  "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 36,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 21,
+ "sent": 2,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥9980 | 圣罗兰 Niki 油蜡皮 Tote单肩包 Saint Lau rent Pari",
-  "saint laurent | ¥88 | 油腊皮 “ysl”超A版，实拍图，保存很好，要的姐妹来 感兴趣的话点“我想要”和",
-  "saint laurent | ¥2180 | 【Saint Laurent】圣罗兰 秀款 黑色缎面情人玫瑰 浮雕logo按扣棒",
-  "saint laurent | ¥86.90 | 支持验货，个人闲置圣罗兰黑色流浪斜挎腋下包中号，秋冬款，还是 夏季我表姐去外地买",
-  "celine | ¥5599 | Celine黑色盒子包，赛琳/Celine  12年黑色Lu ggage拉链开合",
-  "celine | ¥1750 | CELINE Le 17黑金凯旋门手袋 尺寸23×15×6cm 请先沟通 避免售",
-  "celine | ¥1800 | CELINE Le 16 East West 黑色手提包 小牛皮 金色五金 皮质",
-  "celine | ¥1800 | CELINE Le 16 East West 深栗色手提包 尺寸28×9×13c"
+  "saint laurent | ¥108.80 | YSL圣罗兰云朵包，黑色小号，黑银链条肩带，经典菱格绗缝，皮 质软糯，容量日常通",
+  "junya watanabe | ¥1200 | junya watanabe 川久保玲 扭曲变形彩色上衣 c dg  — 解构设",
+  "undercover | ¥25.90 | undercover蝎子锯齿短袖 L码 仅试穿包邮 售出不退不换"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T03:02:44"
+ "finished_utc": "2026-11-03T03:32:40"
 }
