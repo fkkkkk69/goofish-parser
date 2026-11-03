@@ -1,27 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 5,
+ "new_items": 11,
  "subscribers": 3,
- "sent": 2,
+ "sent": 11,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥248 | 【正品级】圣罗兰Niki中号 黑银链条包 经典复古褶皱小牛皮，黑银链条，D扣设计",
-  "junya watanabe | ¥3999 | Junya Watanabe Comme Des Garço ns Levi's",
-  "undercover | ¥159 | 【in stock】Undercover 06AW Guru Guru 黑色针织",
-  "undercover | ¥140 | Undercover灯芯绒拼接长裤 size:·2 几乎全新 市面最顶的版型做的",
-  "undercover | ¥379 | Undercover 06aw GuruGuru期 围巾拉链 外套Size：S/"
+  "saint laurent | ¥4200 | 商品名称：圣罗兰信封包23年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥285 | 26新品 ysl半高领桑蚕丝打底衫，100%桑蚕丝坑条针织， 细腻竖纹肌理，自带",
+  "saint laurent | ¥4399 | YSL圣罗兰 97新 Sunset南瓜焦糖色日落包 尺寸25 ×18×5.5 附",
+  "saint laurent | ¥6999 | Saint Laurent Paris SLP  FW15 1off1 Samp",
+  "saint laurent | ¥2980 | ysl圣罗兰月牙牛角可颂包黑色大号明星同款62×28×4cm 【秦岚同款】收到的",
+  "saint laurent | ¥6900 | YSL圣罗兰Le37小号黑色水桶包，黑色光面牛皮配金色五金， 款式简单大方，慢慢",
+  "saint laurent | ¥149 | ysl圣罗兰 银灰色流苏粗花呢小香风外套 成色如图 挺新的 一共三颗扣子中间的断",
+  "saint laurent | ¥8000 | Saint Laurent罗纹针织开衫，深咖啡色，XS码，短 款V领，CASSA"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T05:32:19"
+ "finished_utc": "2026-11-03T06:02:36"
 }
