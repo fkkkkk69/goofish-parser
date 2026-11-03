@@ -1,24 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 2,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 2,
+ "sent": 5,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥888 | Biao出品圣罗兰slp15fw曼彻斯特鳄鱼纹羊皮大衣 44码 上身很帅成色如图",
-  "celine | ¥1000 | CELINE 黑色圈圈纱连帽短款外套（流苏抽绳款）M码穿过几 次清衣柜1000"
+  "saint laurent | ¥2900 | Saint Laurent 基础款切尔西靴，黑色百搭优雅，日 常通勤/搭配西装都",
+  "saint laurent | ¥11800 | 全新YSL 圣罗兰 LE37 水桶 小号！ 全新全套！现货秒发！小水桶太百搭了吧",
+  "saint laurent | ¥238 | 闲置出YSL圣罗兰 College 中号黑银V纹邮差包，经典 V形绗缝牛皮，皮质",
+  "saint laurent | ¥3880 | YSL saintlaurent 圣罗兰 棕色系花朵 原价20500元现货带盒大",
+  "celine | ¥980 | 【出入专柜无压力】Celine赛琳Triomphe凯旋门老花 迷你双肩包，经典水"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T01:32:40"
+ "finished_utc": "2026-11-03T02:02:16"
 }
