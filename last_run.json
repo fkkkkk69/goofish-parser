@@ -2,25 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 4,
+ "new_items": 40,
  "subscribers": 3,
- "sent": 2,
+ "sent": 38,
  "send_failed": 0,
  "sample_new": [
-  "junya watanabe | ¥1500 | DUVETICA x JUNYA WATANABE MAN联 名羽绒服 XS码 ",
-  "junya watanabe | ¥3500 | Junya wantanabe comme des garc ons 解构长裤 ",
-  "number nine | ¥250 | Number Nine 06SS 泼墨牛仔裤 Archive 自主 尺码 L码 ",
-  "undercover | ¥100 | 撕裂的天堂 Undercover 05SS爱心牛仔裤 1码 经典直筒修身版型 蓝"
+  "saint laurent | ¥210 | zr高级定制 SaintLaurent13FW元年大破坏牛仔 裤 32码 99新",
+  "saint laurent | ¥758 | Yves Saint Laurent pour homme 法国高级奢侈品牌羊绒",
+  "saint laurent | ¥249 | 红西柚Saint Laurent 15ss宫廷夹克 S码 仅穿一 有购买记录",
+  "saint laurent | ¥220 | YSL圣罗兰Saint Laurent 女款标语短袖T恤 xs码 成色很好 放着",
+  "saint laurent | ¥88 | 出一条Saint Laurent黑色牛仔裤d17 17码 退 圈出 便宜出 给学",
+  "saint laurent | ¥159 | 2025春秋新款Saint Laurent圣罗兰黑白撞色棒球 夹克外套，男女同款",
+  "saint laurent | ¥234 | SaintLaurent L01羊皮皮衣 机车夹克外套 44码 成色：（如图所示",
+  "celine | ¥6988 | Celine 焦糖色全皮腋下 附件：肩带"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T11:02:30"
+ "finished_utc": "2026-11-03T11:33:19"
 }
