@@ -2,26 +2,29 @@
  "keywords_total": 6,
  "per_keyword_items": {
   "saint laurent": 30,
-  "celine": 30,
+  "celine": 60,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 30
+  "undercover": 60
  },
- "new_items": 5,
+ "new_items": 20,
  "subscribers": 3,
- "sent": 3,
+ "sent": 6,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥198 | YSL圣罗兰Kaia马鞍包 黑色平纹金标 大号23*18cm 小号18*16cm",
-  "celine | ¥950 | 。 CELINE 26冬季新款FLAIR BAG CELINE FW26新品 大",
-  "junya watanabe | ¥993.49 | JUNYA WATANABE Comme des Garçons 羊毛休闲裤，S",
-  "undercover | ¥220 | 毅轩uc蓝线牛 Undercover 68 蓝线糜烂破坏牛仔 裤 Size：1/",
-  "undercover | ¥99 | Undercover06ssT期羊毛铆钉低腰条纹阔腿西裤 关联:LostDesi"
+  "saint laurent | ¥4999 | Saint Laurent圣罗兰红色链条单肩包，专柜正品，经 典YSL老花，链条",
+  "saint laurent | ¥368 | YSL圣罗兰高跟鞋，36码。成色很新，鞋面胶片漆皮拼透明PV C，尖头后空一字扣",
+  "saint laurent | ¥8999 | Saint Laurent圣罗兰墨绿色鳄纹链条单肩包，专柜正 品，意大利制造，型",
+  "celine | ¥3999 | Celine赛琳Classic Box中号豆腐包，柠檬黄荔枝 纹牛皮，专柜正品，",
+  "celine | ¥680 | 【全新正品】CELINE男士双折钱包 黑色手掌纹牛皮，银色l ogo，经典短款设",
+  "celine | ¥680 | 【全新正品】CELINE赛琳Triomphe黑色牛皮拉链零钱 包，经典凯旋门lo",
+  "undercover | ¥118 | 纯原货！日潮设计师品牌undercover联名款男士针织开衫 岛国订单GU X ",
+  "undercover | ¥134 | UNIQLO UNDERCOVER UU 印花 日本代购 UNIQLO UNDE"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-03T04:02:19"
+ "finished_utc": "2026-11-03T04:32:06"
 }
