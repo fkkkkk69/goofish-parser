@@ -1,32 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 0,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
-  "undercover": 30
+  "undercover": 60
  },
- "new_items": 24,
+ "new_items": 39,
  "subscribers": 3,
- "sent": 24,
+ "sent": 9,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥230 | 全新  圣*兰 LE CASS*ANDRE 男士撞色织带立领 运动夹克 休闲拉链",
-  "saint laurent | ¥6499 | 2890 SAINT LAURENT圣罗兰 包盖式 牛皮 豆 腐包 迷你 女款 ",
-  "saint laurent | ¥4600 | 圣罗兰  链条包 17年编码 圣罗兰/Saint laurent  442906",
-  "saint laurent | ¥5500 | 99新圣罗兰马鞍腋下黑金 编码：GNB619740.0523 入库:164847",
-  "saint laurent | ¥8500 | 98新  圣罗兰云朵小号  黑黑 编码： ALM577476.1021 入库: ",
-  "saint laurent | ¥6700 | 98新 圣罗兰水桶  黑金 编码：后四位0923 入库:  124390 存档：",
-  "saint laurent | ¥6200 | 圣罗兰 ysl 全新 黑色购物袋 全套 经典SHOPPING系列 皮质软糯 容量",
-  "saint laurent | ¥4999 | YSL /圣罗兰Nolita mini 黑金链条包单肩包斜挎 包，98新，尺寸："
+  "junya watanabe | ¥1097.77 | JUNYA WATANABE COMME des GARÇONS 皮革包 26S",
+  "junya watanabe | ¥959.80 | Junya Watanabe Comme des Garçons 扭纹长开衫背面",
+  "junya watanabe | ¥775.84 | JUNYA WATANABE 男士 LACOSTE 夹克 规格：M○产品描述【品",
+  "junya watanabe | ¥6938.50 | JUNYA WATANABE MA-1 飞行夹克 规格：S- 品牌：JUNYA ",
+  "junya watanabe | ¥1120.77 | JUNYA WATANABE COMME des GARÇONS 外套 规格：X",
+  "junya watanabe | ¥1946.75 | MONCLER × COMME des GARCONS JUNYA WATANA",
+  "junya watanabe | ¥2100.35 | 全新！eYe JUNYA WATANABE × PENDLETON T恤 规格：",
+  "junya watanabe | ¥1461.09 | Junya Watanabe x Comme des Garçons AD202"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
- "zero_keywords": 1,
- "error_samples": [
-  "empty result, stderr: "
- ],
- "finished_utc": "2026-11-03T14:02:54"
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-11-03T14:33:03"
 }
