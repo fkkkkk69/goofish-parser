@@ -1,30 +1,27 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
-  "celine": 60,
+  "saint laurent": 30,
+  "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 41,
+ "new_items": 5,
  "subscribers": 3,
- "sent": 38,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥5899 | Yves Saint Laurent圣罗兰白色链条包，圣罗兰 /YSL 20年N",
-  "saint laurent | ¥6199 | YSL圣罗兰黑色鳄鱼纹链条包，圣罗兰/YSL 22年Kate 中号流苏链条包 黑",
-  "saint laurent | ¥390 | 【正品几乎全新】YSL圣罗兰蓝色羊毛毛衣 M码 保存很好，面料软糯不扎皮肤，穿着",
-  "saint laurent | ¥8000 | YSL/圣罗兰 99新 黑金 CASSANDRE 金属徽标链 条鳄鱼压纹 亮面牛",
-  "saint laurent | ¥560 | YSL尖头细跟高筒靴|秋冬显腿长必备 +秋冬必备的显腿长神器来啦！YSL这款高筒",
-  "saint laurent | ¥69 | YSL圣罗兰马海毛混纺黑白撞色圆领毛衣 S码 专柜正品 成色 很新深灰配米白拼接",
-  "saint laurent | ¥3650 | YSL Yves Saint Laurent 圣罗兰 左岸系 列 走秀款酒红色丝",
-  "saint laurent | ¥540 | YSL圣罗兰黑色流苏烟盒包，经典款，银色蛇骨链条+流苏装饰， 链条一端断了，设计"
+  "celine | ¥2000 | CELINE 条纹 羊毛毛衣外套 本人专柜购入自穿闲置的，保真！M码，宽松，短款",
+  "celine | ¥600 | 二手 14年 Celine 赛琳 Trio牛皮 三层拉链 单 肩包 风琴包  蓝",
+  "junya watanabe | ¥3980.56 | JUNYA WATANABE COMME des GARCONS 毛毡风衣，黑色",
+  "undercover | ¥110 | undercover 2码 正反两穿 仅帽子拉绳丢了，其他都完好，99新，穿过一",
+  "undercover | ¥96 | Undercover 05ss 基础白色微喇裤 小年 仅上身一次 一直闲置在衣柜"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-04T05:02:49"
+ "finished_utc": "2026-11-04T05:32:20"
 }
