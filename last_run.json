@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 18,
  "subscribers": 3,
- "sent": 3,
+ "sent": 18,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥198 | 41码YSL伊夫圣罗兰 男士立领短袖衬衫薄款，意大利产，（1 6码），100%纯",
-  "saint laurent | ¥900 | Saint Laurent 圣罗兰厚底乐福皮鞋 意大利产，3 9码。皮质超好，成",
-  "celine | ¥5800 | 全新现货 赛琳CELINE 凯旋门老花水桶包小号 经典满印老花涂层帆布拼棕色牛皮"
+  "saint laurent | ¥637 | 全新闲置出 Saint Laure* 2026 秋冬复古字母 全新闲置出 Sai",
+  "saint laurent | ¥437 | Saint Laurent* YS1  字母跟高跟凉鞋 Saint Lauren",
+  "saint laurent | ¥299 | 全新YSL圣罗兰Jamie黑金福袋托特包，羊皮材质，五金保护 膜都在，经典菱格纹",
+  "saint laurent | ¥6130 | YSL 圣罗兰 黑金 mayon 水桶包 尺寸20*27*1 2 附件 肩带",
+  "saint laurent | ¥7800 | 圣罗兰牛皮信封包中号，得物购入，黑色V纹牛皮，链条肩带，气质 感满满，装逼背了几",
+  "saint laurent | ¥169 | 闲置二手YSL圣罗兰Niki黑色链条包，中号，黑银配色，羊皮 材质，容量大，手机",
+  "saint laurent | ¥159 | 闲置二手 YSL圣罗兰黑色鳄鱼纹链条包，流苏装饰，链条肩带， 容量适中，手机钱包",
+  "saint laurent | ¥888 | Saint Lauren*ysl26ss早秋新款字母异形跟尖 Saint Lau"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-04T00:32:45"
+ "finished_utc": "2026-11-04T01:02:53"
 }
