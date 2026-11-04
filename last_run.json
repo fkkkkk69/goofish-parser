@@ -1,25 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 3,
+ "new_items": 33,
  "subscribers": 3,
- "sent": 1,
+ "sent": 31,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥160 | 图1-3 Saint Laurent牛仔裤，蓝色修身款，做旧 破洞设计，裤型贴合",
-  "undercover | ¥66.56 | 突然找到这件外套sold~闲着不如出了 借图出undercover 18ss静谧",
-  "undercover | ¥109 | （急出）Undercover Scab Giz柄元素多口袋宽 松长裤 Peace"
+  "saint laurent | ¥1880 | 出一全新YSL圣罗兰 Le5A70 单肩腋下包 尺寸：23x 16x6.5cm#",
+  "saint laurent | ¥5800 | 圣罗兰/Saint laurent SAC DE JOUR系 列 风琴包 底长2",
+  "saint laurent | ¥4000 | YSL圣罗兰Kate小号鳄鱼压纹流苏包，墨绿色，经典链条肩带 ，流苏设计，容量日",
+  "saint laurent | ¥3000 | YSL 圣罗兰 Saint Laurent  黑金mini 流苏相机包 尺寸：1",
+  "saint laurent | ¥2100 | SAINT LAURENT圣罗兰 YSL日落包，闪亮鳄鱼压纹 小牛皮 链条手提斜",
+  "saint laurent | ¥10300 | 商品名称：圣罗兰云朵包26年8月票 品牌：圣罗兰/Saint Laurent 品",
+  "saint laurent | ¥2000 | YSL圣罗兰黑金手拿包 加链条可斜挎，99新韩国专柜买的，一次都没有背出门过。有",
+  "saint laurent | ¥1100 | Saint LaurentYSL圣罗兰尖头细跟长靴及膝靴高筒 靴瘦瘦靴品质至上不"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-04T07:32:18"
+ "finished_utc": "2026-11-04T08:02:47"
 }
