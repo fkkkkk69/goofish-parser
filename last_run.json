@@ -1,30 +1,25 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 60,
+  "saint laurent": 30,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 8,
+ "new_items": 3,
  "subscribers": 3,
- "sent": 6,
+ "sent": 3,
  "send_failed": 0,
  "sample_new": [
-  "saint laurent | ¥4999 | 圣罗兰/Saint laurent YSL 绿鳄鱼 Kate 流苏包 19年编码",
-  "saint laurent | ¥4999 | 圣罗兰/Saint laurent YSL 绿鳄鱼 Kate 流苏包 19年编码",
-  "saint laurent | ¥228 | YSL圣罗兰hobo腋下水桶包，黑色 米色 红色可选 皮质柔 软 金色YSL l",
-  "saint laurent | ¥450 | 秒价！saint laurent slp16ss黑鳞片拼牛皮 高帮sl37板鞋s",
-  "saint laurent | ¥699 | 正品SaintLaurent slp Andy 休闲 低帮 小白鞋 Size 4",
-  "celine | ¥650 | celine老花中古包 配皮补色护理过，其它细节如图，不议价不退换",
-  "number nine | ¥270 | numbernine羽毛夹克+非常帅气的一款+现货400多的 东西+全新还未到+",
-  "undercover | ¥170 | 毅轩undercover68蓝线 0下水 就拍照片的时候穿过 一次一直放在柜子里"
+  "saint laurent | ¥198 | 41码YSL伊夫圣罗兰 男士立领短袖衬衫薄款，意大利产，（1 6码），100%纯",
+  "saint laurent | ¥900 | Saint Laurent 圣罗兰厚底乐福皮鞋 意大利产，3 9码。皮质超好，成",
+  "celine | ¥5800 | 全新现货 赛琳CELINE 凯旋门老花水桶包小号 经典满印老花涂层帆布拼棕色牛皮"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-04T00:02:17"
+ "finished_utc": "2026-11-04T00:32:45"
 }
