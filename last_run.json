@@ -1,27 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 30,
+  "saint laurent": 60,
   "celine": 30,
   "junya watanabe": 30,
   "number nine": 30,
   "undercoverism": 30,
   "undercover": 30
  },
- "new_items": 5,
+ "new_items": 13,
  "subscribers": 3,
- "sent": 3,
+ "sent": 10,
  "send_failed": 0,
  "sample_new": [
-  "celine | ¥2000 | CELINE 条纹 羊毛毛衣外套 本人专柜购入自穿闲置的，保真！M码，宽松，短款",
-  "celine | ¥600 | 二手 14年 Celine 赛琳 Trio牛皮 三层拉链 单 肩包 风琴包  蓝",
-  "junya watanabe | ¥3980.56 | JUNYA WATANABE COMME des GARCONS 毛毡风衣，黑色",
-  "undercover | ¥110 | undercover 2码 正反两穿 仅帽子拉绳丢了，其他都完好，99新，穿过一",
-  "undercover | ¥96 | Undercover 05ss 基础白色微喇裤 小年 仅上身一次 一直闲置在衣柜"
+  "saint laurent | ¥11500 | 全新带票SAINT LAURENT圣罗兰 Le 5 A 7 做旧 内侧拉链口袋 ",
+  "saint laurent | ¥14900 | 全新26款带票SAINT LAURENT圣罗兰 Niki V 型设计链条绗缝哑光",
+  "saint laurent | ¥335 | YSL圣罗兰Jamie链条包，黑色羊皮，金色链条，经典菱格纹 ，容量大，通勤出街",
+  "saint laurent | ¥3500 | 商品名称：圣罗兰信封包18年 品牌：圣罗兰/Saint La urent 品类：",
+  "saint laurent | ¥8000 | 商品名称：圣罗兰Niki19年 品牌：圣罗兰/Saint L aurent 品类",
+  "saint laurent | ¥89 | YSL圣罗兰黑色链条包，成色还可以，皮质有做旧感，链条肩带， 容量适中，手机钱包",
+  "saint laurent | ¥3999 | SAINT LAURENT圣罗兰 YSL Sade系列  羊 保真 带鉴定图好评",
+  "saint laurent | ¥300 | 出YSL圣罗兰牛仔裤，宋佳、古力娜扎同款！26码（腰围69臀 围97裤长104）"
  ],
  "last_alert_utc": null,
  "empty_streak": 0,
  "zero_keywords": 0,
  "error_samples": [],
- "finished_utc": "2026-11-04T05:32:20"
+ "finished_utc": "2026-11-04T06:02:27"
 }
