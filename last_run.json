@@ -1,24 +1,30 @@
 {
  "keywords_total": 6,
  "per_keyword_items": {
-  "saint laurent": 0,
-  "celine": 0,
-  "junya watanabe": 0,
-  "number nine": 0,
-  "undercoverism": 0,
-  "undercover": 0
+  "saint laurent": 60,
+  "celine": 30,
+  "junya watanabe": 30,
+  "number nine": 30,
+  "undercoverism": 30,
+  "undercover": 30
  },
- "new_items": 0,
- "subscribers": null,
- "sent": 0,
+ "new_items": 109,
+ "subscribers": 3,
+ "sent": 82,
  "send_failed": 0,
- "sample_new": [],
- "last_alert_utc": "2026-11-09T06:33:31",
- "empty_streak": 189,
- "zero_keywords": 6,
- "error_samples": [
-  "rc=1:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/xianyu_cli/scraper.py\", line 152, in scrape_keyword\n    raise RuntimeError(\nRuntimeError: 闲鱼搜索接口要求登录校验，当前保存的会话还不能直接搜索。请重新执行 `xianyu login --qrcode`，确认浏览器里已经真正登录成功后再回终端保存。\n"
+ "sample_new": [
+  "saint laurent | ¥50 | 包邮到家 YSL圣罗兰男士双层夹克 175/96A 黑色带帽 款 胸围114㎝衣",
+  "saint laurent | ¥108 | 圣罗兰slp16ss猫眼流苏破坏牛仔衬衫 黑色做旧款，袖子破坏+流苏毛边，猫眼扣",
+  "saint laurent | ¥424 | SaintLaurent 16fw 黑白全皮棒球服皮衣 wind第一批全皮棒球服",
+  "saint laurent | ¥350 | Saint Laurent D04机车裤 ｜mipu出品 28码 膝盖微破皮 这",
+  "saint laurent | ¥590 | 超低价急出kk Saint Laurent Paris 血牙 夹克 黄金46码 ",
+  "saint laurent | ¥799 | Saint Laurent slp 13fw纯黑衬衫 码数：39成色很新，圣罗兰",
+  "saint laurent | ¥288 | 全新Saint Laurent圣罗兰SL61男士低帮板鞋，三 色可选：黑色、白色",
+  "saint laurent | ¥550 | Saint+Laurent 圣罗兰+YSL+slp 男女同款迷彩衬衣、很薄 39"
  ],
- "session_suspect": true,
- "finished_utc": "2026-11-09T11:03:32"
+ "last_alert_utc": "2026-11-09T06:33:31",
+ "empty_streak": 0,
+ "zero_keywords": 0,
+ "error_samples": [],
+ "finished_utc": "2026-11-09T11:33:45"
 }
