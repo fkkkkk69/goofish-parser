@@ -14,11 +14,11 @@
  "send_failed": 0,
  "sample_new": [],
  "last_alert_utc": "2026-11-12T06:03:30",
- "empty_streak": 126,
+ "empty_streak": 127,
  "zero_keywords": 6,
  "error_samples": [
   "rc=1:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/xianyu_cli/scraper.py\", line 152, in scrape_keyword\n    raise RuntimeError(\nRuntimeError: 闲鱼搜索接口要求登录校验，当前保存的会话还不能直接搜索。请重新执行 `xianyu login --qrcode`，确认浏览器里已经真正登录成功后再回终端保存。\n"
  ],
  "session_suspect": true,
- "finished_utc": "2026-11-12T06:33:33"
+ "finished_utc": "2026-11-12T07:02:46"
 }
